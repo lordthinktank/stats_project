@@ -1,0 +1,176 @@
+,attack,classes,collectionText,cost,dbfId,durability,dust,entourage,faction,flavor,health,howToEarnGolden,id,mechanics,multiClassGroup,name,overload,playRequirements,playerClass,race,rarity,set,spellDamage,text,type
+7,,,,,2452.0,,,,,,50.0,,BRMA08_1H,,,General Drakkisath,,,NEUTRAL,,,BRM,,,HERO
+22,,,,,2357.0,,,,,,30.0,,BRMA11_1,,,Vaelastrasz the Corrupt,,,NEUTRAL,,,BRM,,,HERO
+24,,,,,1837.0,,,,,,30.0,,NAX1_01,,,Anub'Rekhan,,{'REQ_NUM_MINION_SLOTS': 1},NEUTRAL,,,NAXX,,,HERO
+47,,,,,17099.0,,,,,,30.0,,LOEA08_01,,,Archaedas,,,NEUTRAL,,,LOE,,,HERO
+52,,,,,2147.0,,,,,,45.0,,NAX15_01H,,,Kel'Thuzad,,,NEUTRAL,,,NAXX,,,HERO
+53,,,,,1325.0,,,,,,30.0,,TU4a_006,,,Jaina Proudmoore,,,MAGE,,COMMON,MISSIONS,,,HERO
+55,,,,,38554.0,,,,,,30.0,,LOEA05_01h,,,Chieftain Scarvash,,,NEUTRAL,,,LOE,,,HERO
+78,,,,,40079.0,,,,,,60.0,,KARA_00_01H,,,Prince Malchezaar,,,NEUTRAL,,,KARA,,,HERO
+98,,,,,1827.0,,,,,,30.0,,NAX12_01,,,Gluth,,,NEUTRAL,,,NAXX,,,HERO
+106,,,,,38511.0,,,,,,100.0,,LOEA04_01h,,,Temple Escape,,,NEUTRAL,,,LOE,,,HERO
+125,,,,,39644.0,,,,,,30.0,,KARA_09_01,,,Terestian Illhoof,,,NEUTRAL,,,KARA,,,HERO
+137,,,,,1301.0,,,,,,10.0,,TU4a_001,,,Hogger,,,NEUTRAL,,COMMON,MISSIONS,,,HERO
+180,,,,,41115.0,,,,,,0.0,,KARA_00_03c,,,Medivh,,,NEUTRAL,,,KARA,,,HERO
+186,,,,,2140.0,,,,,,45.0,,NAX12_01H,,,Gluth,,,NEUTRAL,,,NAXX,,,HERO
+239,,,,,2122.0,,,,,,14.0,,NAX9_01H,,,Baron Rivendare,,,NEUTRAL,,,NAXX,,,HERO
+241,,,,,2474.0,,,,,,30.0,,BRMA16_1H,,,Atramedes,,,NEUTRAL,,,BRM,,,HERO
+258,,,,,39542.0,,,,,,20.0,,KAR_a10_Boss2,,,Black King,,,NEUTRAL,,,KARA,,,HERO
+279,,,,,1899.0,,,,,,30.0,,NAX14_01,,,Sapphiron,,,NEUTRAL,,,NAXX,,,HERO
+326,,,,,40060.0,,,,,,30.0,,KARA_08_01H,,,Netherspite,,,NEUTRAL,,,KARA,,,HERO
+335,,,,,2454.0,,,,,,30.0,,BRMA10_1H,,,Razorgore the Untamed,,,NEUTRAL,,,BRM,,,HERO
+351,,,,,2313.0,,,,,,30.0,,BRMA01_1,['AI_MUST_PLAY'],,Coren Direbrew,,,NEUTRAL,,,BRM,,,HERO
+356,,,,,40082.0,,,,,,30.0,,KAR_A02_12H,,,Silverware Golem,,,NEUTRAL,,,KARA,,,HERO
+384,,,,,2464.0,,,,,,30.0,,BRMA13_1H,,,Lord Victor Nefarius,,,NEUTRAL,,,BRM,,,HERO
+440,,,,,2449.0,,,,,,30.0,,BRMA06_3H,,,Ragnaros the Firelord,,,NEUTRAL,,,BRM,,,HERO
+485,,,,,35933.0,,,,,,30.0,,TB_MechWar_Boss2,,,Boom Bot,,,NEUTRAL,,FREE,TB,,,HERO
+507,,,,,40088.0,,,,,,20.0,,KAR_a10_Boss2H,,,Black King,,,NEUTRAL,,,KARA,,,HERO
+511,,,,,2457.0,,,,,,60.0,,BRMA12_1H,,,Chromaggus,,,NEUTRAL,,,BRM,,,HERO
+514,,,,,19291.0,,,,,,30.0,,LOEA15_1,,,Rafaam,,,NEUTRAL,,,LOE,,,HERO
+530,,,,,38711.0,,,"['LOEA16_18H', 'LOEA16_19H', 'LOEA16_21H', 'LOEA16_22H', 'LOEA16_23H', 'LOEA16_24H', 'LOEA16_25H', 'LOEA16_26H', 'LOEA16_27H']",,,30.0,,LOEA16_1H,,,Rafaam,,,NEUTRAL,,,LOE,,,HERO
+537,,,,,39721.0,,,,,,30.0,,KAR_A02_12,,,Silverware Golem,,,NEUTRAL,,,KARA,,,HERO
+545,,,,,2829.0,,,,,,30.0,,HERO_08a,,,Medivh,,,MAGE,,EPIC,HERO_SKINS,,,HERO
+562,,,,,2380.0,,,"['BRMA13_8', 'BRMA13_7', 'BRMA13_5', 'BRMA13_6']",,,30.0,,BRMA13_3,,,Nefarian,,,NEUTRAL,,,BRM,,,HERO
+600,,,,,38704.0,,,,,,30.0,,LOEA13_1h,,,Skelesaurus Hex,,,NEUTRAL,,,LOE,,,HERO
+616,,,,,2431.0,,,,,,15.0,,BRMA17_3,,,Onyxia,,,NEUTRAL,,,BRM,,,HERO
+632,,,,,40735.0,,,"['KAR_073', 'KAR_075', 'KAR_076', 'KAR_077', 'KAR_091']",,,30.0,,KARA_13_06H,,,Prince Malchezaar,,,NEUTRAL,DEMON,,KARA,,,HERO
+653,,,,,16204.0,,,,,,80.0,,LOEA07_02,,,Mine Shaft,,,NEUTRAL,,,LOE,,,HERO
+666,,,,,38707.0,,,,,,30.0,,LOEA14_1H,,,The Steel Sentinel,,,NEUTRAL,,,LOE,,,HERO
+684,,,,,1667.0,,,,,,25.0,,TU4f_001,,,Lorewalker Cho,,,NEUTRAL,,,MISSIONS,,,HERO
+710,,,,,38480.0,,,,,,30.0,,LOEA01_01h,,,Sun Raider Phaerix,,,NEUTRAL,,,LOE,,,HERO
+712,,,,,2354.0,,,,,,30.0,,BRMA10_1,,,Razorgore the Untamed,,,NEUTRAL,,,BRM,,,HERO
+754,,,,,39755.0,,,,,,30.0,,KARA_00_01,,,Prince Malchezaar,,,NEUTRAL,,,KARA,,,HERO
+762,,,,,40183.0,,,,,,30.0,,HERO_02a,,,Morgl the Oracle,,,SHAMAN,,EPIC,HERO_SKINS,,,HERO
+776,,,,,2473.0,,,,,,30.0,,BRMA15_1H,,,Maloriak,,,NEUTRAL,,,BRM,,,HERO
+798,,,,,38592.0,,,,,,30.0,,LOEA08_01h,,,Archaedas,,,NEUTRAL,,,LOE,,,HERO
+803,,,,,1900.0,,,,,,30.0,,NAX15_01,,,Kel'Thuzad,,,NEUTRAL,,,NAXX,,,HERO
+804,,,,,31.0,,,,,,30.0,,HERO_05,,,Rexxar,,,HUNTER,,FREE,CORE,,,HERO
+807,,,,,2328.0,,,,,,30.0,,BRMA05_1,,,Baron Geddon,,,NEUTRAL,,,BRM,,,HERO
+820,,,,,39678.0,,,,,,30.0,,KARA_08_01,,,Netherspite,,,NEUTRAL,,,KARA,,,HERO
+826,,,,,40264.0,,,,,,50.0,,KARA_04_01heroic,,,The Crone,,,NEUTRAL,,,KARA,,,HERO
+827,,,,,2430.0,,,,,,30.0,,BRMA17_2,,,Nefarian,,,NEUTRAL,,,BRM,,,HERO
+830,,,,,38619.0,,,,,,30.0,,LOEA12_1H,,,Lady Naz'jar,,,NEUTRAL,,,LOE,,,HERO
+844,,,,,2443.0,,,,,,45.0,,BRMA04_1H,,,Garr,,,NEUTRAL,,,BRM,,,HERO
+882,,,,,2438.0,,,,,,30.0,,BRMA01_1H,['AI_MUST_PLAY'],,Coren Direbrew,,,NEUTRAL,,,BRM,,,HERO
+896,,,,,40078.0,,,,,,30.0,,KARA_00_03H,,,Medivh,,,MAGE,,,KARA,,,HERO
+902,,,,,41668.0,,,,,,10.0,,KAR_a10_Boss2H_TB,,,Black King,,,NEUTRAL,,,TB,,,HERO
+916,,,,,38677.0,,,,,,80.0,,LOEA07_02h,,,Mine Shaft,,,NEUTRAL,,,LOE,,,HERO
+929,,,,,39117.0,,,,,,30.0,,HERO_08b,,,Khadgar,,,MAGE,,EPIC,HERO_SKINS,,,HERO
+944,,,,,40087.0,,,,,,20.0,,KAR_a10_Boss1H,,,White King,,,NEUTRAL,,,KARA,,,HERO
+952,,,,,1066.0,,,,,,30.0,,HERO_02,,,Thrall,,,SHAMAN,,FREE,CORE,,,HERO
+956,,,,,492.0,,,,,,15.0,,EX1_323h,,,Lord Jaraxxus,,,WARLOCK,DEMON,LEGENDARY,EXPERT1,,,HERO
+962,,,,,38976.0,,,,,,30.0,,TB_BlingBrawl_Hero1,,,Valeera Sanguinar,,{'REQ_WEAPON_EQUIPPED': 0},ROGUE,,FREE,TB,,,HERO
+1004,,,,,39299.0,,,,,,20.0,,KARA_05_01h,,,Big Bad Wolf,,,NEUTRAL,,COMMON,KARA,,,HERO
+1006,,,,,40065.0,,,,,,30.0,,KARA_12_01H,,,Shade of Aran,,,MAGE,,,KARA,,,HERO
+1050,,,,,17192.0,,,,,,30.0,,LOEA12_1,,,Lady Naz'jar,,,NEUTRAL,,,LOE,,,HERO
+1062,,,,,1636.0,,,,,,30.0,,TU4e_001,,,Illidan Stormrage,,,HUNTER,,,MISSIONS,,,HERO
+1098,,,,,2120.0,,,,,,45.0,,NAX8_01H,,,Gothik the Harvester,,,NEUTRAL,,,NAXX,,,HERO
+1115,,,,,2378.0,,,,,,30.0,,BRMA13_1,,,Lord Victor Nefarius,,,NEUTRAL,,,BRM,,,HERO
+1131,,,,,1481.0,,,,,,26.0,,TU4c_001,,,King Mukla,,,NEUTRAL,,COMMON,MISSIONS,,,HERO
+1135,,,,,2143.0,,,,,,45.0,,NAX13_01H,,,Thaddius,,,NEUTRAL,,,NAXX,,,HERO
+1168,,,,,2146.0,,,,,,45.0,,NAX14_01H,,,Sapphiron,,,NEUTRAL,,,NAXX,,,HERO
+1188,,,,,1820.0,,,,,,30.0,,NAX5_01,,,Heigan the Unclean,,,WARLOCK,,,NAXX,,,HERO
+1237,,,,,39064.0,,,,,,30.0,,TB_KTRAF_H_1,,,Kel'Thuzad,,,NEUTRAL,,FREE,TB,,,HERO
+1260,,,,,40275.0,,,,,,15.0,,KARA_06_02heroic,,,Julianne,,,NEUTRAL,,,KARA,,,HERO
+1278,,,,,35894.0,,,,,,30.0,,TB_MechWar_Boss1,,,Annoy-o-Tron,,,NEUTRAL,,FREE,TB,,,HERO
+1305,,,,,2440.0,,,,,,30.0,,BRMA02_1H,,,High Justice Grimstone,,,NEUTRAL,,,BRM,,,HERO
+1308,,,,,39541.0,,,,,,20.0,,KAR_a10_Boss1,,,White King,,,NEUTRAL,,,KARA,,,HERO
+1315,,,,,41106.0,,,,,,20.0,,KARA_05_01b,,,Kindly Grandmother,,,NEUTRAL,,COMMON,KARA,,,HERO
+1319,,,,,1819.0,,,,,,30.0,,NAX4_01,,,Noth the Plaguebringer,,,MAGE,,,NAXX,,,HERO
+1376,,,,,38709.0,,,,,,30.0,,LOEA15_1H,,,Rafaam,,,NEUTRAL,,,LOE,,,HERO
+1388,,,,,15352.0,,,,,,30.0,,LOEA05_01,,,Chieftain Scarvash,,,NEUTRAL,,,LOE,,,HERO
+1399,,,,,2468.0,,,,,,30.0,,BRMA14_1H,,,Omnotron Defense System,,,NEUTRAL,,,BRM,,,HERO
+1411,,,,,1602.0,,,,,,20.0,,TU4d_001,,,Hemet Nesingwary,,,HUNTER,,COMMON,MISSIONS,,,HERO
+1418,,,,,637.0,,,,,,30.0,,HERO_08,,,Jaina Proudmoore,,,MAGE,,FREE,CORE,,,HERO
+1458,,,,,1822.0,,,,,,40.0,,NAX7_01,,,Instructor Razuvious,,,NEUTRAL,,,NAXX,,,HERO
+1469,,,,,42049.0,,,,,,30.0,,TB_FactionWar_Hero_Annoy_Update,,,Annoy-o-Tron Prime,,,NEUTRAL,,,TB,,,HERO
+1492,,,,,38607.0,,,,,,30.0,,LOEA09_1H,,,Lord Slitherspear,,,NEUTRAL,,,LOE,,,HERO
+1515,,,,,2528.0,,,,,,30.0,,BRMA09_1H,,,Rend Blackhand,,,NEUTRAL,,,BRM,,,HERO
+1530,,,,,2104.0,,,,,,45.0,,NAX2_01H,,,Grand Widow Faerlina,,,NEUTRAL,,,NAXX,,,HERO
+1544,,,,,39633.0,,,,,,30.0,,KAR_A01_01,,,Magic Mirror,,,NEUTRAL,,,KARA,,,HERO
+1552,,,,,39770.0,,,,,,15.0,,KARA_13_01,,,Nazra Wildaxe,,,WARRIOR,,,KARA,,,HERO
+1600,,,,,41921.0,,,,,,10.0,,KAR_a10_Boss1H_TB,,,White King,,,NEUTRAL,,,TB,,,HERO
+1610,,,,,39099.0,,,,,,60.0,,TB_KTRAF_H_2,,,Rafaam,,,NEUTRAL,,FREE,TB,,,HERO
+1650,,,,,2385.0,,,,,,30.0,,BRMA14_1,,,Omnotron Defense System,,,NEUTRAL,,,BRM,,,HERO
+1675,,,,,39282.0,,,,,,30.0,,KARA_04_01h,,,The Crone,,,NEUTRAL,,COMMON,KARA,,,HERO
+1678,,,,,40319.0,,,,,,40.0,,KARA_09_01heroic,,,Terestian Illhoof,,,NEUTRAL,,,KARA,,,HERO
+1681,,,,,813.0,,,,,,30.0,,HERO_09,,,Anduin Wrynn,,,PRIEST,,FREE,CORE,,,HERO
+1710,,,,,1382.0,,,,,,20.0,,TU4b_001,,,Millhouse Manastorm,,,MAGE,,COMMON,MISSIONS,,,HERO
+1742,,,,,2337.0,,,,,,30.0,,BRMA07_1,,,Highlord Omokk,,,NEUTRAL,,,BRM,,,HERO
+1750,,,,,2450.0,,,,,,30.0,,BRMA07_1H,,,Highlord Omokk,,,NEUTRAL,,,BRM,,,HERO
+1795,,,,,38982.0,,,,,,30.0,,TB_FW_Boom,,,Capt. Boom Bot,,,NEUTRAL,,,TB,,,HERO
+1838,,,,,40689.0,,,,,,30.0,,KARA_11_01heroic,,,Nightbane,,,NEUTRAL,,,KARA,,,HERO
+1841,,,,,2118.0,,,,,,99.0,,NAX6_01H,,,Loatheb,,,NEUTRAL,,,NAXX,,,HERO
+1845,,,,,893.0,,,,,,30.0,,HERO_07,,,Gul'dan,,,WARLOCK,,FREE,CORE,,,HERO
+1847,,,,,2113.0,,,,,,45.0,,NAX4_01H,,,Noth the Plaguebringer,,,MAGE,,,NAXX,,,HERO
+1869,,,,,2340.0,,,,,,50.0,,BRMA08_1,,,General Drakkisath,,,NEUTRAL,,,BRM,,,HERO
+1879,,,,,42157.0,,,,,,30.0,,TB_SPT_DPromo_Hero,,,Dark Wanderer,,,WARLOCK,,,TB,,,HERO
+1880,,,,,1825.0,,,,,,30.0,,NAX10_01,['AI_MUST_PLAY'],,Patchwerk,,,NEUTRAL,,,NAXX,,,HERO
+1884,,,,,2447.0,,,,,,30.0,,BRMA06_1H,,,Majordomo Executus,,,NEUTRAL,,,BRM,,,HERO
+1889,,,,,930.0,,,,,,30.0,,HERO_03,,,Valeera Sanguinar,,,ROGUE,,FREE,CORE,,,HERO
+1915,,,,,40270.0,,,,,,20.0,,KARA_05_01hheroic,,,Big Bad Wolf,,,NEUTRAL,,COMMON,KARA,,,HERO
+1930,,,,,2106.0,,,,,,45.0,,NAX3_01H,,,Maexxna,,,NEUTRAL,,,NAXX,,,HERO
+1944,,,,,39668.0,,,,,,30.0,,KARA_12_01,,,Shade of Aran,,,MAGE,,,KARA,,,HERO
+1952,,,,,2368.0,,,,,,30.0,,BRMA12_9,,,Chromatic Dragonkin,,,NEUTRAL,,,BRM,,,HERO
+1955,,,,,39647.0,,,,,,30.0,,KARA_09_02,,,Curator,,,NEUTRAL,,,KARA,,,HERO
+1957,,,,,38616.0,,,,,,30.0,,LOEA10_1H,,,Giantfin,,,NEUTRAL,,,LOE,,,HERO
+1959,,,,,19612.0,,,"['LOEA16_18', 'LOEA16_23', 'LOEA16_19', 'LOEA16_22', 'LOEA16_21', 'LOEA16_24', 'LOEA16_25', 'LOEA16_26', 'LOEA16_27']",,,30.0,,LOEA16_1,,,Rafaam,,,NEUTRAL,,,LOE,,,HERO
+1961,,,,,19116.0,,,,,,30.0,,LOEA13_1,,,Skelesaurus Hex,,,NEUTRAL,,,LOE,,,HERO
+1977,,,,,2360.0,,,,,,30.0,,BRMA12_1,,,Chromaggus,,,NEUTRAL,,,BRM,,,HERO
+1998,,,,,2131.0,,,,,,45.0,,NAX10_01H,['AI_MUST_PLAY'],,Patchwerk,,,NEUTRAL,,,NAXX,,,HERO
+2019,,,,,2318.0,,,,,,8.0,,BRM_027h,,,Ragnaros the Firelord,,,NEUTRAL,,,BRM,,,HERO
+2033,,,,,39775.0,,,"['KAR_073', 'KAR_075', 'KAR_076', 'KAR_077', 'KAR_091']",,,30.0,,KARA_13_06,,,Prince Malchezaar,,,NEUTRAL,DEMON,,KARA,,,HERO
+2044,,,,,39665.0,,,,,,30.0,,KARA_11_01,,,Nightbane,,,NEUTRAL,,,KARA,,,HERO
+2063,,,,,2134.0,,,,,,45.0,,NAX11_01H,,,Grobbulus,,,NEUTRAL,,,NAXX,,,HERO
+2086,,,,,1826.0,,,,,,30.0,,NAX11_01,,,Grobbulus,,,NEUTRAL,,,NAXX,,,HERO
+2122,,,,,24383.0,,,,,,30.0,,LOEA09_1,,,Lord Slitherspear,,,NEUTRAL,,,LOE,,,HERO
+2128,,,,,2334.0,,,,,,30.0,,BRMA06_1,,,Majordomo Executus,,,NEUTRAL,,,BRM,,,HERO
+2136,,,,,10109.0,,,,,,30.0,,LOEA10_1,,,Giantfin,,,NEUTRAL,,,LOE,,,HERO
+2150,,,,,1823.0,,,,,,30.0,,NAX8_01,,,Gothik the Harvester,,,NEUTRAL,,,NAXX,,,HERO
+2223,,,,,2102.0,,,,,,45.0,,NAX1h_01,,,Anub'Rekhan,,{'REQ_NUM_MINION_SLOTS': 1},NEUTRAL,,,NAXX,,,HERO
+2224,,,,,2446.0,,,,,,50.0,,BRMA05_1H,,,Baron Geddon,,,NEUTRAL,,,BRM,,,HERO
+2247,,,,,42050.0,,,,,,30.0,,TB_FW_Boom_Update,,,Capt. Boom Bot,,,NEUTRAL,,,TB,,,HERO
+2252,,,,,2344.0,,,,,,30.0,,BRMA09_1,,,Rend Blackhand,,,NEUTRAL,,,BRM,,,HERO
+2295,,,,,39640.0,,,,,,30.0,,KARA_07_01,,,Curator,,,NEUTRAL,,,KARA,,,HERO
+2300,,,,,40734.0,,,,,,15.0,,KARA_13_01H,,,Nazra Wildaxe,,,WARRIOR,,,KARA,,,HERO
+2302,,,,,2400.0,,,,,,30.0,,BRMA16_1,,,Atramedes,,,NEUTRAL,,,BRM,,,HERO
+2315,,,,,2828.0,,,,,,30.0,,HERO_01a,,,Magni Bronzebeard,,,WARRIOR,,EPIC,HERO_SKINS,,,HERO
+2328,,,,,2320.0,,,,,,30.0,,BRMA03_1,,,Emperor Thaurissan,,,NEUTRAL,,,BRM,,,HERO
+2342,,,,,40302.0,,,,,,40.0,,KARA_07_01heroic,,,Curator,,,NEUTRAL,,,KARA,,,HERO
+2344,,,,,2324.0,,,,,,30.0,,BRMA04_1,,,Garr,,,NEUTRAL,,,BRM,,,HERO
+2353,,,,,14018.0,,,,,,30.0,,LOEA01_01,,,Sun Raider Phaerix,,,NEUTRAL,,,LOE,,,HERO
+2364,,,,,1824.0,,,,,,7.0,,NAX9_01,,,Baron Rivendare,,,NEUTRAL,,,NAXX,,,HERO
+2370,,,,,39134.0,,,,,,1.0,,TB_SPT_Boss,,,City of Stormwind,,,NEUTRAL,,,TB,,,HERO
+2377,,,,,39560.0,,,,,,15.0,,KARA_06_02,,,Julianne,,,NEUTRAL,,,KARA,,,HERO
+2396,,,,,41887.0,,,,,,30.0,,HERO_09a,,,Tyrande Whisperwind,,,PRIEST,,EPIC,HERO_SKINS,,,HERO
+2398,,,,,1828.0,,,,,,30.0,,NAX13_01,,,Thaddius,,,NEUTRAL,,,NAXX,,,HERO
+2406,,,,,2827.0,,,,,,30.0,,HERO_04a,,,Lady Liadrin,,,PALADIN,,EPIC,HERO_SKINS,,,HERO
+2447,,,,,1821.0,,,,,,75.0,,NAX6_01,,,Loatheb,,,NEUTRAL,,,NAXX,,,HERO
+2462,,,,,274.0,,,,,,30.0,,HERO_06,,,Malfurion Stormrage,,,DRUID,,FREE,CORE,,,HERO
+2464,,,,,2826.0,,,,,,30.0,,HERO_05a,,,Alleria Windrunner,,,HUNTER,,EPIC,HERO_SKINS,,,HERO
+2490,,,,,2455.0,,,,,,30.0,,BRMA11_1H,,,Vaelastrasz the Corrupt,,,NEUTRAL,,,BRM,,,HERO
+2523,,,,,40084.0,,,,,,30.0,,KAR_A01_01H,,,Magic Mirror,,,NEUTRAL,,,KARA,,,HERO
+2536,,,,,1817.0,,,,,,30.0,,NAX2_01,,,Grand Widow Faerlina,,,NEUTRAL,,,NAXX,,,HERO
+2551,,,,,7.0,,,,,,30.0,,HERO_01,,,Garrosh Hellscream,,,WARRIOR,,FREE,CORE,,,HERO
+2559,,,,,19793.0,,,,,,30.0,,LOEA14_1,,,The Steel Sentinel,,,NEUTRAL,,,LOE,,,HERO
+2570,,,,,38466.0,,,,,,30.0,,LOEA02_01h,,,Zinaar,,,NEUTRAL,,,LOE,,,HERO
+2590,,,,,2396.0,,,,,,30.0,,BRMA15_1,,,Maloriak,,,NEUTRAL,,,BRM,,,HERO
+2599,,,,,2128.0,,,,,,55.0,,NAX7_01H,,,Instructor Razuvious,,,NEUTRAL,,,NAXX,,,HERO
+2615,,,,,42165.0,,,,,,30.0,,TB_SPT_DPromo_Hero2,['InvisibleDeathrattle'],,The Cow King,,,WARRIOR,,,TB,,,HERO
+2617,,,,,2116.0,,,,,,45.0,,NAX5_01H,,,Heigan the Unclean,,,WARLOCK,,,NAXX,,,HERO
+2637,,,,,2558.0,,,,,,30.0,,BRMA17_2H,,,Nefarian,,,NEUTRAL,,,BRM,,,HERO
+2651,,,,,2466.0,,,"['BRMA13_8', 'BRMA13_7', 'BRMA13_6', 'BRMA13_5']",,,30.0,,BRMA13_3H,,,Nefarian,,,NEUTRAL,,,BRM,,,HERO
+2659,,,,,16203.0,,,,,,30.0,,LOEA07_01,,,Mine Cart,,,NEUTRAL,,,LOE,,,HERO
+2674,,,,,2649.0,,,,,,60.0,,TBA01_1,,,Ragnaros the Firelord,,,NEUTRAL,,,TB,,,HERO
+2686,,,,,671.0,,,,,,30.0,,HERO_04,,,Uther Lightbringer,,,PALADIN,,FREE,CORE,,,HERO
+2702,,,,,2441.0,,,,,,30.0,,BRMA03_1H,,,Emperor Thaurissan,,,NEUTRAL,,,BRM,,,HERO
+2705,,,,,14193.0,,,,,,30.0,,LOEA02_01,,,Zinaar,,,NEUTRAL,,,LOE,,,HERO
+2714,,,,,2316.0,,,,,,30.0,,BRMA02_1,,,High Justice Grimstone,,,NEUTRAL,,,BRM,,,HERO
+2729,,,,,2560.0,,,,,,30.0,,BRMA17_3H,,,Onyxia,,,NEUTRAL,,,BRM,,,HERO
+2730,,,,,2336.0,,,,,,8.0,,BRMA06_3,,,Ragnaros the Firelord,,,NEUTRAL,,,BRM,,,HERO
+2750,,,,,1728.0,,,,,,10.0,,XXX_040,,,Hogger,,,WARRIOR,,,CHEAT,,,HERO
+2761,,,,,2652.0,,,,,,30.0,,TBA01_4,,,Nefarian,,,NEUTRAL,,,TB,,,HERO
+2766,,,,,42346.0,,,,,,30.0,,KAR_a10_Boss1H_TB22,,,White King,,,NEUTRAL,,,TB,,,HERO
+2786,,,,,16230.0,,,,,,100.0,,LOEA04_01,,,Temple Escape,,,NEUTRAL,,,LOE,,,HERO
+2791,,,,,39757.0,,,,,,30.0,,KARA_00_03,,,Medivh,,,MAGE,,,KARA,,,HERO
+2818,,,,,1818.0,,,,,,30.0,,NAX3_01,,,Maexxna,,,NEUTRAL,,,NAXX,,,HERO

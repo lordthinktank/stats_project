@@ -1,0 +1,755 @@
+,attack,classes,collectionText,cost,dbfId,durability,dust,entourage,faction,flavor,health,howToEarnGolden,id,mechanics,multiClassGroup,name,overload,playRequirements,playerClass,race,rarity,set,spellDamage,text,type
+0,,,,1.0,39762.0,,,,,,,,KARA_00_07,,,Astral Portal,,{'REQ_NUM_MINION_SLOTS': 1},MAGE,,,KARA,,Summon a random <b>Legendary</b> minion.,SPELL
+1,,,,0.0,313.0,,,,,,,,NEW1_008a,,,Ancient Teachings,,,DRUID,,,EXPERT1,,Draw a card.,SPELL
+16,,,,0.0,39044.0,,,,,,,,TB_PickYourFate_11rand,,,Dire Fate: Murlocs,,,NEUTRAL,,,TB,,Turn each minion in play into a 1/1 Murloc.,SPELL
+17,,,,2.0,2998.0,,,,,,,,LOE_007t,"['EVIL_GLOW', 'ImmuneToSpellpower']",,Cursed!,,,WARLOCK,,,LOE,,"While this is in your hand, take 2 damage at the start of your turn.",SPELL
+20,,,,4.0,1843.0,,,,,,,,PRO_001a,,,I Am Murloc,,{'REQ_NUM_MINION_SLOTS': 1},NEUTRAL,,,PROMO,,"Summon three, four, or five 1/1 Murlocs.",SPELL
+23,,,,1.0,38266.0,,"[100, 800, 20, 100]",,,"So you say you want an evolution. Well, you know. We all want to change the board.",,,OG_027,,,Evolve,,,SHAMAN,,RARE,OG,,Transform your minions into random minions that cost (1) more.,SPELL
+26,,,,6.0,40517.0,,"[100, 800, 20, 100]",,,Kazakus has a squad of imps bottling Felfire round-the-clock and he *still* can't keep up with demand.,,,CFM_094,,,Felfire Potion,,,WARLOCK,,RARE,GANGS,,Deal $5 damage to all characters.,SPELL
+31,,,,7.0,39715.0,,"[40, 400, 5, 50]",,,"Come to beautiful Firelands! Where it's <i>""Way nicer than the Abyssal Maw!""</i>",,"Crafting unlocked in the Prologue, in One Night in Karazhan.",KAR_076,,,Firelands Portal,,{'REQ_TARGET_TO_PLAY': 0},MAGE,,COMMON,KARA,,"Deal $5 damage. Summon a random
+5-Cost minion.",SPELL
+33,,,,2.0,2535.0,,"[40, 400, 5, 50]",,,Very dangerous when attached to a demonbomb.,,,AT_024,,,Demonfuse,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0, 'REQ_TARGET_WITH_RACE': 15}",WARLOCK,,COMMON,TGT,,Give a Demon +3/+3. Give your opponent a Mana Crystal.,SPELL
+41,,,,1.0,38938.0,,,,,,,,OG_080c,,,Bloodthistle Toxin,,"{'REQ_FRIENDLY_TARGET': 0, 'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",ROGUE,,,OG,,"Return a friendly minion to your hand.
+It costs (2) less.",SPELL
+42,,,,2.0,51.0,,,,,"Windfury is like Earthfury and Firefury, but more light and airy.",,Unlocked at Level 23.,CS2_039,,,Windfury,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",SHAMAN,,FREE,CORE,,Give a minion <b>Windfury</b>.,SPELL
+45,,,,0.0,9082.0,,,,,,,,LOE_110t,"['TOPDECK', 'ImmuneToSpellpower']",,Ancient Curse,,,NEUTRAL,,,LOE,,"When you draw this, take 7 damage and draw a card.",SPELL
+49,,,,9.0,38727.0,,"[400, 1600, 100, 400]",,,"""Hello. Misha, Leokk and Huffer aren't here right now, but if you leave a message we'll get back to you right away."" BEEP.",,,OG_211,,,Call of the Wild,,,HUNTER,,EPIC,OG,,Summon all three Animal Companions.,SPELL
+54,,,,2.0,40961.0,,,,,,,,TB_KaraPortal_002,,,Call Mediva,,{'REQ_MINION_TARGET': 0},NEUTRAL,,FREE,TB,,Summon a random Mediva,SPELL
+65,,,,0.0,38434.0,,"[400, 1600, 100, 400]",,,But the minion arrives covered in goo.,,,OG_101,,,Forbidden Shaping,,,PRIEST,,EPIC,OG,,Spend all your Mana. Summon a random minion that costs that much.,SPELL
+66,,,,4.0,250.0,,,,,"A good paladin has many tools.  Hammer of Wrath, Pliers of Vengeance, Hacksaw of Justice, etc.",,Unlocked at Level 32.,CS2_094,,,Hammer of Wrath,,{'REQ_TARGET_TO_PLAY': 0},PALADIN,,FREE,CORE,,"Deal $3 damage.
+Draw a card.",SPELL
+69,,,,10.0,41604.0,,,,,,,,CFM_621t15,,,Kazakus Potion,,,NEUTRAL,,,GANGS,,"{0}
+{1}",SPELL
+77,,,,5.0,1884.0,,,,,,,,NAX9_07,,,Mark of the Horsemen,,,NEUTRAL,,,NAXX,,Give your minions and your weapon +1/+1.,SPELL
+79,,,,2.0,2398.0,,,,,,,,BRMA15_3,,,Release the Aberrations!,,{'REQ_NUM_MINION_SLOTS': 1},NEUTRAL,,,BRM,,Summon 3 Aberrations.,SPELL
+82,,,,2.0,2641.0,,"[40, 400, 5, 50]",,,"You'll never guess what's in that conveniently bear-sized, bear-smelling box.",,,AT_060,['SECRET'],,Bear Trap,,,HUNTER,,COMMON,TGT,,"<b>Secret:</b> After your hero is attacked, summon a 3/3 Bear with <b>Taunt</b>.",SPELL
+87,,,,0.0,2221.0,,,,,,,,GVG_056t,"['TOPDECK', 'ImmuneToSpellpower']",,Burrowing Mine,,,WARRIOR,,,GVG,,"When you draw this, it explodes. You take 10 damage and draw a card.",SPELL
+94,,,<b>Choose One -</b> Summon a <b>Jade Golem</b>; or Shuffle 3 copies of this card into your deck.,1.0,40372.0,,"[100, 800, 20, 100]",,,Shuffle or no guts.,,,CFM_602,"['CHOOSE_ONE', 'JADE_GOLEM']",,Jade Idol,,,DRUID,,RARE,GANGS,,<b>Choose One -</b> Summon a{1} {0} <b>Jade Golem</b>; or Shuffle 3 copies of this card into your deck.,SPELL
+96,,,,3.0,2460.0,,,,,,,,BRMA12_4H,['EVIL_GLOW'],,Brood Affliction: Green,,,NEUTRAL,,,BRM,,"While this is in your hand, restore 6 health to your opponent at the start of your turn.",SPELL
+99,,,,1.0,982.0,,,,,"It starts with stealing a pen from work, and before you know it, BOOM!  Corrupted!",,Unlocked at Level 32.,CS2_063,,,Corruption,,"{'REQ_ENEMY_TARGET': 0, 'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",WARLOCK,,COMMON,CORE,,"Choose an enemy minion. At the start of your turn, destroy it.",SPELL
+114,,,,0.0,38989.0,,,,,,,,TB_GiftExchange_Snowball,,,Hardpacked Snowballs,,,NEUTRAL,,,TB,,Return 3 random enemy minions to your opponent's hand.,SPELL
+118,,,,0.0,2762.0,,,,,,,,TB_014,,,Choose a New Card!,,,NEUTRAL,,,TB,,Look at 3 random cards. Choose one and put it into your hand.,SPELL
+121,,,,1.0,2656.0,,,,,,,,TB_006,,,Big Banana,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,,TB,,Give a minion +2/+2.,SPELL
+127,,,,4.0,950.0,,,,,It's spells like these that make it hard for Warlocks to get decent help.,,Unlocked at Level 49.,CS2_062,,,Hellfire,,,WARLOCK,,FREE,CORE,,Deal $3 damage to ALL characters.,SPELL
+132,,,Polymorph a random enemy minion.,5.0,41617.0,,,,,,,,CFM_621t21,,,Mystic Wool,,{'REQ_MINIMUM_TOTAL_MINIONS': 1},NEUTRAL,,,GANGS,,Transform a random enemy minion into a 1/1 Sheep.,SPELL
+133,,,,0.0,41409.0,,,,,,,,CFM_602a,['JADE_GOLEM'],,Jade Idol,,,DRUID,,,GANGS,,Summon a{1} {0} <b>Jade Golem</b>.,SPELL
+138,,,,3.0,2301.0,,"[100, 800, 20, 100]",,,Demons are not angry most of the time. You have to play this card in order to really bring it out of them.,,"Crafting unlocked in Blackwing Lair, in the Blackrock Mountain adventure.",BRM_005,,,Demonwrath,,,WARLOCK,,RARE,BRM,,Deal $2 damage to all non-Demon minions.,SPELL
+140,,,,0.0,14285.0,,,,,,,,LOEA02_06,,,Wish for More Wishes,,,NEUTRAL,,,LOE,,Gain 2 Wishes.,SPELL
+147,,,,0.0,40040.0,,,,,,,,TB_ClassRandom_Priest,,,Second Class: Priest,,,PRIEST,,,TB,,Add Priest cards to your deck.,SPELL
+149,,,,0.0,41958.0,,,,,,,,CFM_308a,,,Forgotten Armor,,,DRUID,,,GANGS,,Gain 10 Armor.,SPELL
+153,,,,2.0,38591.0,,,,,,,,LOEA06_04h,,,Shattering Spree,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,,LOE,,"Destroy all Statues. For each destroyed, deal 3 damage.",SPELL
+161,,,,0.0,1726.0,,,,,,,,XXX_029,,,Opponent Concede,,,NEUTRAL,,,CHEAT,,Force your opponent to concede.,SPELL
+164,,,,4.0,943.0,,,,,"Given the number of kings who have been assassinated, are you sure you want their blessing?",,Unlocked at Level 49.,CS2_092,,,Blessing of Kings,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",PALADIN,,COMMON,CORE,,Give a minion +4/+4. <i>(+4 Attack/+4 Health)</i>,SPELL
+170,,,,0.0,39040.0,,,,,,,,TB_PickYourFate_7_2nd,,,Dire Fate: Manaburst,,,NEUTRAL,,,TB,,Minions gain <b>Deathrattle:</b> Random card in owner's hand costs (0).,SPELL
+173,,,,0.0,2371.0,,,,,,,,XXX_053,,,Armor 100,,"{'REQ_HERO_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,,CHEAT,,Give target Hero +100 Armor,SPELL
+174,,,,5.0,75.0,,"[400, 1600, 100, 400]",,,Do you know the first rule of Brawl Club?,,,EX1_407,,,Brawl,,{'REQ_MINIMUM_TOTAL_MINIONS': 2},WARRIOR,,EPIC,EXPERT1,,Destroy all minions except one. <i>(chosen randomly)</i>,SPELL
+178,,,,0.0,38284.0,,,,,,,,TB_CoOpBossSpell_2,,,Bomb Salvo,,,NEUTRAL,,,TB,,Deal Attack damage to up to 3 random targets.,SPELL
+181,,,,0.0,39877.0,,,,,,,,XXX_104,['ImmuneToSpellpower'],,Add 4 to Health.,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,COMMON,CHEAT,,Adds 4 health to a damaged character. Does NOT heal.,SPELL
+182,,,,3.0,2620.0,,"[400, 1600, 100, 400]",,,"I'm not a shaman or anything, but isn't Elemental Destruction the opposite of what they want to do?",,,AT_051,,,Elemental Destruction,5.0,,SHAMAN,,EPIC,TGT,,Deal $4-$5 damage to all minions. <b>Overload:</b> (5).,SPELL
+184,,,,3.0,38329.0,,"[100, 800, 20, 100]",,,The best part is the look on their face when you jump out of the cake! Err… corpse.,,,OG_045,,,Infest,,,HUNTER,,RARE,OG,,"Give your minions ""<b>Deathrattle:</b> Add a random Beast to your hand.""",SPELL
+187,,,,5.0,493.0,,"[400, 1600, 100, 400]",,,"""I think I'll just nap under these trees. Wait... AAAAAHHH!"" - Blinkfizz, the Unfortunate Gnome",,,EX1_571,,,Force of Nature,,{'REQ_NUM_MINION_SLOTS': 1},DRUID,,EPIC,EXPERT1,,Summon three 2/2 Treants.,SPELL
+192,,,,3.0,2476.0,,,,,,,,BRMA04_4H,,,Rock Out,2.0,,NEUTRAL,,,BRM,,Summon 3 Firesworn. <b>Overload:</b> (2),SPELL
+193,,,,2.0,38724.0,,"[40, 400, 5, 50]",,,WARNING: DO NOT TOUCH THE PURPLE BALL OF LIGHTNING,,,OG_206,,,Stormcrack,1.0,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",SHAMAN,,COMMON,OG,,Deal $4 damage to a minion. <b>Overload:</b> (1),SPELL
+195,,,,0.0,25091.0,,,,,,,,LOEA04_30,,,The Darkness,,,NEUTRAL,,,LOE,,<b>Take the Shortcut?</b>,SPELL
+200,,,,1.0,317.0,,,,,,,,TU4c_006,,,Bananas,,"{'REQ_FRIENDLY_TARGET': 0, 'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,COMMON,MISSIONS,,Give a friendly minion +1/+1. <i>(+1 Attack/+1 Health)</i>,SPELL
+207,,,,3.0,37346.0,,,,,,,,LOEA_01H,,,Looming Presence,,,NEUTRAL,,,LOE,,Draw 3 cards. Gain 6 Armor.,SPELL
+208,,,,2.0,42159.0,,,,,,,,TB_SPT_DPromoSecret1,['SECRET'],,Visions of the Barbarian,,,WARRIOR,,,TB,,"<b>Secret:</b> When your opponent summons a minion with <b>Charge</b>, THUNDER FURY!",SPELL
+210,,,,0.0,41696.0,,,,,,,,TB_CoOpv3_202,,,Vicious Swipe,,,NEUTRAL,,,TB,,Deal attack damage to 2 random minions.,SPELL
+211,,,,1.0,2899.0,,"[40, 400, 5, 50]",,,You have chosen poorly.,,"Crafting unlocked in the Temple of Orsis, in the League of Explorers adventure.",LOE_027,['SECRET'],,Sacred Trial,,,PALADIN,,COMMON,LOE,,"<b>Secret:</b> After your opponent has at least 3 minions and plays another, destroy it.",SPELL
+229,,,,0.0,2176.0,,,,,,,,GVG_041a,,,Dark Wispers,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",DRUID,,,GVG,,+5/+5 and <b>Taunt</b>.,SPELL
+234,,,,3.0,2029.0,,"[100, 800, 20, 100]",,,"""I'm bringing the guacamole!"" – One of the most successful (yet rare) Silver Hand rallying cries",,,GVG_061,,,Muster for Battle,,,PALADIN,,RARE,GVG,,Summon three 1/1 Silver Hand Recruits. Equip a 1/4 Weapon.,SPELL
+242,,,,10.0,41629.0,,,,,,,,CFM_621t33,,,Felbloom,,,NEUTRAL,,,GANGS,,Deal $6 damage to all minions.,SPELL
+246,,,,3.0,860.0,,"[40, 400, 5, 50]",,,Generally demons are pretty obvious and you don’t need a spell to sense them.,,,EX1_317,,,Sense Demons,,,WARLOCK,,COMMON,EXPERT1,,"Draw 2 Demons
+from your deck.",SPELL
+248,,,,3.0,40066.0,,,,,,,,KARA_12_03H,"['SECRET', 'ImmuneToSpellpower']",,Flame Wreath,,,MAGE,,,KARA,,"<b>Secret:</b> When an enemy attacks, deal $10 damage to all other enemies.",SPELL
+249,,,,0.0,40498.0,,,,,,,,TB_CoOpv3_010,,,Explosive Runes,,,NEUTRAL,,,TB,,Summon two 'Explosive Runes.',SPELL
+262,,,,0.0,1562.0,,,,,,,,XXX_002,['ImmuneToSpellpower'],,Damage 5,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,COMMON,CHEAT,,Deal $5 damage.,SPELL
+267,,,,2.0,756.0,,"[100, 800, 20, 100]",,,We are all special unique snowflakes... with 1 Health.,,,EX1_619,,,Equality,,,PALADIN,,RARE,EXPERT1,,Change the Health of ALL minions to 1.,SPELL
+272,,,,0.0,25393.0,,,,,,,,LOEA16_13,,,Eye of Orsis,,,NEUTRAL,,,LOE,,<b>Discover</b> a minion and gain 3 copies of it.,SPELL
+277,,,,0.0,40341.0,,,,,,,,TB_CoOpv3_005,,,Cleave,,,NEUTRAL,,,TB,,Deal 4 damage to a minion and its owner.,SPELL
+278,,,,1.0,40373.0,,"[40, 400, 5, 50]",,,You'd be insane NOT to drink it!,,,CFM_603,,,Potion of Madness,,"{'REQ_ENEMY_TARGET': 0, 'REQ_MINION_TARGET': 0, 'REQ_NUM_MINION_SLOTS': 1, 'REQ_TARGET_MAX_ATTACK': 2, 'REQ_TARGET_TO_PLAY': 0}",PRIEST,,COMMON,GANGS,,Gain control of an enemy minion with 2 or less Attack until end of turn.,SPELL
+281,,,,0.0,2816.0,,,,,,,,XXX_062,,,Armor 5,,"{'REQ_HERO_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,,CHEAT,,Give target Hero +5 Armor,SPELL
+285,,,,0.0,38332.0,,"[40, 400, 5, 50]",,,,,,OG_047a,,,Evolve Spines,,,DRUID,,COMMON,OG,,Give your hero +4 Attack this turn.,SPELL
+287,,,,6.0,42233.0,,,,,,,,TB_SPT_DPromoSpellBovine1,,,Moo...,,,NEUTRAL,,,TB,,Summon 3 Hell Bovines. Give all Hell Bovines <b>Taunt</b>.,SPELL
+295,,,,4.0,2339.0,,,,,,,,BRMA07_3,,,TIME FOR SMASH,,,NEUTRAL,,,BRM,,Deal $5 damage to a random enemy. Gain 5 Armor.,SPELL
+299,,,,4.0,40326.0,,,,,,,,KARA_09_06heroic,,,Shadow Volley,,,NEUTRAL,,,KARA,,Deal $3 damage to all non-Demon minions.,SPELL
+303,,,,1.0,38741.0,,,,,,,,LOEA09_9H,,,Naga Repellent,,,NEUTRAL,,,LOE,,Change the Attack of all Hungry Naga to 1.,SPELL
+309,,,,0.0,1703.0,,,,,,,,XXX_026,,,Enable Emotes,,,NEUTRAL,,COMMON,CHEAT,,"Enable emotes for your VS.AI game. (not in tutorials, though)",SPELL
+316,,,,3.0,742.0,,,,,"What do they roar? Nobody can quite tell, but it sounds like ""Elephant Macho Breeze"".  It's probably not that, though.",,Unlocked at Level 43.,CS2_011,,,Savage Roar,,,DRUID,,COMMON,CORE,,Give your characters +2 Attack this turn.,SPELL
+319,,,,3.0,2461.0,,,,,,,,BRMA12_5H,['EVIL_GLOW'],,Brood Affliction: Blue,,,NEUTRAL,,,BRM,,"While this is in your hand, Chromaggus' spells cost (3) less.",SPELL
+321,,,,10.0,2898.0,,"[100, 800, 20, 100]",,,Theme song by Ellie Goldfin and Blagghghlrlrl Harris.,,"Crafting unlocked in The Ruined City, in the League of Explorers adventure.",LOE_026,,,Anyfin Can Happen,,,PALADIN,,RARE,LOE,,Summon 7 Murlocs that died this game.,SPELL
+325,,,,2.0,282.0,,"[40, 400, 5, 50]",,,"Everyone has a price. Gnomes, for example, can be persuaded by stuffed animals and small amounts of chocolate.",,,EX1_126,,,Betrayal,,"{'REQ_ENEMY_TARGET': 0, 'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",ROGUE,,COMMON,EXPERT1,,Force an enemy minion to deal its damage to the minions next to it.,SPELL
+330,,,,0.0,25401.0,,,,,,,,LOEA16_11,['ImmuneToSpellpower'],,Crown of Kael'thas,,,NEUTRAL,,,LOE,,Deal $10 damage randomly split among ALL characters.,SPELL
+333,,,,0.0,2091.0,,,,,,,,XXX_047,,,Destroy Deck,,"{'REQ_HERO_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,COMMON,CHEAT,,Delete an opponent's deck,SPELL
+336,,,,0.0,42357.0,,,,,,,,XXX_119,,,Death No Rattle,,,NEUTRAL,,,CHEAT,,"Died without triggering <b>Deathrattle</b>, All The Time",SPELL
+342,,,,6.0,2483.0,,"[100, 800, 20, 100]",,,"""THEY'RE EVERYWHERE GET THEM OFF!!!"" - Everyone",,,AT_062,,,Ball of Spiders,,{'REQ_NUM_MINION_SLOTS': 1},HUNTER,,RARE,TGT,,Summon three 1/1 Webspinners.,SPELL
+345,,,,2.0,40322.0,,,,,,,,KARA_09_03heroic,,,Many Imps!,,,NEUTRAL,,,KARA,,Summon 2 Icky Imps.,SPELL
+346,,,,3.0,1243.0,,"[40, 400, 5, 50]",,,You must read the name of this card out loud each time you play it.,,,EX1_538,,,Unleash the Hounds,,"{'REQ_MINIMUM_ENEMY_MINIONS': 1, 'REQ_NUM_MINION_SLOTS': 1}",HUNTER,,COMMON,EXPERT1,,"For each enemy minion, summon a 1/1 Hound with <b>Charge</b>.",SPELL
+349,,,,1.0,546.0,,"[400, 1600, 100, 400]",,,"""What is a better weapon? The sharp one your enemies expect, or the blunt one they ignore?"" - The Art of Warrior, Chapter 9",,,EX1_410,,,Shield Slam,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",WARRIOR,,EPIC,EXPERT1,,Deal 1 damage to a minion for each Armor you have.,SPELL
+355,,,,1.0,25269.0,,,,,,,,LOEA07_18,,,Dynamite,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,,LOE,,Deal $10 damage.,SPELL
+358,,,,1.0,40397.0,,"[40, 400, 5, 50]",,,The mark of the Lotus is a little flower drawn in permanent marker on the ankle.,,,CFM_614,,,Mark of the Lotus,,,DRUID,,COMMON,GANGS,,Give your minions +1/+1.,SPELL
+366,,,,10.0,1087.0,,"[400, 1600, 100, 400]",,,Take the time for an evil laugh after you draw this card.,,,EX1_279,,,Pyroblast,,{'REQ_TARGET_TO_PLAY': 0},MAGE,,EPIC,EXPERT1,,Deal $10 damage.,SPELL
+369,,,,2.0,1868.0,,,,,,,,NAX3_03,,,Necrotic Poison,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,,NAXX,,Destroy a minion.,SPELL
+373,,,,0.0,1757.0,,,,,,,,XXX_041,,,Destroy Hero Power,,"{'REQ_HERO_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,COMMON,CHEAT,,Destroy a player's Hero Power.,SPELL
+375,,,,4.0,2330.0,,,,,,,,BRMA05_3,,,Living Bomb,,"{'REQ_ENEMY_TARGET': 0, 'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,,BRM,,"Choose an enemy minion. If it lives until your next turn, deal $5 damage to all enemies.",SPELL
+386,,,,1.0,41590.0,,,,,,,,CFM_621t2,,,Heart of Fire,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,,GANGS,,Deal $3 damage.,SPELL
+387,,,,10.0,41628.0,,,,,,,,CFM_621t32,,,Goldthorn,,,NEUTRAL,,,GANGS,,Give your minions +6 Health.,SPELL
+391,,,,3.0,40393.0,,"[100, 800, 20, 100]",,,You know what really makes my blood boil? The skyrocketing price of Bloodfury potions!,,,CFM_611,,,Bloodfury Potion,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",WARLOCK,,RARE,GANGS,,"[x]Give a minion +3 Attack.
+If it's a Demon, also
+give it +3 Health.",SPELL
+394,,,Summon a <b>Jade Golem</b>. Gain an empty Mana Crystal.,3.0,40523.0,,"[40, 400, 5, 50]",,,"Meditating under a jade blossom is said to grant you wisdom, unless you have a pollen allergy.",,,CFM_713,['JADE_GOLEM'],,Jade Blossom,,{'REQ_MINION_SLOT_OR_MANA_CRYSTAL_SLOT': 0},DRUID,,COMMON,GANGS,,Summon a{1} {0} <b>Jade Golem</b>. Gain an empty Mana Crystal.,SPELL
+401,,,,0.0,40352.0,,,,,,,,TB_CoOpv3_004,,,Cleave,,,NEUTRAL,,,TB,,Deal 7 damage to a minion and its owner.,SPELL
+403,,,,0.0,40315.0,,,,,,,,TB_CoOpv3_006,,,Elemental Eruption,,,SHAMAN,,,TB,,Deal 4-6 damage to all other minions.,SPELL
+414,,,,4.0,39681.0,,,,,,,,KARA_08_03,,,Nether Breath,,,NEUTRAL,,,KARA,,"[x]Change the Health of
+all enemy minions to 1.",SPELL
+420,,,,1.0,511.0,,"[100, 800, 20, 100]",,,Easily worth 50 DKP.,,,EX1_409,,,Upgrade!,,,WARRIOR,,RARE,EXPERT1,,"If you have a weapon, give it +1/+1. Otherwise equip a 1/3 weapon.",SPELL
+421,,,,3.0,2542.0,,"[100, 800, 20, 100]",,,It's always Huffer.,,,AT_005,,,Polymorph: Boar,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",MAGE,,RARE,TGT,,Transform a minion into a 4/2 Boar with <b>Charge</b>.,SPELL
+422,,,,2.0,1361.0,,,,,Double the trouble. Double the fun!,,Unlocked at Level 28.,CS2_236,,,Divine Spirit,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",PRIEST,,COMMON,CORE,,Double a minion's Health.,SPELL
+428,,,,1.0,40423.0,,"[400, 1600, 100, 400]",,,INFINITE LOOP!,,,CFM_313,,,Finders Keepers,1.0,,SHAMAN,,EPIC,GANGS,,<b>Discover</b> a card with <b>Overload</b>. <b>Overload:</b> (1),SPELL
+430,,,,3.0,39587.0,,,,,,,,KAR_A02_10,,,Pour a Round,,,NEUTRAL,,,KARA,,Draw a card for each of your Plates.,SPELL
+435,,,,0.0,40385.0,,,,,,,,TB_Coopv3_102b,,,Alms of Light,,,PRIEST,,,TB,,Restore 8 Health to each hero.,SPELL
+438,,,,3.0,40401.0,,"[400, 1600, 100, 400]",,,"The Hozen don't get paid much, but at least they get to keep any excess mana.",,,CFM_616,,,Pilfered Power,,,DRUID,,EPIC,GANGS,,Gain an empty Mana Crystal for each friendly minion.,SPELL
+446,,,,1.0,38749.0,,"[40, 400, 5, 50]",,,Every year a few paladins get disqualified from the Westfall weight lifting championship for using Divine Strength.,,,OG_223,,,Divine Strength,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",PALADIN,,COMMON,OG,,Give a minion +1/+2.,SPELL
+452,,,,0.0,25397.0,,,,,,,,LOEA16_7,,,Benediction Splinter,,,NEUTRAL,,,LOE,,Restore #10 Health to ALL characters.,SPELL
+455,,,,3.0,708.0,,"[100, 800, 20, 100]",,,"When all else fails, nothing beats a swift whack upside the head.",,,EX1_137,['COMBO'],,Headcrack,,,ROGUE,,RARE,EXPERT1,,Deal $2 damage to the enemy hero. <b>Combo:</b> Return this to your hand next turn.,SPELL
+457,,,,7.0,2020.0,,"[400, 1600, 100, 400]",,,"Using this card on your enemies is one of the best things in life, according to some barbarians.",,,GVG_052,,,Crush,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",WARRIOR,,EPIC,GVG,,"Destroy a minion. If you have a damaged minion, this costs (4) less.",SPELL
+460,,,,1.0,1674.0,,,,,,,,TU4f_006,,,Transcendence,,,NEUTRAL,,COMMON,MISSIONS,,"Until you kill Cho's minions, he can't be attacked.",SPELL
+464,,,,1.0,2089.0,,,,,,,,NAX6_04,,,Sporeburst,,,NEUTRAL,,,NAXX,,Deal $1 damage to all enemy minions. Summon a Spore.,SPELL
+470,,,,0.0,1590.0,,,,,,,,XXX_016,,,Snake Ball,,,NEUTRAL,,,CHEAT,,Summon five 1/1 snakes.,SPELL
+471,,,,2.0,2754.0,,"[40, 400, 5, 50]",,,The best offense is a good defense.,,,AT_068,,,Bolster,,,WARRIOR,,COMMON,TGT,,Give your <b>Taunt</b> minions +2/+2.,SPELL
+474,,,,2.0,38337.0,,"[40, 400, 5, 50]",,,"Y'Shaarj had three sons: Mark, Theodore, and Chris.",,,OG_048,,,Mark of Y'Shaarj,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",DRUID,,COMMON,OG,,"Give a minion +2/+2.
+If it's a Beast, draw
+a card.",SPELL
+477,,,,4.0,2095.0,,"[40, 400, 5, 50]",,,"""Get ready to strike oil!"" - Super-cheesy battle cry",,,GVG_022,['COMBO'],,Tinker's Sharpsword Oil,,{'REQ_MINION_TARGET': 0},ROGUE,,COMMON,GVG,,Give your weapon +3 Attack. <b>Combo:</b> Give a random friendly minion +3 Attack.,SPELL
+479,,,,3.0,192.0,,"[400, 1600, 100, 400]",,,"Ice is nice, and will suffice!",,,EX1_295,['SECRET'],,Ice Block,,,MAGE,,EPIC,EXPERT1,,"<b>Secret:</b> When your hero takes fatal damage, prevent it and become <b>Immune</b> this turn.",SPELL
+482,,,,0.0,1725.0,,,,,,,,CS2_013t,,,Excess Mana,,,DRUID,,,CORE,,Draw a card. <i>(You can only have 10 Mana in your tray.)</i>,SPELL
+489,,,,1.0,2151.0,,,,,,,,PART_001,,,Armor Plating,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,,GVG,,Give a minion +1 Health.,SPELL
+490,,,,8.0,39110.0,,,"['TB_KTRAF_1', 'TB_KTRAF_3', 'TB_KTRAF_4', 'TB_KTRAF_5', 'TB_KTRAF_6', 'TB_KTRAF_7', 'TB_KTRAF_8', 'TB_KTRAF_2', 'TB_KTRAF_10', 'TB_KTRAF_12', 'TB_KTRAF_11']",,,,,TB_KTRAF_101,,,Darkness Calls,,,NEUTRAL,,,TB,,Summon two random Naxxramas bosses and trigger their <b>Battlecries</b>.,SPELL
+496,,,,0.0,1697.0,,,,,,,,XXX_023,,,Destroy All Heroes,,,NEUTRAL,,COMMON,CHEAT,,Destroy all heroes.,SPELL
+498,,,,0.0,25089.0,,,,,,,,LOEA04_29a,,,Touch It,,,NEUTRAL,,,LOE,,Restore 10 Health to your hero.,SPELL
+502,,,,0.0,39874.0,,,,,,,,XXX_101,['ImmuneToSpellpower'],,Set health to full,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,COMMON,CHEAT,,"Set a character's health to full, and removes armour.",SPELL
+510,,,,0.0,40546.0,,,,,,,,TB_CoOpv3_013,,,Immolate,,,NEUTRAL,,,TB,,Deal 7 damage to each hero.,SPELL
+513,,,,0.0,1581.0,,,,,,,,XXX_007,,,Enable for Attack,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,COMMON,CHEAT,,Give a character Charge and make him able to attack!,SPELL
+515,,,,0.0,325.0,,,,,,,,EX1_164b,,,Nourish,,,DRUID,,,EXPERT1,,Draw 3 cards.,SPELL
+516,,,,1.0,38262.0,,"[40, 400, 5, 50]",,,Golce and Dabbana have a new line of Earth Totems available at vendors everywhere this holiday season.,,,OG_023,,,Primal Fusion,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",SHAMAN,,COMMON,OG,,Give a minion +1/+1 for each of your Totems.,SPELL
+525,,,,3.0,2612.0,,"[100, 800, 20, 100]",,,"Favored by shaman who study the art of restoration and healing, this spell would feel smug, if it had feelings.",,,AT_048,,,Healing Wave,,{'REQ_TARGET_TO_PLAY': 0},SHAMAN,,RARE,TGT,,"Restore #7 Health. Reveal a minion in each deck. If yours costs more, Restore #14 instead.",SPELL
+526,,,,5.0,394.0,,"[100, 800, 20, 100]",,,"Pull the pin, count to 5, then shoot.  Then duck.",,,EX1_537,,,Explosive Shot,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",HUNTER,,RARE,EXPERT1,,Deal $5 damage to a minion and $2 damage to adjacent ones.,SPELL
+529,,,,4.0,2421.0,,,,,,,,BRM_030t,,,Tail Swipe,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,,BRM,,Deal $4 damage.,SPELL
+532,,,,1.0,38377.0,,"[40, 400, 5, 50]",,,The mastiff giggles if you don't hit any ducks.,,,OG_061,,,On the Hunt,,{'REQ_TARGET_TO_PLAY': 0},HUNTER,,COMMON,OG,,"Deal $1 damage.
+Summon a 1/1 Mastiff.",SPELL
+540,,,,3.0,2874.0,,"[40, 400, 5, 50]",,,Why does a forgotten torch turn into a roaring torch with no provocation?  It's one of life's many mysteries.,,Can be crafted after starting the League of Explorers adventure.,LOE_002,,,Forgotten Torch,,{'REQ_TARGET_TO_PLAY': 0},MAGE,,COMMON,LOE,,Deal $3 damage. Shuffle a 'Roaring Torch' into your deck that deals 6 damage.,SPELL
+544,,,,4.0,40419.0,,"[40, 400, 5, 50]",,,When you really need a job done… but you don't really care if it gets done right.,,,CFM_310,,,Call in the Finishers,,{'REQ_NUM_MINION_SLOTS': 1},SHAMAN,,COMMON,GANGS,,Summon four 1/1 Murlocs.,SPELL
+551,,,,1.0,1373.0,,"[40, 400, 5, 50]",,,Apparently with wisdom comes the knowledge that you should probably be attacking every turn.,,,EX1_363,,,Blessing of Wisdom,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",PALADIN,,COMMON,EXPERT1,,"Choose a minion. Whenever it attacks, draw a card.",SPELL
+552,,,,3.0,2864.0,,,,,,,,BRMC_100,,,Living Bomb,,"{'REQ_ENEMY_TARGET': 0, 'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,,TB,,"Choose an enemy minion. If it lives until your next turn, deal $5 damage to all enemies.",SPELL
+555,,,,2.0,2093.0,,"[40, 400, 5, 50]",,,"If you're looking to make an ""Emo"" deck, this card is perfect!",,,GVG_015,,,Darkbomb,,{'REQ_TARGET_TO_PLAY': 0},WARLOCK,,COMMON,GVG,,Deal $3 damage.,SPELL
+563,,,,4.0,1802.0,,"[40, 400, 5, 50]",,,"""Poisonseed Bagel"" is the least popular bagel at McTiggin's Druidic Bagel Emporium.",,"Crafting unlocked in The Arachnid Quarter, in the Naxxramas adventure.",FP1_019,,,Poison Seeds,,,DRUID,,COMMON,NAXX,,Destroy all minions and summon 2/2 Treants to replace them.,SPELL
+569,,,,5.0,39747.0,,"[40, 400, 5, 50]",,,Come to beautiful Ironforge! Where irons are forged and the forges are iron!,,"Crafting unlocked in the Spire, in One Night in Karazhan.",KAR_091,,,Ironforge Portal,,,WARRIOR,,COMMON,KARA,,"Gain 4 Armor.
+Summon a random
+4-Cost minion.",SPELL
+573,,,,0.0,2359.0,,,,,,,,BRMA11_3,,,Burning Adrenaline,,,NEUTRAL,,,BRM,,Deal $2 damage to the enemy hero.,SPELL
+574,,,,0.0,2242.0,,,,,,,,XXX_048,,,-1 Durability,,"{'REQ_HERO_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,COMMON,CHEAT,,Give a player's weapon -1 Durability.,SPELL
+580,,,,1.0,70.0,,,,,"""As in, you MIGHT want to get out of my way."" - Toad Mackle, recently buffed.",,Unlocked at Level 45.,CS2_087,,,Blessing of Might,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",PALADIN,,FREE,CORE,,Give a minion +3 Attack.,SPELL
+581,,,,2.0,545.0,,,,,This spell blasts you directly in the MIND.,,Unlocked at Level 15.,DS1_233,,,Mind Blast,,,PRIEST,,FREE,CORE,,Deal $5 damage to the enemy hero.,SPELL
+585,,,,0.0,38674.0,,,,,,,,TB_PickYourFate_2,,,Fate: Bananas,,,NEUTRAL,,,TB,,"When a minion dies, its owner gets a (1) mana Banana.",SPELL
+588,,,,1.0,710.0,,,,,"There's something about this strike that just feels off.  Sinister, even.",,Unlocked at Level 15.,CS2_075,,,Sinister Strike,,,ROGUE,,FREE,CORE,,Deal $3 damage to the enemy hero.,SPELL
+591,,,,2.0,904.0,,"[40, 400, 5, 50]",,,There is a high cost to Eviscerating your opponent:  It takes a long time to get blood stains out of leather armor.,,,EX1_124,['COMBO'],,Eviscerate,,{'REQ_TARGET_TO_PLAY': 0},ROGUE,,COMMON,EXPERT1,,Deal $2 damage. <b>Combo:</b> Deal $4 damage instead.,SPELL
+598,,,,3.0,1023.0,,,,,Shields were invented because Face Block is USELESS.,,Unlocked at Level 28.,EX1_606,,,Shield Block,,,WARRIOR,,COMMON,CORE,,"Gain 5 Armor.
+Draw a card.",SPELL
+608,,,,4.0,315.0,,,,,"This spell is useful for burning things.  If you're looking for spells that toast things, or just warm them a little, you're in the wrong place.",,Unlocked at Level 44.,CS2_029,,,Fireball,,{'REQ_TARGET_TO_PLAY': 0},MAGE,,FREE,CORE,,Deal $6 damage.,SPELL
+611,,,,4.0,292.0,,,,,"You see, it's all about <i>throughput</i>.",,Unlocked at Level 36.,DS1_183,,,Multi-Shot,,{'REQ_MINIMUM_ENEMY_MINIONS': 2},HUNTER,,FREE,CORE,,Deal $3 damage to two random enemy minions.,SPELL
+617,,,,3.0,40841.0,,,,,,,,KARA_13_12H,,,Demonic Presence,,,NEUTRAL,,,KARA,,"Draw 3 cards.
+Gain 10 Armor.",SPELL
+625,,,,0.0,209.0,,,,,,,,NEW1_008b,,,Ancient Secrets,,{'REQ_TARGET_TO_PLAY': 0},DRUID,,,EXPERT1,,Restore 5 Health.,SPELL
+631,,,,0.0,2862.0,,"[40, 400, 5, 50]",,,,,,AT_042b,,,Panther Form,,,DRUID,,COMMON,TGT,,+1/+1 and <b>Stealth</b>,SPELL
+635,,,,5.0,841.0,,,,,"If the Holy Light forsakes you, good luck casting this spell.  Also, you're probably a jerk.",,Unlocked at Level 45.,CS1_112,,,Holy Nova,,,PRIEST,,COMMON,CORE,,Deal $2 damage to all enemies. Restore #2 Health to all friendly characters.,SPELL
+637,,,,2.0,1367.0,,,,,"A step up from a spell cast by many beginning acolytes: ""Shadow Word: Annoy"".",,Unlocked at Level 36.,CS2_234,,,Shadow Word: Pain,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_MAX_ATTACK': 3, 'REQ_TARGET_TO_PLAY': 0}",PRIEST,,FREE,CORE,,Destroy a minion with 3 or less Attack.,SPELL
+638,,,,1.0,40679.0,,"[40, 400, 5, 50]",,,Are you sure these are the crates that are supposed to go to the Gadgetzan petting zoo?,,,CFM_334,,,Smuggler's Crate,,,HUNTER,,COMMON,GANGS,,Give a random Beast in your hand +2/+2.,SPELL
+640,,,,0.0,20410.0,,,,,,,,TB_CoOpBossSpell_1,,,Prioritize,,,NEUTRAL,,,TB,,Deal Attack damage to biggest minion.,SPELL
+643,,,,0.0,690.0,,,,,,,,EX1_155b,,,Mark of Nature,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",DRUID,,,EXPERT1,,+4 Health and <b>Taunt</b>.,SPELL
+645,,,,0.0,42186.0,,,,,,,,XXX_115,,,Destroy Played Cards,,,NEUTRAL,,COMMON,CHEAT,,"Whenever a player summons a minion, destroy it.",SPELL
+654,,,,1.0,40371.0,,"[40, 400, 5, 50]",,,"One of the most famous busts in Gadgetzan’s history happened on Smuggler’s Run, where Sergeant Sally apprehended a cadre of Grimy Goons transporting a massive number of illegal fish heads.",,,CFM_305,,,Smuggler's Run,,,PALADIN,,COMMON,GANGS,,Give all minions in your hand +1/+1.,SPELL
+656,,,,3.0,773.0,,,,,"8 Health, no waiting.",,Unlocked at Level 15.,CS2_007,,,Healing Touch,,{'REQ_TARGET_TO_PLAY': 0},DRUID,,FREE,CORE,,Restore #8 Health.,SPELL
+658,,,,0.0,40031.0,,,,,,,,TB_ClassRandom_Warrior,,,Second Class: Warrior,,,WARRIOR,,,TB,,Add Warrior cards to your deck.,SPELL
+661,,,,1.0,2366.0,,,,,,,,BRMA12_7,['EVIL_GLOW'],,Brood Affliction: Bronze,,,NEUTRAL,,,BRM,,"While this is in your hand, Chromaggus' minions cost (1) less.",SPELL
+665,,,,0.0,1563.0,,,,,,,,XXX_003,,,Restore 1,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,COMMON,CHEAT,,Restore #1 Health to a character.,SPELL
+671,,,,0.0,39023.0,,,,,,,,TB_PickYourFate_11b,,,Murloc Bonus,,,NEUTRAL,,,TB,,Summon a 1/1 Murloc at the end of your turn.,SPELL
+672,,,,0.0,1566.0,,,,,,,,XXX_006,,,Break Weapon,,"{'REQ_HERO_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,COMMON,CHEAT,,Destroy a hero's weapon.,SPELL
+678,,,,1.0,233.0,,"[40, 400, 5, 50]",,,Another one bites the dust.,,,EX1_161,,,Naturalize,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",DRUID,,COMMON,EXPERT1,,"Destroy a minion.
+Your opponent draws 2 cards.",SPELL
+688,,,,0.0,2197.0,,,,,,,,GVG_030b,,,Tank Mode,,,DRUID,,,GVG,,+1 Health.,SPELL
+690,,,,0.0,1729.0,,,,,,,,XXX_039,,,Become Hogger,,,NEUTRAL,,,CHEAT,,Become Hogger for Video Recording.,SPELL
+692,,,,0.0,808.0,,,,,,,,DREAM_04,,,Dream,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",DREAM,,,EXPERT1,,Return a minion to its owner's hand.,SPELL
+694,,,,6.0,196.0,,,,,,,Unlocked at Level 23.,NEW1_004,,,Vanish,,,ROGUE,,COMMON,CORE,,Return all minions to their owner's hand.,SPELL
+700,,,,1.0,2365.0,,,,,,,,BRMA12_6,['EVIL_GLOW'],,Brood Affliction: Black,,,NEUTRAL,,,BRM,,"While this is in your hand, whenever Chromaggus draws a card, he gets another copy of it.",SPELL
+704,,,,0.0,2815.0,,,,,,,,XXX_061,,,Armor 1,,"{'REQ_HERO_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,,CHEAT,,Give target Hero +1 Armor,SPELL
+711,,,,0.0,39878.0,,,,,,,,XXX_105,['ImmuneToSpellpower'],,Add 8 to Health.,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,COMMON,CHEAT,,Adds 8 health to a damaged character. Does NOT heal.,SPELL
+713,,,,2.0,2992.0,,,,,,,,LOE_019t,,,Map to the Golden Monkey,,,NEUTRAL,,,LOE,,Shuffle the Golden Monkey into your deck. Draw a card.,SPELL
+726,,,,0.0,2227.0,,,,,,,,GVG_032b,,,Gift of Cards,,,DRUID,,,GVG,,Each player draws a card.,SPELL
+729,,,,0.0,2387.0,,,,,,,,BRMA14_11,,,Recharge,,,NEUTRAL,,,BRM,,Fill all empty Mana Crystals.,SPELL
+737,,,,3.0,39683.0,,,,,,,,KARA_08_05,,,Terrifying Roar,,"{'REQ_ENEMY_TARGET': 0, 'REQ_MINIMUM_ENEMY_MINIONS': 1, 'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,,KARA,,Return an enemy minion to your opponent's hand.,SPELL
+740,,,,1.0,1099.0,,,,,I see what you did there.,,Unlocked at Level 32.,CS2_003,,,Mind Vision,,,PRIEST,,COMMON,CORE,,Put a copy of a random card in your opponent's hand into your hand.,SPELL
+746,,,,4.0,145.0,,"[400, 1600, 100, 400]",,,Sometimes it feels like this is all a game.,,,EX1_345,,,Mindgames,,{'REQ_NUM_MINION_SLOTS': 1},PRIEST,,EPIC,EXPERT1,,"Put a copy of
+a random minion from
+your opponent's deck into the battlefield.",SPELL
+756,,,,3.0,1801.0,,"[40, 400, 5, 50]",,,The one time when duping cards won't get your account banned!,,"Crafting unlocked in The Plague Quarter, in the Naxxramas adventure.",FP1_018,['SECRET'],,Duplicate,,,MAGE,,COMMON,NAXX,,"<b>Secret:</b> When a friendly minion dies, put 2 copies of it into your hand.",SPELL
+757,,,,0.0,41706.0,,,,,,,,TB_CoOpv3_203,,,Meddling Fool!,,,NEUTRAL,,,TB,,Damage the Lorewalker,SPELL
+761,,,,1.0,140.0,,"[40, 400, 5, 50]",,,I am not sure how you get demptioned the first time.  It’s a mystery!,,,EX1_136,['SECRET'],,Redemption,,,PALADIN,,COMMON,EXPERT1,,"<b>Secret:</b> When one of your minions dies, return it to life with 1 Health.",SPELL
+770,,,,0.0,1591.0,,,,,,,,XXX_017,,,Draw 3 Cards,,,NEUTRAL,,COMMON,CHEAT,,Draw 3 cards.,SPELL
+772,,,,5.0,41619.0,,,,,,,,CFM_621t23,,,Shadow Oil,,,NEUTRAL,,,GANGS,,Add 2 random Demons to your hand.,SPELL
+785,,,,2.0,38590.0,,,,,,,,LOEA06_03h,,,Animate Earthen,,,NEUTRAL,,,LOE,,Give your minions +3/+3 and <b>Taunt</b>.,SPELL
+787,,,,0.0,1758.0,,,,,,,,XXX_042,,,Hand to Deck,,"{'REQ_HERO_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,COMMON,CHEAT,,Shuffle a player's hand into his deck.,SPELL
+789,,,,10.0,19614.0,,,,,,,,LOEA16_3,,,Lantern of Power,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,,LOE,,Give a minion +10/+10.,SPELL
+791,,,,2.0,2879.0,,"[40, 400, 5, 50]",,,This is what happens when Rafaam stubs his toe unexpectedly.,,"Crafting unlocked in the Hall of Explorers, in the League of Explorers adventure.",LOE_007,,,Curse of Rafaam,,,WARLOCK,,COMMON,LOE,,"Give your opponent a 'Cursed!' card.
+While they hold it, they take 2 damage on their turn.",SPELL
+792,,,,1.0,41583.0,,,,,,,,CFM_621t9,,,Shadow Oil,,,NEUTRAL,,,GANGS,,Add a random Demon to your hand.,SPELL
+793,,,,4.0,1998.0,,"[400, 1600, 100, 400]",,,"""Hey! Ancestors!"" - Ancestor's call",,,GVG_029,,,Ancestor's Call,,,SHAMAN,,EPIC,GVG,,Put a random minion from each player's hand into the battlefield.,SPELL
+796,,,,0.0,2789.0,,,,,,,,AT_037a,,,Living Roots,,{'REQ_TARGET_TO_PLAY': 0},DRUID,,,TGT,,Deal $2 damage.,SPELL
+797,,,,0.0,1158.0,,"[400, 1600, 100, 400]",,,"""Be Prepared"" - Rogue Motto",,,EX1_145,,,Preparation,,,ROGUE,,EPIC,EXPERT1,,The next spell you cast this turn costs (3) less.,SPELL
+799,,,,5.0,2041.0,,"[40, 400, 5, 50]",,,"""Cobra Shot"" hurts way, way, way more than ""Cobra Cuddle.""",,,GVG_073,,,Cobra Shot,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",HUNTER,,COMMON,GVG,,Deal $3 damage to a minion and the enemy hero.,SPELL
+821,,,,0.0,1441.0,,,,,,,,XXX_001,['ImmuneToSpellpower'],,Damage 1,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,COMMON,CHEAT,,Deal $1 damage.,SPELL
+823,,,,6.0,2654.0,,"[400, 1600, 100, 400]",,,You have to get past the vendors first.  So many are lost to shopping...,,,AT_078,,,Enter the Coliseum,,,PALADIN,,EPIC,TGT,,Destroy all minions except each player's highest Attack minion.,SPELL
+832,,,,0.0,38703.0,,,,,,,,TB_PickYourFate_8,,,Spell Bonus,,,NEUTRAL,,,TB,,"Whenever you cast a spell, gain 3 Armor.",SPELL
+833,,,,0.0,25398.0,,,,,,,,LOEA16_8,,,Putress' Vial,,,NEUTRAL,,,LOE,,Destroy a random enemy minion.,SPELL
+845,,,,1.0,40936.0,,"[100, 800, 20, 100]",,,I hope you didn't disenchant your Shadow Word: Horror!,,,CFM_661,,,Pint-Size Potion,,,PRIEST,,RARE,GANGS,,"[x]Give all enemy minions
+-3 Attack this turn only.",SPELL
+850,,,,0.0,38987.0,,,,,,,,XXX_065,,,Remove All Immune,,,NEUTRAL,,COMMON,CHEAT,,Remove <b>Immune</b> from ALL characters.,SPELL
+851,,,,0.0,35290.0,,,,,,,,BRMA07_2_2c_TB,,,ME SMASH,,,NEUTRAL,,,TB,,Destroy a random enemy minion.,SPELL
+861,,,,0.0,25092.0,,,,,,,,LOEA04_30a,,,Take the Shortcut,,,NEUTRAL,,,LOE,,Get 1 turn closer to the Exit! Encounter a 7/7 War Golem.,SPELL
+875,,,,3.0,2459.0,,,,,,,,BRMA12_3H,"['EVIL_GLOW', 'ImmuneToSpellpower']",,Brood Affliction: Red,,,NEUTRAL,,,BRM,,"While this is in your hand, take 3 damage at the start of your turn.",SPELL
+878,,,,0.0,1727.0,,,,,,,,XXX_030,,,Opponent Disconnect,,,NEUTRAL,,COMMON,CHEAT,,Force your opponnet to disconnect.,SPELL
+880,,,,3.0,2323.0,,,,,,,,BRMA_01,,,Flameheart,,,NEUTRAL,,,BRM,,"Draw 2 cards.
+Gain 4 Armor.",SPELL
+887,,,,0.0,39766.0,,,,,,,,KARA_00_11,,,Evocation,,,MAGE,,,KARA,,Gain 5 Mana Crystals this turn only.,SPELL
+889,,,,0.0,25399.0,,,,,,,,LOEA16_9,,,Lothar's Left Greave,,,NEUTRAL,,,LOE,,Deal $3 damage to all enemies.,SPELL
+892,,,,0.0,2373.0,,,,,,,,XXX_054,,,Weapon Buff,,,NEUTRAL,,,CHEAT,,Give your Weapon +100/+100,SPELL
+898,,,,3.0,2463.0,,,,,,,,BRMA12_7H,['EVIL_GLOW'],,Brood Affliction: Bronze,,,NEUTRAL,,,BRM,,"While this is in your hand, Chromaggus' minions cost (3) less.",SPELL
+906,,,,0.0,25084.0,,,,,,,,LOEA04_28,,,A Glowing Pool,,,NEUTRAL,,,LOE,,<b>Drink?</b>,SPELL
+908,,,,2.0,2893.0,,"[40, 400, 5, 50]",,,Five years of tap-dancing lessons are FINALLY going to pay off!,,"Crafting unlocked in The Ruined City, in the League of Explorers adventure.",LOE_021,['SECRET'],,Dart Trap,,,HUNTER,,COMMON,LOE,,"<b>Secret:</b> After an opposing <b>Hero Power</b> is used, deal $5 damage to a random enemy.",SPELL
+915,,,,3.0,40847.0,,,,,,,,TB_KaraPortal_001,,,Party Portal!,,{'REQ_MINION_TARGET': 0},NEUTRAL,,FREE,TB,,Summon a random Partygoer.,SPELL
+917,,,,0.0,38807.0,,,,,,,,TB_PickYourFate_10,,,Battlecry Bonus,,,NEUTRAL,,,TB,,Your <b>Battlecry</b> minions have +1/+1.,SPELL
+924,,,,0.0,39858.0,,,,,,,,TB_Superfriends001,,,Offensive Play,,,NEUTRAL,,,TB,,The next Legendary minion you play and all your other copies cost (3) less.,SPELL
+925,,,,0.0,25085.0,,,,,,,,LOEA04_28a,,,Drink Deeply,,,NEUTRAL,,,LOE,,Draw a card.,SPELL
+927,,,,3.0,38456.0,,"[100, 800, 20, 100]",,,Most citizens of Darkshire wear those surgical masks to prevent spreading Madness to tourists.,,,OG_116,['ImmuneToSpellpower'],,Spreading Madness,,,WARLOCK,,RARE,OG,,Deal $9 damage randomly split among ALL characters.,SPELL
+930,,,,2.0,17147.0,,,,,,,,LOEA06_03,,,Animate Earthen,,{'REQ_MINIMUM_TOTAL_MINIONS': 1},NEUTRAL,,,LOE,,Give your minions +1/+1 and <b>Taunt</b>.,SPELL
+933,,,,3.0,2729.0,,"[40, 400, 5, 50]",,,You might think bashing doesn't take a lot of practice.  It doesn't.,,,AT_064,,,Bash,,{'REQ_TARGET_TO_PLAY': 0},WARRIOR,,COMMON,TGT,,"Deal $3 damage.
+Gain 3 Armor.",SPELL
+941,,,,3.0,2717.0,,"[40, 400, 5, 50]",,,"""Arf! Arf! Arf!"" - Seal of Champions",,,AT_074,,,Seal of Champions,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",PALADIN,,COMMON,TGT,,"Give a minion
++3 Attack and <b>Divine Shield</b>.",SPELL
+942,,,,2.0,239.0,,,,,This would be real handy if your enemy is made of rock.,,Unlocked at Level 36.,CS2_045,,,Rockbiter Weapon,,"{'REQ_FRIENDLY_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",SHAMAN,,FREE,CORE,,Give a friendly character +3 Attack this turn.,SPELL
+946,,,,0.0,1746.0,,,,,,,,GAME_005,,,The Coin,,,NEUTRAL,,,CORE,,Gain 1 Mana Crystal this turn only.,SPELL
+948,,,,5.0,42069.0,,,,,,,,CFM_621t38,,,Ichor of Undeath,,,NEUTRAL,,,GANGS,,Summon 2 friendly minions that died this game.,SPELL
+949,,,,1.0,784.0,,,,,,,,TU4c_002,,,Barrel Toss,,"{'REQ_ENEMY_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,COMMON,MISSIONS,,Deal 2 damage.,SPELL
+955,,,,7.0,38655.0,,"[400, 1600, 100, 400]",,,"They're just normal wisps, actually. The ""Of the Old Gods"" bit is just marketing.",,,OG_195,['CHOOSE_ONE'],,Wisps of the Old Gods,,,DRUID,,EPIC,OG,,<b>Choose One -</b> Summon seven 1/1 Wisps; or Give your minions +2/+2.,SPELL
+957,,,,1.0,877.0,,,,,"Magi conjured arcane arrows to sell to hunters, until hunters learned just enough magic to do it themselves.  The resulting loss of jobs sent Stormwind into a minor recession.",,Unlocked at Level 32.,DS1_185,,,Arcane Shot,,{'REQ_TARGET_TO_PLAY': 0},HUNTER,,FREE,CORE,,Deal $2 damage.,SPELL
+963,,,,0.0,38288.0,,,,,,,,TB_CoOpBossSpell_3,,,Release Coolant,,,NEUTRAL,,,TB,,"Freeze and deal Attack damage to all minions.
+Gain 2 Attack.",SPELL
+965,,,,0.0,1564.0,,,,,,,,XXX_004,,,Restore 5,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,COMMON,CHEAT,,Restore #5 Health to a character.,SPELL
+967,,,,5.0,38843.0,,"[40, 400, 5, 50]",,,"Or if you're too tired, you can just kind of lean against the darkness.",,,OG_273,,,Stand Against Darkness,,,PALADIN,,COMMON,OG,,Summon five 1/1 Silver Hand Recruits.,SPELL
+968,,,,0.0,40363.0,,,,,,,,XXX_112,,,Fill Deck,,"{'REQ_HERO_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,COMMON,CHEAT,,Fill target hero's deck with random cards.,SPELL
+970,,,,0.0,38112.0,,"[40, 400, 5, 50]",,,,,,LOE_115a,,,Raven Idol,,,DRUID,,COMMON,LOE,,<b>Discover</b> a minion.,SPELL
+974,,,,1.0,767.0,,"[40, 400, 5, 50]",,,"Earth Shock? Shouldn't it be ""Azeroth Shock""?",,,EX1_245,['SILENCE'],,Earth Shock,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",SHAMAN,,COMMON,EXPERT1,,"<b>Silence</b> a minion, then deal $1 damage to it.",SPELL
+975,,,,2.0,38439.0,,"[400, 1600, 100, 400]",,,For when your Auchenai Soulpriests call in sick.,,,OG_104,,,Embrace the Shadow,,,PRIEST,,EPIC,OG,,"This turn, your healing effects deal damage instead.",SPELL
+977,,,,1.0,41589.0,,,,,,,,CFM_621t3,,,Stonescale Oil,,,NEUTRAL,,,GANGS,,Gain 4 Armor.,SPELL
+980,,,,2.0,1026.0,,"[100, 800, 20, 100]",,,"""Shout! Shout! Let it all out!"" - Advice to warriors-in-training",,,NEW1_036,,,Commanding Shout,,,WARRIOR,,RARE,EXPERT1,,Your minions can't be reduced below 1 Health this turn. Draw a card.,SPELL
+992,,,,2.0,42171.0,,,,,,,,TB_SPT_DPromoSecret5,['SECRET'],,Visions of the Amazon,,,WARRIOR,,,TB,,"<b>Secret:</b> When your opponent summons a minion with <b>Battlecry</b>, Summon a Mirror Image for both players.",SPELL
+994,,,,8.0,594.0,,"[400, 1600, 100, 400]",,,A grammatically awkward life saver.,,,EX1_354,,,Lay on Hands,,{'REQ_TARGET_TO_PLAY': 0},PALADIN,,EPIC,EXPERT1,,Restore #8 Health. Draw 3 cards.,SPELL
+996,,,,0.0,40353.0,,,,,,,,TB_CoOpv3_001,,,Glorious Finale,,,NEUTRAL,,,TB,,The true battle begins....,SPELL
+997,,,,1.0,42068.0,,,,,,,,CFM_621t37,,,Ichor of Undeath,,,NEUTRAL,,,GANGS,,Summon a friendly minion that died this game.,SPELL
+1000,,,,1.0,974.0,,,,,Are you lighting a soul on fire? Or burning someone with your OWN soul? This seems like an important distinction.,,Unlocked at Level 28.,EX1_308,,,Soulfire,,{'REQ_TARGET_TO_PLAY': 0},WARLOCK,,COMMON,CORE,,"[x]Deal $4 damage.
+Discard a random card.",SPELL
+1002,,,,1.0,1804.0,,"[40, 400, 5, 50]",,,"Several paladins have joined together to deliver justice under the name ""Justice Force"".  Their lawyer talked them out of calling themselves the Justice League.",,"Crafting unlocked in Frostwyrm Lair, in the Naxxramas adventure.",FP1_020,['SECRET'],,Avenge,,,PALADIN,,COMMON,NAXX,,"<b>Secret:</b> When one of your minions dies, give a random friendly minion +3/+2.",SPELL
+1015,,,,2.0,2563.0,,"[100, 800, 20, 100]",,,"""Are you interested in... HEALTH benefits?!""",,,AT_015,,,Convert,,"{'REQ_ENEMY_TARGET': 0, 'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",PRIEST,,RARE,TGT,,Put a copy of an enemy minion into your hand.,SPELL
+1016,,,,2.0,39239.0,,,,,,,,TB_KTRAF_104,,,Uncover Staff Piece,,,NEUTRAL,,,TB,,Add another piece to your Hero Power.,SPELL
+1020,,,,10.0,42070.0,,,,,,,,CFM_621t39,,,Ichor of Undeath,,,NEUTRAL,,,GANGS,,Summon 3 friendly minions that died this game.,SPELL
+1026,,,,3.0,238.0,,"[100, 800, 20, 100]",,,Spirit wolves are like regular wolves with pom-poms.,,,EX1_248,,,Feral Spirit,2.0,{'REQ_NUM_MINION_SLOTS': 1},SHAMAN,,RARE,EXPERT1,,Summon two 2/3 Spirit Wolves with <b>Taunt</b>. <b>Overload:</b> (2),SPELL
+1030,,,,2.0,2296.0,,"[100, 800, 20, 100]",,,"This is better than Arcane Explosion, so I guess warriors are finally getting revenge on mages for Mortal Strike being worse than Fireball.",,"Crafting unlocked in Blackwing Lair, in the Blackrock Mountain adventure.",BRM_015,,,Revenge,,,WARRIOR,,RARE,BRM,,"Deal $1 damage to all minions. If you have 12 or less Health, deal $3 damage instead.",SPELL
+1032,,,,1.0,41577.0,,,,,,,,CFM_621t,,,Kazakus Potion,,,NEUTRAL,,,GANGS,,"{0}
+{1}",SPELL
+1035,,,,0.0,40043.0,,,,,,,,TB_ClassRandom_Hunter,,,Second Class: Hunter,,,HUNTER,,,TB,,Add Hunter cards to your deck.,SPELL
+1036,,,,0.0,38652.0,,"[400, 1600, 100, 400]",,,,,,OG_195b,,,Big Wisps,,,DRUID,,EPIC,OG,,Give your minions +2/+2.,SPELL
+1040,,,,0.0,2406.0,,,,,,,,XXX_057,,,Destroy Target Secrets,,"{'REQ_HERO_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,,CHEAT,,Choose a hero. Destroy all <b>Secrets</b> controlled by that hero.,SPELL
+1041,,,,1.0,564.0,,,,,You'd think you'd be able to control your missiles a little better since you're a powerful mage and all.,,Unlocked at Level 32.,EX1_277,['ImmuneToSpellpower'],,Arcane Missiles,,,MAGE,,FREE,CORE,,Deal $3 damage randomly split among all enemies.,SPELL
+1047,,,,0.0,2177.0,,,,,,,,GVG_041b,,,Dark Wispers,,"{'REQ_MINION_TARGET': 0, 'REQ_NUM_MINION_SLOTS': 1}",DRUID,,,GVG,,Summon 5 Wisps.,SPELL
+1048,,,,0.0,41667.0,,,,,,,,TB_CoOpv3_201,,,Cast from Shadow,,,ROGUE,,,TB,,Destroy all undamaged minions. Return the rest to their owner's hand.,SPELL
+1057,,,,2.0,519.0,,"[40, 400, 5, 50]",,,"""Dang, that's cold."" - appropriate response to Freezing Trap, or a mean joke.",,,EX1_611,['SECRET'],,Freezing Trap,,,HUNTER,,COMMON,EXPERT1,,"<b>Secret:</b> When an enemy minion attacks, return it to its owner's hand. It costs (2) more.",SPELL
+1063,,,,6.0,1995.0,,"[100, 800, 20, 100]",,,Druidic recycling involves putting plastics in one bin and enemy minions in another bin.,,,GVG_031,,,Recycle,,"{'REQ_ENEMY_TARGET': 0, 'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",DRUID,,RARE,GVG,,Shuffle an enemy minion into your opponent's deck.,SPELL
+1069,,,,0.0,38700.0,,,,,,,,TB_PickYourFate_6,,,Fate: Portals,,,NEUTRAL,,,TB,,Shuffle 10 Unstable Portals into each player's deck.,SPELL
+1071,,,,4.0,40327.0,,,,,,,,KARA_09_07heroic,,,Steal Life,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,,KARA,,Deal $5 damage. Restore #5 Health to your hero.,SPELL
+1079,,,,4.0,40860.0,,,,,,,,KARA_09_05heroic,,,Summon Kil'rek,,{'REQ_NUM_MINION_SLOTS': 1},NEUTRAL,,,KARA,,Summon Kil'rek.,SPELL
+1080,,,,4.0,38994.0,,,,,,,,TB_FactionWar_Rag1,,,"DIE, INSECT!",,,NEUTRAL,,,TB,,"Your hero power becomes ""Deal $8 damage to random enemy.""",SPELL
+1082,,,,0.0,1589.0,,,,,,,,XXX_015,,,Crash,,,NEUTRAL,,COMMON,CHEAT,,Crash the game.,SPELL
+1083,,,,0.0,40386.0,,,,,,,,TB_CoOpv3_002,,,Twisted Light,,,PRIEST,,,TB,,Restore 30 health to Nefarian. Deal 30 damage to all other minions.,SPELL
+1086,,,,0.0,25395.0,,,,,,,,LOEA16_15,,,Ysera's Tear,,,NEUTRAL,,,LOE,,Gain 4 Mana Crystals this turn only.,SPELL
+1087,,,,2.0,1124.0,,,,,"Grow your own mana crystals with this Mana Crystal Growth Kit, only 39.99!",,Unlocked at Level 23.,CS2_013,,,Wild Growth,,,DRUID,,FREE,CORE,,Gain an empty Mana Crystal.,SPELL
+1088,,,,8.0,42479.0,,,,,,,,TB_SPT_DpromoEX1_312,,,Twisting Nether?,,,WARLOCK,,EPIC,TB,,This doesn't look like Twisting Nether...,SPELL
+1090,,,,2.0,2304.0,,"[40, 400, 5, 50]",,,"If you are thinking about visiting Moonbrook, you better roll deep.",,"Crafting unlocked in Blackrock Depths, in the Blackrock Mountain adventure.",BRM_007,,,Gang Up,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",ROGUE,,COMMON,BRM,,Choose a minion. Shuffle 3 copies of it into your deck.,SPELL
+1091,,,,0.0,1838.0,,,,,,,,XXX_045,,,Steal Card,,,NEUTRAL,,COMMON,CHEAT,,Steal a random card from your opponent.,SPELL
+1093,,,,0.0,14282.0,,,,,,,,LOEA02_03,,,Wish for Power,,,NEUTRAL,,,LOE,,<b>Discover</b> a spell.,SPELL
+1099,,,,0.0,2332.0,,,,,,,,XXX_052,,,Grant Mega-Windfury,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,COMMON,CHEAT,,Give a minion <b>Mega-Windfury</b>.,SPELL
+1102,,,,0.0,25334.0,,,,,,,,LOEA04_31b,,,No Way!,,,NEUTRAL,,,LOE,,Do nothing.,SPELL
+1119,,,,10.0,38770.0,,"[400, 1600, 100, 400]",,,"We ran out of space for ""DOOOOOOOOOOOM!!!!!""",,,OG_239,,,DOOM!,,,WARLOCK,,EPIC,OG,,Destroy all minions. Draw a card for each.,SPELL
+1124,,,,6.0,39635.0,,,,,,,,KARA_07_08,,,Dragons Free!,,,NEUTRAL,,,KARA,,Summon a random Dragon.,SPELL
+1125,,,,1.0,2659.0,,,,,,,,TB_008,,,Rotten Banana,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,,TB,,Deal $1 damage.,SPELL
+1126,,,,5.0,23.0,,"[400, 1600, 100, 400]",,,"My advice to you is to avoid Doom, if possible.",,,EX1_320,,,Bane of Doom,,{'REQ_TARGET_TO_PLAY': 0},WARLOCK,,EPIC,EXPERT1,,"Deal $2 damage to a character. If that kills it, summon a random Demon.",SPELL
+1128,,,,1.0,2880.0,,,,,-,,,LOE_008,,,Eye of Hakkar,,{'REQ_MINION_TARGET': 0},NEUTRAL,,,LOE,,Take a secret from your opponent's deck and put it into the battlefield.,SPELL
+1137,,,,0.0,2243.0,,,,,,,,XXX_049,,,Destroy all Mana,,"{'REQ_HERO_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,COMMON,CHEAT,,Destroy all of a player's Mana Crystals.,SPELL
+1144,,,,10.0,19616.0,,,,,,,,LOEA16_5,,,Mirror of Doom,,{'REQ_NUM_MINION_SLOTS': 1},NEUTRAL,,,LOE,,Fill your board with 3/3 Mummy Zombies.,SPELL
+1151,,,,2.0,41414.0,,"[400, 1600, 100, 400]",,,"If you're sleeping with the fishes, we highly suggest not bringing an electric blanket.",,,CFM_716,,,Sleep with the Fishes,,,WARRIOR,,EPIC,GANGS,,Deal $3 damage to all damaged minions.,SPELL
+1159,,,,7.0,3007.0,,"[100, 800, 20, 100]",,,Everyfin is cool when you're part of a murloc team!,,"Crafting unlocked in The Ruined City, in the League of Explorers adventure.",LOE_113,,,Everyfin is Awesome,,,SHAMAN,,RARE,LOE,,"Give your minions +2/+2.
+Costs (1) less for each Murloc you control.",SPELL
+1160,,,,5.0,41616.0,,,,,,,,CFM_621t20,,,Netherbloom,,,NEUTRAL,,,GANGS,,Summon a 5/5 Demon.,SPELL
+1165,,,,1.0,990.0,,"[40, 400, 5, 50]",,,Rogues conceal everything but their emotions.  You can't get 'em to shut up about feelings.,,,EX1_128,,,Conceal,,,ROGUE,,COMMON,EXPERT1,,Give your minions <b>Stealth</b> until your next turn.,SPELL
+1171,,,,5.0,435.0,,"[100, 800, 20, 100]",,,C'mon Molten Giant!!,,,EX1_365,,,Holy Wrath,,{'REQ_TARGET_TO_PLAY': 0},PALADIN,,RARE,EXPERT1,,Draw a card and deal damage equal to its Cost.,SPELL
+1175,,,,1.0,38684.0,,,,,,,,LOEA16_20,,,Blessing of the Sun,,"{'REQ_FRIENDLY_TARGET': 0, 'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,,LOE,,Give a minion <b>Immune</b> this turn.,SPELL
+1177,,,,2.0,2367.0,,,,,,,,BRMA12_8,,,Chromatic Mutation,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,,BRM,,Transform a minion into a 2/2 Chromatic Dragonkin.,SPELL
+1178,,,,3.0,2697.0,,,,,,,,BRMC_95h,,,Core Hound Puppies,,,NEUTRAL,,,TB,,Summon two 2/4 Core Hound Pups.,SPELL
+1181,,,,4.0,1845.0,,,,,,,,PRO_001b,,,Rogues Do It...,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,,PROMO,,Deal $4 damage. Draw a card.,SPELL
+1182,,,,2.0,2514.0,,"[40, 400, 5, 50]",,,MOMMMMMYYYYYYYYY!!!,,,AT_053,,,Ancestral Knowledge,2.0,,SHAMAN,,COMMON,TGT,,Draw 2 cards. <b>Overload:</b> (2),SPELL
+1183,,,,2.0,1929.0,,"[100, 800, 20, 100]",,,The denizens of Azeroth have no idea how much work goes into stabilizing portals.  We spend like 30% of GDP on portal upkeep.,,,GVG_003,,,Unstable Portal,,,MAGE,,RARE,GVG,,Add a random minion to your hand. It costs (3) less.,SPELL
+1189,,,,4.0,77.0,,,,,"There was going to be a pun in this flavor text, but it just came out baa-d.",,Unlocked at Level 47.,CS2_022,,,Polymorph,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",MAGE,,FREE,CORE,,"Transform a minion
+into a 1/1 Sheep.",SPELL
+1192,,,,4.0,147.0,,"[100, 800, 20, 100]",,,Start with a powerful minion and stir in Shadowflame and you have a good time!,,,EX1_303,,,Shadowflame,,"{'REQ_FRIENDLY_TARGET': 0, 'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",WARLOCK,,RARE,EXPERT1,,Destroy a friendly minion and deal its Attack damage to all enemy minions.,SPELL
+1195,,,,1.0,2658.0,,,,,,,,TB_007,,,Deviate Banana,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,,TB,,Swap a minion's Attack and Health.,SPELL
+1197,,,,0.0,14284.0,,,,,,,,LOEA02_05,,,Wish for Glory,,,NEUTRAL,,,LOE,,<b>Discover</b> a minion.,SPELL
+1201,,,,4.0,38433.0,,"[100, 800, 20, 100]",,,"It's more succinct than ""Shadow Word: Suck Into Vortex.""",,,OG_100,,,Shadow Word: Horror,,,PRIEST,,RARE,OG,,Destroy all minions with 2 or less Attack.,SPELL
+1207,,,,3.0,2678.0,,,,,,,,BRMA05_3H,,,Living Bomb,,"{'REQ_ENEMY_TARGET': 0, 'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,,BRM,,"Choose an enemy minion. If it lives until your next turn, deal $10 damage to all enemies.",SPELL
+1208,,,,5.0,86.0,,"[100, 800, 20, 100]",,,Is the sky falling?  Yes.  Yes it is.,,,NEW1_007,['CHOOSE_ONE'],,Starfall,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_IF_AVAILABLE': 0}",DRUID,,RARE,EXPERT1,,<b>Choose One -</b> Deal $5 damage to a minion; or $2 damage to all enemy minions.,SPELL
+1213,,,,2.0,896.0,,"[100, 800, 20, 100]",,,"Not only does it reveal your enemies, but it's also great for parties!",,,EX1_544,,,Flare,,,HUNTER,,RARE,EXPERT1,,All minions lose <b>Stealth</b>. Destroy all enemy <b>Secrets</b>. Draw a card.,SPELL
+1217,,,,1.0,299.0,,"[40, 400, 5, 50]",,,"If you combine it with Spooned Lightning and Knived Lightning, you have the full dining set.",,,EX1_251,,,Forked Lightning,2.0,{'REQ_MINIMUM_ENEMY_MINIONS': 2},SHAMAN,,COMMON,EXPERT1,,Deal $2 damage to 2 random enemy minions. <b>Overload:</b> (2),SPELL
+1224,,,,1.0,903.0,,"[400, 1600, 100, 400]",,,"The seething wrath is just beneath the surface.  Beneath that is wild abandon, followed by slight annoyance.",,,EX1_549,,,Bestial Wrath,,"{'REQ_FRIENDLY_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0, 'REQ_TARGET_WITH_RACE': 20}",HUNTER,,EPIC,EXPERT1,,Give a friendly Beast +2 Attack and <b>Immune</b> this turn.,SPELL
+1225,,,,0.0,1701.0,,,,,,,,XXX_025,,,Do Nothing,,,NEUTRAL,,COMMON,CHEAT,,This does nothing.,SPELL
+1227,,,,0.0,40317.0,,,,,,,,TB_CoOpv3_008,,,Flame Missiles,,,NEUTRAL,,,TB,,Deal 10 damage randomly split among all other characters.,SPELL
+1231,,,,4.0,1064.0,,"[100, 800, 20, 100]",,,"""Look, it's not just about waving daggers around really fast.  It's a lot more complicated than that."" - Shan, Rogue Trainer",,,CS2_233,,,Blade Flurry,,{'REQ_WEAPON_EQUIPPED': 0},ROGUE,,RARE,EXPERT1,,Destroy your weapon and deal its damage to all enemy minions.,SPELL
+1248,,,,0.0,182.0,,,,,,,,EX1_178b,,,Uproot,,,DRUID,,,EXPERT1,,+5 Attack.,SPELL
+1263,,,,3.0,1323.0,,,,,,,,TU4a_004,,,Hogger SMASH!,,"{'REQ_ENEMY_TARGET': 0, 'REQ_HERO_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,COMMON,MISSIONS,,Deal 4 damage.,SPELL
+1267,,,,2.0,785.0,,,,,"It's okay, he deserved it.",,Unlocked at Level 47.,CS2_108,,,Execute,,"{'REQ_DAMAGED_TARGET': 0, 'REQ_ENEMY_TARGET': 0, 'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",WARRIOR,,FREE,CORE,,Destroy a damaged enemy minion.,SPELL
+1268,,,,6.0,38395.0,,"[100, 800, 20, 100]",,,Aren't Thistles prickly?  Why would you drink them? I don't get Rogues.,,,OG_073,,,Thistle Tea,,{'REQ_MINION_TARGET': 0},ROGUE,,RARE,OG,,Draw a card. Add 2 extra copies of it to your hand.,SPELL
+1269,,,,5.0,38418.0,,"[400, 1600, 100, 400]",,,What's in there? I bet it's cookie recipes!,,,OG_090,,,Cabalist's Tome,,,MAGE,,EPIC,OG,,Add 3 random Mage spells to your hand.,SPELL
+1270,,,,0.0,2411.0,,,,,,,,XXX_058,,,Weapon Nerf,,,NEUTRAL,,COMMON,CHEAT,,Give a weapon a negative enchantment.,SPELL
+1272,,,,2.0,2289.0,,"[100, 800, 20, 100]",,,Chocolate lava cake is shockingly delicious.,,"Crafting unlocked in Molten Core, in the Blackrock Mountain adventure.",BRM_011,,,Lava Shock,,{'REQ_TARGET_TO_PLAY': 0},SHAMAN,,RARE,BRM,,"Deal $2 damage.
+Unlock your <b>Overloaded</b> Mana Crystals.",SPELL
+1281,,,,3.0,40306.0,,,,,,,,KARA_07_06heroic,,,Demons Loose!,,,NEUTRAL,,,KARA,,Summon a random Demon.,SPELL
+1287,,,,3.0,366.0,,"[400, 1600, 100, 400]",,,"While it's fun to intercept enemy lightning bolts, a spellbender much prefers to intercept opposing Marks of the Wild.  It just feels meaner.  And blood elves... well, they're a little mean.",,,tt_010,['SECRET'],,Spellbender,,,MAGE,,EPIC,EXPERT1,,"<b>Secret:</b> When an enemy casts a spell on a minion, summon a 1/3 as the new target.",SPELL
+1291,,,,2.0,1927.0,,"[40, 400, 5, 50]",,,Calling something a flamecannon really doesn't do much to distinguish it from other goblin devices.,,,GVG_001,,,Flamecannon,,{'REQ_MINIMUM_ENEMY_MINIONS': 1},MAGE,,COMMON,GVG,,Deal $4 damage to a random enemy minion.,SPELL
+1303,,,,0.0,578.0,,,,,,,,EX1_178a,,,Rooted,,,DRUID,,,EXPERT1,,+5 Health and <b>Taunt</b>.,SPELL
+1304,,,,0.0,451.0,,,,,,,,EX1_164a,,,Nourish,,,DRUID,,,EXPERT1,,Gain 2 Mana Crystals.,SPELL
+1311,,,,3.0,40307.0,,,,,,,,KARA_07_07heroic,,,Haywire Mech!,,,NEUTRAL,,,KARA,,Summon a random Mech.,SPELL
+1312,,,,0.0,1561.0,,,,,,,,XXX_012,,,Bounce,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,COMMON,CHEAT,,Return a minion to its owner's hand.,SPELL
+1313,,,,0.0,40037.0,,,,,,,,TB_ClassRandom_Warlock,,,Second Class: Warlock,,,WARLOCK,,,TB,,Add Warlock cards to your deck.,SPELL
+1318,,,,5.0,1522.0,,"[100, 800, 20, 100]",,,This card causes double the trouble AND double the fun.,,,EX1_355,,,Blessed Champion,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",PALADIN,,RARE,EXPERT1,,Double a minion's Attack.,SPELL
+1332,,,,0.0,39887.0,,,,,,,,XXX_107,['ImmuneToSpellpower'],,Set Health to 1,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,COMMON,CHEAT,,"Set a character's health to 1, and remove all armour.",SPELL
+1335,,,,2.0,38913.0,,"[40, 400, 5, 50]",,,"Wait, how can you have a light in the dark?  If you turn on a light while it’s dark, doesn’t that mean it’s no longer dark?",,,OG_311,,,A Light in the Darkness,,,PALADIN,,COMMON,OG,,"<b>Discover</b> a minion.
+Give it +1/+1.",SPELL
+1349,,,,2.0,42162.0,,,,,,,,TB_SPT_DPromoSecret2,['SECRET'],,Visions of the Crusader,,,WARRIOR,,,TB,,"<b>Secret:</b> When your opponent summons a minion with <b>Taunt</b>, change all minions'
+attacks to 1.",SPELL
+1350,,,,0.0,38413.0,,"[400, 1600, 100, 400]",,,WARNING: This flame is not to be used unless you are a licensed acolyte of the Old Gods.,,,OG_086,,,Forbidden Flame,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",MAGE,,EPIC,OG,,Spend all your Mana. Deal that much damage to a minion.,SPELL
+1355,,,,0.0,2226.0,,,,,,,,GVG_032a,,,Gift of Mana,,,DRUID,,,GVG,,Give each player a Mana Crystal.,SPELL
+1357,,,,2.0,585.0,,"[40, 400, 5, 50]",,,It traps your food AND cooks it for you!,,,EX1_610,['SECRET'],,Explosive Trap,,,HUNTER,,COMMON,EXPERT1,,"<b>Secret:</b> When your hero is attacked, deal $2 damage to all enemies.",SPELL
+1360,,,,1.0,376.0,,"[40, 400, 5, 50]",,,Good idea: Buffing your minions.  Bad idea: Starting a conversation in the Barrens.,,,CS1_129,,,Inner Fire,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",PRIEST,,COMMON,EXPERT1,,Change a minion's Attack to be equal to its Health.,SPELL
+1363,,,,2.0,39160.0,,"[100, 800, 20, 100]",,,"""I know some new tricks, a lot of good tricks. I will show them to you. Medivh will not mind at all if I do.""",,"Crafting unlocked in the Menagerie, in One Night in Karazhan.",KAR_004,['SECRET'],,Cat Trick,,,HUNTER,,RARE,KARA,,"<b>Secret:</b> After your opponent casts a spell, summon a 4/2 Panther with <b>Stealth</b>.",SPELL
+1368,,,,4.0,39662.0,,,,,,,,KARA_09_05,,,Summon Kil'rek,,{'REQ_NUM_MINION_SLOTS': 1},NEUTRAL,,,KARA,,Summon Kil'rek.,SPELL
+1371,,,,1.0,1694.0,,,,,,,,EX1_014t,,,Bananas,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,,EXPERT1,,Give a minion +1/+1.,SPELL
+1374,,,,0.0,38333.0,,"[40, 400, 5, 50]",,,,,,OG_047b,,,Evolve Scales,,,DRUID,,COMMON,OG,,Gain 8 Armor.,SPELL
+1377,,,,3.0,39495.0,,"[100, 800, 20, 100]",,,Form ranks! Everyone into the King's Tuskarr Defense!,,"Crafting unlocked in the Parlor, in One Night in Karazhan.",KAR_026,,,Protect the King!,,"{'REQ_MINIMUM_ENEMY_MINIONS': 1, 'REQ_NUM_MINION_SLOTS': 1}",WARRIOR,,RARE,KARA,,"For each enemy minion, summon a 1/1 Pawn with <b>Taunt</b>.",SPELL
+1379,,,,0.0,40532.0,,,,,,,,TB_CoOpv3_011,,,Don't Push Me!,,,NEUTRAL,,,TB,,He's getting angry....,SPELL
+1380,,,,2.0,40301.0,,,,,,,,KARA_08_05H,,,Terrifying Roar,,"{'REQ_ENEMY_TARGET': 0, 'REQ_MINIMUM_ENEMY_MINIONS': 1, 'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,,KARA,,Return an enemy minion to your opponent's hand.,SPELL
+1382,,,,10.0,19615.0,,,,,,,,LOEA16_4,['ImmuneToSpellpower'],,Timepiece of Horror,,,NEUTRAL,,,LOE,,Deal $10 damage randomly split among all enemies.,SPELL
+1391,,,,5.0,41618.0,,,,,,,,CFM_621t22,,,Kingsblood,,,NEUTRAL,,,GANGS,,Draw 2 cards.,SPELL
+1397,,,,2.0,1091.0,,"[100, 800, 20, 100]",,,Sometimes it's as simple as putting on a fake mustache and pointing at someone else.,,,EX1_533,['SECRET'],,Misdirection,,,HUNTER,,RARE,EXPERT1,,"<b>Secret:</b> When an enemy attacks your hero, instead it attacks another random character.",SPELL
+1398,,,,2.0,1809.0,,"[40, 400, 5, 50]",,,"It's like birth, except you're an adult and you were just dead a second ago.",,"Crafting unlocked in The Military Quarter, in the Naxxramas adventure.",FP1_025,,,Reincarnate,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",SHAMAN,,COMMON,NAXX,,"Destroy a minion, then return it to life with full Health.",SPELL
+1400,,,,7.0,1004.0,,,,,"When the ground is on fire, you should <i>not</i> stop, drop, and roll.",,Unlocked at Level 51.,CS2_032,,,Flamestrike,,,MAGE,,COMMON,CORE,,Deal $4 damage to all enemy minions.,SPELL
+1404,,,,2.0,404.0,,"[100, 800, 20, 100]",,,It was just a flesh wound.,,,CS2_038,,,Ancestral Spirit,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",SHAMAN,,RARE,EXPERT1,,"Give a minion ""<b>Deathrattle:</b> Resummon this minion.""",SPELL
+1408,,,,3.0,40297.0,,"[100, 800, 20, 100]",,,The secret ingredient in Kazakus's award-winning chili recipe.,,,CFM_065,,,Volcanic Potion,,,MAGE,,RARE,GANGS,,Deal $2 damage to all minions.,SPELL
+1409,,,,3.0,286.0,,"[100, 800, 20, 100]",,,Rumor has it that Deathwing brought about the Cataclysm after losing a game to this card.  We may never know the truth.,,,EX1_594,['SECRET'],,Vaporize,,,MAGE,,RARE,EXPERT1,,"<b>Secret:</b> When a minion attacks your hero, destroy it.",SPELL
+1412,,,,0.0,2630.0,,,,,,,,XXX_059,,,Destroy Hero's Stuff,,"{'REQ_HERO_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,,CHEAT,,"Destroy target hero's hero power, weapon, deck, hand, minions, and secrets.",SPELL
+1414,,,,1.0,727.0,,,,,"This spell has been renamed so many times, even paladins don’t know what it should be called anymore.",,Unlocked at Level 23.,EX1_371,,,Hand of Protection,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",PALADIN,,FREE,CORE,,Give a minion <b>Divine Shield</b>.,SPELL
+1416,,,,0.0,25400.0,,,,,,,,LOEA16_10,,,Hakkari Blood Goblet,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,,LOE,,Transform a minion into a 2/1 Pit Snake.,SPELL
+1420,,,,0.0,468.0,,,,,,,,EX1_155a,,,Mark of Nature,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",DRUID,,,EXPERT1,,+4 Attack.,SPELL
+1433,,,,4.0,40957.0,,"[40, 400, 5, 50]",,,"There's a fine line between ""potion"" and ""grenade"". Wait. Actually, there's not.",,,CFM_608,,,Blastcrystal Potion,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",WARLOCK,,COMMON,GANGS,,Destroy a minion and one of your Mana Crystals.,SPELL
+1434,,,,0.0,2684.0,,,,,,,,XXX_060,['ImmuneToSpellpower'],,Damage All,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,,CHEAT,,Set the Health of a character to 0.,SPELL
+1435,,,,3.0,40562.0,,,,,,,,KARA_13_12,,,Demonic Presence,,,NEUTRAL,,,KARA,,"Draw 2 cards.
+Gain 10 Armor.",SPELL
+1446,,,,0.0,137.0,,,,,,,,EX1_154b,,,Wrath,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",DRUID,,,EXPERT1,,Deal $1 damage to a minion. Draw a card.,SPELL
+1447,,,,2.0,447.0,,,,,This spell is much better than Arcane Implosion.,,Unlocked at Level 28.,CS2_025,,,Arcane Explosion,,,MAGE,,FREE,CORE,,Deal $1 damage to all enemy minions.,SPELL
+1451,,,,0.0,2245.0,,,,,,,,XXX_051,,,Make Immune,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,COMMON,CHEAT,,Permanently make a character <b>Immune</b>.,SPELL
+1455,,,,1.0,2648.0,,"[100, 800, 20, 100]",,,Competition can be an inspiration to improve oneself.  Or kill all the competitors.,,,AT_073,['SECRET'],,Competitive Spirit,,,PALADIN,,RARE,TGT,,"<b>Secret:</b> When your turn starts, give your minions +1/+1.",SPELL
+1460,,,,3.0,629.0,,"[100, 800, 20, 100]",,,"An umbrella won't be effective, I'm afraid.",,,EX1_259,,,Lightning Storm,2.0,,SHAMAN,,RARE,EXPERT1,,Deal $2-$3 damage to all enemy minions. <b>Overload:</b> (2),SPELL
+1465,,,,1.0,636.0,,,,,"The way to tell seasoned warriors from novice ones: the novices yell ""wheeeee"" while whirlwinding.",,Unlocked at Level 32.,EX1_400,,,Whirlwind,,,WARRIOR,,COMMON,CORE,,Deal $1 damage to ALL minions.,SPELL
+1467,,,,0.0,25086.0,,,,,,,,LOEA04_28b,,,Wade Through,,,NEUTRAL,,,LOE,,Gain a Mana Crystal,SPELL
+1470,,,,4.0,42232.0,,,,,,,,TB_SPT_DPromoSpellPortal2,,,Stampede,,,NEUTRAL,,,TB,,Summon 2 Hell Bovines. Give all Hell Bovines <b>Charge</b>.,SPELL
+1474,,,,0.0,1759.0,,,,,,,,XXX_043,,,Mill 30,,"{'REQ_HERO_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,COMMON,CHEAT,,Put 30 cards from a hero's deck into his graveyard.,SPELL
+1476,,,,2.0,814.0,,"[40, 400, 5, 50]",,,A great sniper hits the spot.  Just like a delicious flank of boar. Mmmmm.,,,EX1_609,['SECRET'],,Snipe,,,HUNTER,,COMMON,EXPERT1,,"<b>Secret:</b> After your opponent plays a minion, deal $4 damage to it.",SPELL
+1480,,,,0.0,40358.0,,,,,,,,TB_CoOpv3_003,,,Bamboozle,,,NEUTRAL,,,TB,,Swap player's hands.,SPELL
+1481,,,,1.0,41591.0,,,,,,,,CFM_621t11,,,Lesser Potion,,,NEUTRAL,,,GANGS,,Create a 1-Cost spell.,SPELL
+1504,,,,2.0,2094.0,,"[100, 800, 20, 100]",,,Real hunters tame hungry crabs.,,,GVG_017,,,Call Pet,,,HUNTER,,RARE,GVG,,"Draw a card.
+If it's a Beast, it costs (4) less.",SPELL
+1506,,,,1.0,41582.0,,,,,,,,CFM_621t10,,,Netherbloom,,,NEUTRAL,,,GANGS,,Summon a 2/2 Demon.,SPELL
+1509,,,,2.0,461.0,,,,,Rogues love sappy movies.,,Unlocked at Level 40.,EX1_581,,,Sap,,"{'REQ_ENEMY_TARGET': 0, 'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",ROGUE,,FREE,CORE,,Return an enemy minion to your opponent's hand.,SPELL
+1510,,,,1.0,2568.0,,"[40, 400, 5, 50]",,,The promise of glory is a powerful tool to get minions to do your bidding.  Only slightly less powerful than the promise of an ice cream bar!,,,AT_013,,,Power Word: Glory,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",PRIEST,,COMMON,TGT,,"Choose a minion. Whenever it attacks, restore 4 Health to
+your hero.",SPELL
+1513,,,,3.0,113.0,,"[100, 800, 20, 100]",,,What's the difference between a mage playing with Counterspell and a mage who isn't?  The mage who isn't is getting Pyroblasted in the face.,,,EX1_287,['SECRET'],,Counterspell,,,MAGE,,RARE,EXPERT1,,"<b>Secret:</b> When your opponent casts a spell, <b>Counter</b> it.",SPELL
+1518,,,,7.0,40411.0,,"[400, 1600, 100, 400]",,,"Wow, and I thought Arcane Missiles was great!",,,CFM_623,,,Greater Arcane Missiles,,,MAGE,,EPIC,GANGS,,Shoot three missiles at random enemies that deal $3 damage each.,SPELL
+1524,,,,4.0,577.0,,"[100, 800, 20, 100]",,,Chew your food!,,,EX1_570,,,Bite,,,DRUID,,RARE,EXPERT1,,Give your hero +4 Attack this turn and 4 Armor.,SPELL
+1527,,,,0.0,2861.0,,"[40, 400, 5, 50]",,,,,,AT_042a,,,Lion Form,,,DRUID,,COMMON,TGT,,<b>Charge</b>,SPELL
+1528,,,,5.0,1171.0,,,,,blaarghghLLGHRHARAAHAHHH!!,,Unlocked at Level 40.,CS2_046,,,Bloodlust,,,SHAMAN,,COMMON,CORE,,Give your minions +3 Attack this turn.,SPELL
+1534,,,,3.0,2018.0,,"[400, 1600, 100, 400]",,,Only goblins would think this was a good idea. Even they are starting to have their doubts.,,,GVG_050,,,Bouncing Blade,,{'REQ_MINIMUM_TOTAL_MINIONS': 1},WARRIOR,,EPIC,GVG,,Deal $1 damage to a random minion. Repeat until a minion dies.,SPELL
+1535,,,,0.0,39876.0,,,,,,,,XXX_103,['ImmuneToSpellpower'],,Add 2 to Health,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,COMMON,CHEAT,,Adds 2 health to a damaged character. Does NOT heal.,SPELL
+1536,,,,0.0,1592.0,,,,,,,,XXX_018,,,Destroy All Minions,,,NEUTRAL,,COMMON,CHEAT,,Destroy all minions.,SPELL
+1538,,,,0.0,1583.0,,,,,,,,XXX_009,,,Enchant,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,COMMON,CHEAT,,Enchant a minion with an empty enchant.,SPELL
+1543,,,,1.0,846.0,,"[40, 400, 5, 50]",,,We cannot even describe how horrible the death is.  It's CRAZY bad!  Maybe worse than that.  Just don't do it.,,,EX1_316,,,Power Overwhelming,,"{'REQ_FRIENDLY_TARGET': 0, 'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",WARLOCK,,COMMON,EXPERT1,,"Give a friendly minion +4/+4 until end of turn. Then, it dies. Horribly.",SPELL
+1554,,,,1.0,2353.0,,,,,,,,BRMA09_6,,,The True Warchief,,"{'REQ_LEGENDARY_TARGET': 0, 'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,,BRM,,Destroy a Legendary minion.,SPELL
+1555,,,,3.0,2587.0,,"[400, 1600, 100, 400]",,,Can you hold these eggs for just a second?  I promise they're not full of giant enraged undead spider things.,,,AT_035,,,Beneath the Grounds,,,ROGUE,,EPIC,TGT,,"Shuffle 3 Ambushes into your opponent's deck. When drawn, you summon a 4/4 Nerubian.",SPELL
+1558,,,,0.0,60.0,,,,,,,,EX1_160a,,,Summon a Panther,,{'REQ_NUM_MINION_SLOTS': 1},DRUID,,,EXPERT1,,Summon a 3/2 Panther.,SPELL
+1560,,,,0.0,40437.0,,"[100, 800, 20, 100]",,,There is something funny about this coin… can't quite put my finger on it…,,,CFM_630,,,Counterfeit Coin,,,ROGUE,,RARE,GANGS,,Gain 1 Mana Crystal this turn only.,SPELL
+1561,,,,3.0,766.0,,,,,"If you Hex a Murloc... it really isn't much of a change, is it?",,Unlocked at Level 47.,EX1_246,,,Hex,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",SHAMAN,,FREE,CORE,,Transform a minion into a 0/1 Frog with <b>Taunt</b>.,SPELL
+1564,,,,0.0,987.0,,,,,,,,EX1_166a,,,Moonfire,,{'REQ_TARGET_TO_PLAY': 0},DRUID,,,EXPERT1,,Deal 2 damage.,SPELL
+1566,,,,0.0,35292.0,,,,,,,,BRMA02_2_2c_TB,,,Jeering Crowd,,,NEUTRAL,,,TB,,Summon a 1/1 Spectator with <b>Taunt</b>.,SPELL
+1567,,,,10.0,41626.0,,,,,,,,CFM_621t30,,,Kingsblood,,,NEUTRAL,,,GANGS,,Draw 3 cards.,SPELL
+1568,,,,2.0,39682.0,,,,,,,,KARA_08_04,,,Empowerment,,,NEUTRAL,,,KARA,,Give your hero +8 Attack this turn.,SPELL
+1573,,,,0.0,321.0,,,,,,,,EX1_166b,['SILENCE'],,Dispel,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",DRUID,,,EXPERT1,,<b>Silence</b> a minion.,SPELL
+1587,,,,6.0,2009.0,,"[400, 1600, 100, 400]",,,Don't worry; we fired the person who named this card.,,,GVG_041,['CHOOSE_ONE'],,Dark Wispers,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_IF_AVAILABLE': 0}",DRUID,,EPIC,GVG,,<b>Choose One -</b> Summon 5 Wisps; or Give a minion +5/+5 and <b>Taunt</b>.,SPELL
+1591,,,,0.0,38289.0,,,,,,,,TB_CoOpBossSpell_5,,,Double Zap,,,NEUTRAL,,,TB,,Deal Attack damage to both players.,SPELL
+1595,,,,3.0,1363.0,,,,,"If you miss, it leaves a lightning-bolt-shaped scar on your target.",,Unlocked at Level 43.,EX1_622,,,Shadow Word: Death,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_MIN_ATTACK': 5, 'REQ_TARGET_TO_PLAY': 0}",PRIEST,,COMMON,CORE,,Destroy a minion with 5 or more Attack.,SPELL
+1599,,,,10.0,41624.0,,,,,,,,CFM_621t28,,,Netherbloom,,,NEUTRAL,,,GANGS,,Summon an 8/8 Demon.,SPELL
+1604,,,,5.0,41606.0,,,,,,,,CFM_621t17,,,Stonescale Oil,,,NEUTRAL,,,GANGS,,Gain 7 Armor.,SPELL
+1608,,,,1.0,39764.0,,,,,,,,KARA_00_09,,,Mage Armor,,,MAGE,,,KARA,,Gain 10 Armor.,SPELL
+1612,,,,1.0,40303.0,,,,,,,,KARA_07_03heroic,,,Murlocs Escaping!,,,NEUTRAL,,,KARA,,Summon two random Murlocs.,SPELL
+1613,,,"Deal $2 damage.
+<b>Combo:</b> Summon a <b>Jade Golem</b>.",2.0,40698.0,,"[40, 400, 5, 50]",,,"Good news is, after you remove it from your wound, you can use it to pay your medical bills!",,,CFM_690,"['COMBO', 'JADE_GOLEM']",,Jade Shuriken,,{'REQ_TARGET_TO_PLAY': 0},ROGUE,,COMMON,GANGS,,"Deal $2 damage.
+<b>Combo:</b> Summon a{1} {0} <b>Jade Golem</b>.",SPELL
+1617,,,,5.0,41607.0,,,,,,,,CFM_621t18,,,Felbloom,,,NEUTRAL,,,GANGS,,Deal $4 damage to all minions.,SPELL
+1618,,,,1.0,1092.0,,,,,"If your spells look like horrifying skulls, let's be honest, you should get to draw some cards.",,Unlocked at Level 43.,EX1_302,,,Mortal Coil,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",WARLOCK,,COMMON,CORE,,"Deal $1 damage to a minion. If that kills it, draw a card.",SPELL
+1626,,,,0.0,254.0,,,,,"Some druids still have flashbacks from strangers yelling ""Innervate me!!"" at them.",,Unlocked at Level 36.,EX1_169,,,Innervate,,,DRUID,,FREE,CORE,,Gain 2 Mana Crystals this turn only.,SPELL
+1631,,,,6.0,39714.0,,"[100, 800, 20, 100]",,,Ain't no party like a Moonglade party ‘cause a Moonglade party got bears.,,"Crafting unlocked in the Spire, in One Night in Karazhan.",KAR_075,,,Moonglade Portal,,{'REQ_TARGET_TO_PLAY': 0},DRUID,,RARE,KARA,,"Restore #6 Health. Summon a random
+6-Cost minion.",SPELL
+1644,,,,3.0,151.0,,"[40, 400, 5, 50]",,,"Druids call it the ""Mark of Nature.""  Everyone else calls it ""needing a bath.""",,,EX1_155,['CHOOSE_ONE'],,Mark of Nature,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",DRUID,,COMMON,EXPERT1,,<b>Choose One -</b> Give a minion +4 Attack; or +4 Health and <b>Taunt</b>.,SPELL
+1647,,,,1.0,39634.0,,,,,,,,KARA_07_03,,,Murloc Escaping!,,,NEUTRAL,,,KARA,,Summon a random Murloc.,SPELL
+1648,,,,2.0,2006.0,,"[40, 400, 5, 50]",,,Snap! This card! Pop!,,,GVG_038,,,Crackle,1.0,{'REQ_TARGET_TO_PLAY': 0},SHAMAN,,COMMON,GVG,,Deal $3-$6 damage. <b>Overload:</b> (1),SPELL
+1649,,,,0.0,2702.0,,,,,,,,TB_011,,,Tarnished Coin,,,NEUTRAL,,,TB,,Gain 1 Mana Crystal this turn only.,SPELL
+1662,,,,5.0,1985.0,,"[400, 1600, 100, 400]",,,Virtually every member of the pro demon lobby is a warlock. Weird.,,,GVG_019,,,Demonheart,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",WARLOCK,,EPIC,GVG,,"Deal $5 damage to a minion.  If it's a friendly Demon, give it +5/+5 instead.",SPELL
+1665,,,,5.0,39197.0,,"[40, 400, 5, 50]",,,This is what happens when you tell Khadgar to set the table.,,"Crafting unlocked in the Opera, in One Night in Karazhan.",KAR_025,,,Kara Kazham!,,{'REQ_NUM_MINION_SLOTS': 1},WARLOCK,,COMMON,KARA,,"Summon a 1/1 Candle, 2/2 Broom, and 3/3 Teapot.",SPELL
+1667,,,,0.0,1587.0,,,,,,,,XXX_013,,,Discard,,"{'REQ_HERO_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,COMMON,CHEAT,,Choose a hero.  That hero's controller discards his hand.,SPELL
+1671,,,,2.0,1855.0,,,,,,,,NAX5_03,,,Mindpocalypse,,,NEUTRAL,,,NAXX,,Both players draw 2 cards and gain a Mana Crystal.,SPELL
+1673,,,,0.0,1647.0,,,,,,,,XXX_021,,,Restore All Health,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,COMMON,CHEAT,,Restore all Health to a character.,SPELL
+1677,,,,1.0,2153.0,,,,,,,,PART_003,,,Rusty Horn,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,,GVG,,Give a minion <b>Taunt</b>.,SPELL
+1679,,,,0.0,1710.0,,,,,,,,XXX_027,,,Server Crash,,,NEUTRAL,,,CHEAT,,Crash the Server.  DON'T BE A FOOL.,SPELL
+1680,,,,6.0,39664.0,,,,,,,,KARA_09_07,,,Steal Life,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,,KARA,,Deal $5 damage. Restore #5 Health to your hero.,SPELL
+1687,,,,0.0,38290.0,,,,,,,,TB_CoOpBossSpell_6,,,Kill the Lorewalker,,,NEUTRAL,,,TB,,Destroy Lorewalker Cho.,SPELL
+1690,,,,0.0,2847.0,,,,,,,,AT_035t,['TOPDECK'],,Ambush!,,,ROGUE,,,TGT,,"When you draw this, summon a 4/4 Nerubian for your opponent. Draw a card.",SPELL
+1698,,,,1.0,2362.0,,,,,,,,BRMA12_3,"['EVIL_GLOW', 'ImmuneToSpellpower']",,Brood Affliction: Red,,,NEUTRAL,,,BRM,,"While this is in your hand, take 1 damage at the start of your turn.",SPELL
+1703,,,,1.0,38393.0,,"[100, 800, 20, 100]",,,Don't stop believing there's something below.,,,OG_072,,,Journey Below,,,ROGUE,,RARE,OG,,<b>Discover</b> a <b>Deathrattle</b> card.,SPELL
+1705,,,,1.0,25271.0,,,,,,,,LOEA07_20,,,Boom!,,,NEUTRAL,,,LOE,,Deal $3 damage to all enemy minions.,SPELL
+1709,,,,4.0,2628.0,,"[100, 800, 20, 100]",,,* Not actually Jaraxxus' fist.,,,AT_022,['InvisibleDeathrattle'],,Fist of Jaraxxus,,,WARLOCK,,RARE,TGT,,"When you play or discard this, deal $4 damage to a random enemy.",SPELL
+1721,,,,1.0,41584.0,,,,,,,,CFM_621t8,,,Kingsblood,,,NEUTRAL,,,GANGS,,Draw a card.,SPELL
+1723,,,,5.0,2274.0,,"[40, 400, 5, 50]",,,"Each year, folk gather in front of Blackrock Mountain to mourn those who were mind-controlled into the lava.",,"Crafting unlocked in Hidden Laboratory, in the Blackrock Mountain adventure.",BRM_001,,,Solemn Vigil,,,PALADIN,,COMMON,BRM,,Draw 2 cards. Costs (1) less for each minion that died this turn.,SPELL
+1724,,,,0.0,25073.0,,,,,,,,LOEA02_10,,,Wish for Companionship,,,NEUTRAL,,,LOE,,<b>Discover</b> a Companion.,SPELL
+1727,,,,3.0,864.0,,"[100, 800, 20, 100]",,,It's like an ocean of liquid magma in your mouth!,,,EX1_241,,,Lava Burst,2.0,{'REQ_TARGET_TO_PLAY': 0},SHAMAN,,RARE,EXPERT1,,Deal $5 damage. <b>Overload:</b> (2),SPELL
+1731,,,,3.0,296.0,,,,,"""Kill!"", he commanded.",,Unlocked at Level 49.,EX1_539,,,Kill Command,,{'REQ_TARGET_TO_PLAY': 0},HUNTER,,COMMON,CORE,,"Deal $3 damage. If you control a Beast, deal
+$5 damage instead.",SPELL
+1737,,,,2.0,1142.0,,"[40, 400, 5, 50]",,,Demonfire is like regular fire except for IT NEVER STOPS BURNING HELLLPPP,,,EX1_596,,,Demonfire,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",WARLOCK,,COMMON,EXPERT1,,"Deal $2 damage to a minion. If it’s a friendly Demon, give it +2/+2 instead.",SPELL
+1740,,,,3.0,2541.0,,"[100, 800, 20, 100]",,,"Burning man, brah.",,,AT_002,['SECRET'],,Effigy,,,MAGE,,RARE,TGT,,"<b>Secret:</b> When a friendly minion dies, summon a random minion with the same Cost.",SPELL
+1744,,,,0.0,1145.0,,,,,,,,EX1_573a,,,Demigod's Favor,,,DRUID,,,EXPERT1,,Give your other minions +2/+2.,SPELL
+1745,,,,0.0,41408.0,,,,,,,,CFM_602b,,,Jade Idol,,,DRUID,,,GANGS,,Shuffle 3 Jade Idols into your deck.,SPELL
+1748,,,,2.0,1748.0,,,,,Even your flavor text has been deleted. Dang.,,,GAME_006,,,NOOOOOOOOOOOO,,,NEUTRAL,,,CORE,,"Somehow, the card you USED to have has been deleted.  Here, have this one instead!",SPELL
+1749,,,,3.0,1935.0,,"[40, 400, 5, 50]",,,"Velen wrote a ""Lovely Card"" for Tyrande with a picture of the Deeprun Tram that said ""I Choo-Choo-Choose you!""",,,GVG_010,,,Velen's Chosen,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",PRIEST,,COMMON,GVG,,Give a minion +2/+4 and <b>Spell Damage +1</b>.,SPELL
+1755,,,,1.0,854.0,,,,,"This card makes something really damp.  Oh wait.  That's ""Humidity.""",,Unlocked at Level 28.,EX1_360,,,Humility,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",PALADIN,,COMMON,CORE,,Change a minion's Attack to 1.,SPELL
+1757,,,,0.0,16445.0,,,,,,,,LOEA04_06a,['ImmuneToSpellpower'],,Swing Across,,,NEUTRAL,,,LOE,,"Take 10 damage or no damage, at random.",SPELL
+1760,,,,1.0,2154.0,,,,,,,,PART_004,,,Finicky Cloakfield,,"{'REQ_FRIENDLY_TARGET': 0, 'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,,GVG,,Give a friendly minion <b>Stealth</b> until your next turn.,SPELL
+1770,,,,2.0,40304.0,,,,,,,,KARA_07_05heroic,,,Stampeding Beast!,,,NEUTRAL,,,KARA,,Summon a random Beast.,SPELL
+1772,,,,0.0,40384.0,,,,,,,,TB_Coopv3_102a,,,Secrets of Shadow,,,PRIEST,,,TB,,Each player draws 2 cards.,SPELL
+1776,,,,5.0,1907.0,,,,,,,,NAX14_04,['FREEZE'],,Pure Cold,,,NEUTRAL,,,NAXX,,"Deal $8 damage to the enemy hero, and <b>Freeze</b> it.",SPELL
+1781,,,,0.0,42234.0,,,,,,,,TB_SPT_DPromo_EnterPortal,,,The Portal Opens,,,NEUTRAL,,,TB,,Through the Nether and into...,SPELL
+1782,,,,0.0,365.0,,"[40, 400, 5, 50]",,,Rogue dance troops will sometimes Shadowstep away at the end of a performance.  Crowds love it.,,,EX1_144,,,Shadowstep,,"{'REQ_FRIENDLY_TARGET': 0, 'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",ROGUE,,COMMON,EXPERT1,,Return a friendly minion to your hand. It costs (2) less.,SPELL
+1783,,,,0.0,2195.0,,,,,,,,GVG_030a,,,Attack Mode,,,DRUID,,,GVG,,+1 Attack.,SPELL
+1794,,,,7.0,1832.0,,,,,,,,NAX1_05,,,Locust Swarm,,,NEUTRAL,,,NAXX,,Deal $3 damage to all enemy minions. Restore #3 Health to your hero.,SPELL
+1796,,,,3.0,437.0,,,"['NEW1_032', 'NEW1_033', 'NEW1_034']",,"You could summon Misha, Leokk, or Huffer!  Huffer is more trouble than he's worth.",,Unlocked at Level 45.,NEW1_031,,,Animal Companion,,{'REQ_NUM_MINION_SLOTS': 1},HUNTER,,COMMON,CORE,,Summon a random Beast Companion.,SPELL
+1802,,,,1.0,25276.0,,,,,,,,LOEA07_26,,,Consult Brann,,,NEUTRAL,,,LOE,,Draw 3 cards.,SPELL
+1804,,,,0.0,364.0,,,,,,,,EX1_573b,,,Shan'do's Lesson,,,DRUID,,,EXPERT1,,Summon two 2/2 Treants with <b>Taunt</b>.,SPELL
+1809,,,,0.0,2710.0,,,,,,,,TB_012,,,Choose a New Card!,,,NEUTRAL,,,TB,,Look at 3 random cards. Choose one and shuffle it into your deck.,SPELL
+1813,,,,10.0,41627.0,,,,,,,,CFM_621t31,,,Shadow Oil,,,NEUTRAL,,,GANGS,,Add 3 random Demons to your hand.,SPELL
+1815,,,,0.0,467.0,,,,,"""Cast Moonfire, and never stop."" - How to Be a Druid, Chapter 5, Section 3",,Unlocked at Level 40.,CS2_008,,,Moonfire,,{'REQ_TARGET_TO_PLAY': 0},DRUID,,COMMON,CORE,,Deal $1 damage.,SPELL
+1817,,,,10.0,41622.0,,,,,,,,CFM_621t26,,,Stonescale Oil,,,NEUTRAL,,,GANGS,,Gain 10 Armor.,SPELL
+1820,,,,0.0,2820.0,,,,,,,,XXX_063,,,Destroy ALL Secrets,,,NEUTRAL,,,CHEAT,,Destroy all <b>Secrets:</b>.,SPELL
+1824,,,,0.0,38716.0,,"[100, 800, 20, 100]",,,,,,OG_202a,,,Y'Shaarj's Strength,,,DRUID,,RARE,OG,,Summon a 2/2 Slime.,SPELL
+1827,,,,1.0,1960.0,,,,,,,,NAX7_05,,,Mind Control Crystal,,,NEUTRAL,,,NAXX,,Activate the Crystal to control the Understudies!,SPELL
+1840,,,,5.0,95.0,,"[100, 800, 20, 100]",,,"Druids take nourishment from many things: the power of nature, the songbird's chirp, a chocolate cake.",,,EX1_164,['CHOOSE_ONE'],,Nourish,,,DRUID,,RARE,EXPERT1,,<b>Choose One -</b> Gain 2 Mana Crystals; or Draw 3 cards.,SPELL
+1852,,,,0.0,16416.0,,,,,,,,LOEA04_06,,,Pit of Spikes,,,NEUTRAL,,,LOE,,<b>Choose Your Path!</b>,SPELL
+1853,,,,2.0,39761.0,,,,,,,,KARA_00_06,,,Arcane Power,,,MAGE,,,KARA,,You have <b>Spell Damage</b> +5 this turn.,SPELL
+1856,,,,0.0,1588.0,,,,,,,,XXX_014,,,Mill 10,,"{'REQ_HERO_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,COMMON,CHEAT,,Put 10 cards from a hero's deck into his graveyard.,SPELL
+1866,,,,4.0,39716.0,,"[40, 400, 5, 50]",,,What's Millhouse Manastorm doing in Silvermoon?,,"Crafting unlocked in the Opera, in One Night in Karazhan.",KAR_077,,,Silvermoon Portal,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",PALADIN,,COMMON,KARA,,"Give a minion +2/+2. Summon a random
+2-Cost minion.",SPELL
+1870,,,,4.0,476.0,,,,,"Consecrated ground glows with Holy energy.  But it smells a little, too.",,Unlocked at Level 43.,CS2_093,,,Consecration,,,PALADIN,,COMMON,CORE,,Deal $2 damage to all enemies.,SPELL
+1883,,,,0.0,835.0,,,,,,,,EX1_160b,,,Leader of the Pack,,,DRUID,,,EXPERT1,,Give your minions +1/+1.,SPELL
+1885,,,,10.0,41623.0,,,,,,,,CFM_621t27,,,Icecap,,,NEUTRAL,,,GANGS,,<b>Freeze</b> 3 random enemy minions.,SPELL
+1886,,,,2.0,2432.0,,,,,,,,BRMA17_4,,,LAVA!,,,NEUTRAL,,,BRM,,Deal $2 damage to all minions.,SPELL
+1887,,,,1.0,2152.0,,,,,,,,PART_002,,,Time Rewinder,,"{'REQ_FRIENDLY_TARGET': 0, 'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,,GVG,,Return a friendly minion to your hand.,SPELL
+1892,,,,3.0,1672.0,,,,,,,,TU4f_004,,,Legacy of the Emperor,,,NEUTRAL,,COMMON,MISSIONS,,Give your minions +2/+2. <i>(+2 Attack/+2 Health)</i>,SPELL
+1894,,,,0.0,25396.0,,,,,,,,LOEA16_6,,,Shard of Sulfuras,,,NEUTRAL,,,LOE,,Deal $5 damage to ALL characters.,SPELL
+1896,,,,3.0,38334.0,,"[40, 400, 5, 50]",,,Let's be honest. One option is a lot ragier than the other.,,,OG_047,['CHOOSE_ONE'],,Feral Rage,,,DRUID,,COMMON,OG,,<b>Choose One -</b> Give your hero +4 Attack this turn; or Gain 8 Armor.,SPELL
+1899,,,,1.0,25390.0,,,,,,,,LOEA09_9,,,Naga Repellent,,,NEUTRAL,,,LOE,,Destroy all Hungry Naga.,SPELL
+1901,,,,2.0,42178.0,,,,,,,,TB_SPT_DPromoSecret9,['SECRET'],,Visions of Knowledge,,,WARRIOR,,,TB,,"<b>Secret:</b> When your opponent's hand has 9 or more cards, reduce the cost of all cards in both hands to (1).",SPELL
+1902,,,,6.0,3015.0,,"[40, 400, 5, 50]",,,It's perfectly safe as long as you remember to put in air holes.,,"Crafting unlocked in The Ruined City, in the League of Explorers adventure.",LOE_104,,,Entomb,,"{'REQ_ENEMY_TARGET': 0, 'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",PRIEST,,COMMON,LOE,,"Choose an enemy minion.
+Shuffle it into your deck.",SPELL
+1904,,,,0.0,38689.0,,,,,,,,TB_PickYourFate_4,,,Dire Fate: Card,,,NEUTRAL,,,TB,,"When a minion dies, its owner draws a card.",SPELL
+1906,,,,0.0,1362.0,,"[40, 400, 5, 50]",,,It isn't really a circle.,,,EX1_621,,,Circle of Healing,,,PRIEST,,COMMON,EXPERT1,,Restore #4 Health to ALL minions.,SPELL
+1913,,,,4.0,804.0,,"[100, 800, 20, 100]",,,"""If you only use one ability, use Mortal Strike."" - The Warrior Code, Line 6",,,EX1_408,,,Mortal Strike,,{'REQ_TARGET_TO_PLAY': 0},WARRIOR,,RARE,EXPERT1,,"Deal $4 damage. If you have 12 or less Health, deal $6 instead.",SPELL
+1914,,,,6.0,1174.0,,"[400, 1600, 100, 400]",,,Wham! Wham! Wham! Wham! Wham! Wham! Wham! Wham!,,,EX1_384,['ImmuneToSpellpower'],,Avenging Wrath,,,PALADIN,,EPIC,EXPERT1,,Deal $8 damage randomly split among all enemies.,SPELL
+1920,,,,3.0,555.0,,,,,Playing this card makes you SMARTER.  And let's face it: we could all stand to be a little smarter.,,Unlocked at Level 15.,CS2_023,,,Arcane Intellect,,,MAGE,,FREE,CORE,,Draw 2 cards.,SPELL
+1921,,,,3.0,818.0,,"[400, 1600, 100, 400]",,,"Drek'thar can't see, but he can <i>see</i>. You know what I mean? It's ok if you don't.",,,CS2_053,,,Far Sight,,,SHAMAN,,EPIC,EXPERT1,,Draw a card. That card costs (3) less.,SPELL
+1929,,,,3.0,40005.0,,,,,,,,KARA_12_03,"['SECRET', 'ImmuneToSpellpower']",,Flame Wreath,,,MAGE,,,KARA,,"<b>Secret:</b> When an enemy attacks, deal $5 damage to all other enemies.",SPELL
+1940,,,,1.0,40402.0,,"[100, 800, 20, 100]",,,,,,TB_OG_027,,,Evolve,,,SHAMAN,,RARE,OG,,Transform your minions into random minions that cost (1) more.,SPELL
+1941,,,,1.0,38585.0,,,,,,,,TB_GiftExchange_Treasure_Spell,,,Stolen Winter's Veil Gift,,,NEUTRAL,,,TB,,<b>Discover</b> a random Treasure. Its cost is reduced.,SPELL
+1942,,,,1.0,613.0,,,,,"Sure the extra protection is nice, but the shield really reduces visibility.",,Unlocked at Level 47.,CS2_004,,,Power Word: Shield,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",PRIEST,,FREE,CORE,,"Give a minion +2 Health.
+Draw a card.",SPELL
+1945,,,,2.0,1108.0,,"[40, 400, 5, 50]",,,Minion get ANGRY.   Minion SMASH!,,,CS2_104,,,Rampage,,"{'REQ_DAMAGED_TARGET': 0, 'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",WARRIOR,,COMMON,EXPERT1,,Give a damaged minion +3/+3.,SPELL
+1954,,,,4.0,381.0,,"[40, 400, 5, 50]",,,"""Reforestation"" is suddenly a terrifying word.",,,EX1_158,,,Soul of the Forest,,,DRUID,,COMMON,EXPERT1,,"Give your minions ""<b>Deathrattle:</b> Summon a 2/2 Treant.""",SPELL
+1960,,,,1.0,268.0,,"[40, 400, 5, 50]",,,"""I'm cold blooded, check it and see!""",,,CS2_073,['COMBO'],,Cold Blood,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",ROGUE,,COMMON,EXPERT1,,Give a minion +2 Attack. <b>Combo:</b> +4 Attack instead.,SPELL
+1963,,,,3.0,2694.0,,,"['BRMA14_3', 'BRMA14_5', 'BRMA14_7', 'BRMA14_9']",,,,,BRMC_93,,,Omnotron Defense System,,,NEUTRAL,,,TB,,Summon a random Tron.,SPELL
+1964,,,,0.0,38690.0,,,,,,,,TB_PickYourFate_5,,,Fate: Spells,,,NEUTRAL,,,TB,,Spells cost (1) less.,SPELL
+1965,,,,5.0,39588.0,,,,,,,,KAR_A02_11,,,Tossing Plates,,,NEUTRAL,,,KARA,,Summon five 1/1 Plates.,SPELL
+1966,,,,4.0,1941.0,,"[400, 1600, 100, 400]",,,"Medivh's echo haunts Karazhan, eternally cheating at chess and <i>Hearthstone</i>.",,,GVG_005,,,Echo of Medivh,,,MAGE,,EPIC,GVG,,Put a copy of each friendly minion into your hand.,SPELL
+1970,,,,2.0,42176.0,,,,,,,,TB_SPT_DPromoSecre8,['SECRET'],,Visions of the Assassin,,,WARRIOR,,,TB,,"<b>Secret:</b> When your opponent summons a minion with <b>Stealth</b>, All minions equip a dagger.",SPELL
+1972,,,,5.0,41603.0,,,,,,,,CFM_621t14,,,Kazakus Potion,,,NEUTRAL,,,GANGS,,"{0}
+{1}",SPELL
+1973,,,,2.0,455.0,,"[400, 1600, 100, 400]",,,Why did it have to be snakes?,,,EX1_554,['SECRET'],,Snake Trap,,,HUNTER,,EPIC,EXPERT1,,"<b>Secret:</b> When one of your minions is attacked, summon three 1/1 Snakes.",SPELL
+1975,,,,1.0,38942.0,,,,,,,,OG_080e,,,Fadeleaf Toxin,,"{'REQ_FRIENDLY_TARGET': 0, 'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",ROGUE,,,OG,,Give a friendly minion <b>Stealth</b> until your next turn.,SPELL
+1976,,,,0.0,2277.0,,,,,,,,GVG_028t,,,Gallywix's Coin,,,NEUTRAL,,,GVG,,"Gain 1 Mana Crystal this turn only.
+<i>(Won't trigger Gallywix.)</i>",SPELL
+1981,,,,0.0,40545.0,,,,,,,,TB_CoOpv3_012,,,Immolate,,,NEUTRAL,,,TB,,Deal 4 damage to each hero.,SPELL
+1989,,,,0.0,2090.0,,,,,,,,XXX_046,,,Force AI to Use Hero Power,,,NEUTRAL,,COMMON,CHEAT,,Force the AI to use their Hero Power every turn from now on.,SPELL
+1994,,,,2.0,291.0,,,,,"If you are often bathed in Holy Light, you should consider wearing sunscreen.",,Unlocked at Level 15.,CS2_089,,,Holy Light,,{'REQ_TARGET_TO_PLAY': 0},PALADIN,,FREE,CORE,,Restore #6 Health.,SPELL
+1996,,,,0.0,40038.0,,,,,,,,TB_ClassRandom_Shaman,,,Second Class: Shaman,,,SHAMAN,,,TB,,Add Shaman cards to your deck.,SPELL
+1999,,,,3.0,2638.0,,"[100, 800, 20, 100]",,,pow POW pow,,,AT_056,,,Powershot,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",HUNTER,,RARE,TGT,,Deal $2 damage to a minion and the minions next to it.,SPELL
+2003,,,,1.0,2155.0,,,,,,,,PART_005,['FREEZE'],,Emergency Coolant,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,,GVG,,<b>Freeze</b> a minion.,SPELL
+2005,,,,4.0,1366.0,,"[100, 800, 20, 100]",,,"It dispels buffs, powers, hopes, and dreams.",,,EX1_626,['SILENCE'],,Mass Dispel,,,PRIEST,,RARE,EXPERT1,,<b>Silence</b> all enemy minions. Draw a card.,SPELL
+2009,,,,0.0,38805.0,,,,,,,,TB_PickYourFate_9,,,Deathrattle Bonus,,,NEUTRAL,,,TB,,Your <b>Deathrattle</b> minions have +1/+1.,SPELL
+2012,,,,0.0,38654.0,,"[400, 1600, 100, 400]",,,,,,OG_195a,,,Many Wisps,,,DRUID,,EPIC,OG,,Summon seven 1/1 Wisps.,SPELL
+2013,,,,1.0,2572.0,,"[400, 1600, 100, 400]",,,Now with 100% more blast!,,,AT_004,,,Arcane Blast,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",MAGE,,EPIC,TGT,,Deal $2 damage to a minion. This spell gets double bonus from <b>Spell Damage</b>.,SPELL
+2017,,,,2.0,38461.0,,"[400, 1600, 100, 400]",,,SEE YA DARKNESS!,,,OG_118,,,Renounce Darkness,,,WARLOCK,,EPIC,OG,,Replace your Hero Power and Warlock cards with another class's. The cards cost (1) less.,SPELL
+2026,,,,2.0,940.0,,,,,Hey you two…could you stand next to each other for a second…,,Unlocked at Level 40.,CS2_114,,,Cleave,,{'REQ_MINIMUM_ENEMY_MINIONS': 2},WARRIOR,,COMMON,CORE,,"[x]Deal $2 damage to
+two random enemy
+minions.",SPELL
+2029,,,,3.0,2413.0,,,,,,,,BRMA01_4,,,Get 'em!,,,NEUTRAL,,,BRM,,Summon four 1/1 Dwarves with <b>Taunt</b>.,SPELL
+2032,,,,2.0,662.0,,,,,"It is customary to yell ""Chill out!"" or ""Freeze!"" or ""Ice ice, baby!"" when you play this card.",,Unlocked at Level 40.,CS2_024,['FREEZE'],,Frostbolt,,{'REQ_TARGET_TO_PLAY': 0},MAGE,,COMMON,CORE,,Deal $3 damage to a character and <b>Freeze</b> it.,SPELL
+2035,,,,5.0,41592.0,,,,,,,,CFM_621t12,,,Greater Potion,,,NEUTRAL,,,GANGS,,Create a 5-Cost spell.,SPELL
+2036,,,,3.0,914.0,,,,,It’s a Bolt.   It's made out of Shadow.   What more do you need to know!,,Unlocked at Level 47.,CS2_057,,,Shadow Bolt,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",WARLOCK,,FREE,CORE,,"Deal $4 damage
+to a minion.",SPELL
+2037,,,,0.0,40176.0,,,,,,,,XXX_111,,,"AI Buddy - All Charge, All Windfury!",,,NEUTRAL,,COMMON,CHEAT,,Play this card to give all minions <b>Charge</b> and <b>Windfury</b>.,SPELL
+2038,,,,2.0,1991.0,,"[400, 1600, 100, 400]",,,"The hardest part about doing a ""Feign Death"" convincingly is learning how to make the right smell. It takes a lot of commitment.",,,GVG_026,,,Feign Death,,,HUNTER,,EPIC,GVG,,Trigger all <b>Deathrattles</b> on your minions.,SPELL
+2041,,,,8.0,2853.0,,,,,,,,BRMC_83,,,Open the Gates,,,NEUTRAL,,,TB,,Fill your board with 2/2 Whelps.,SPELL
+2048,,,,3.0,39639.0,,,,,,,,KARA_07_07,,,Haywire Mech!,,,NEUTRAL,,,KARA,,Summon a random Mech.,SPELL
+2049,,,,1.0,2156.0,,,,,,,,PART_006,,,Reversing Switch,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,,GVG,,Swap a minion's Attack and Health.,SPELL
+2051,,,,2.0,40383.0,,,,,,,,TB_Coopv3_102,,,Shadow or Light?,,,PRIEST,,,TB,,<b>Choose One -</b> Each player draws 2 cards; or Restore 8 Health to each hero.,SPELL
+2056,,,,1.0,1084.0,,,,,Oh hey it's Mirror Image! !egamI rorriM s'ti yeh hO,,Unlocked at Level 36.,CS2_027,,,Mirror Image,,{'REQ_NUM_MINION_SLOTS': 1},MAGE,,COMMON,CORE,,Summon two 0/2 minions with <b>Taunt</b>.,SPELL
+2057,,,,6.0,40938.0,,"[400, 1600, 100, 400]",,,No one was brave enough to fire the dragon in person… so they made the potion do it.,,,CFM_662,,,Dragonfire Potion,,,PRIEST,,EPIC,GANGS,,"[x]Deal $5 damage to all
+minions except Dragons.",SPELL
+2059,,,,0.0,14283.0,,,,,,,,LOEA02_04,,,Wish for Valor,,,NEUTRAL,,,LOE,,<b>Discover</b> a (4)-Cost card.,SPELL
+2060,,,,2.0,25226.0,,,,,,,,LOEA06_04,,,Shattering Spree,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,,LOE,,"Destroy all Statues. For each destroyed, deal 1 damage.",SPELL
+2064,,,,3.0,1640.0,,,,,,,,TU4e_005,,,Flame Burst,,,NEUTRAL,,COMMON,MISSIONS,,Shoot 5 missiles at random enemies for $1 damage each.,SPELL
+2074,,,,3.0,1093.0,,"[40, 400, 5, 50]",,,"Accuracy is not a highly valued trait among the mok'nathal.  Deadliness is near the top, though.",,,EX1_617,,,Deadly Shot,,{'REQ_MINIMUM_ENEMY_MINIONS': 1},HUNTER,,COMMON,EXPERT1,,Destroy a random enemy minion.,SPELL
+2081,,,,3.0,587.0,,,,,"Hey man, that's cold.  Literally and metaphorically.",,Unlocked at Level 23.,CS2_026,['FREEZE'],,Frost Nova,,,MAGE,,COMMON,CORE,,<b>Freeze</b> all enemy minions.,SPELL
+2082,,,,3.0,38618.0,,"[40, 400, 5, 50]",,,,,,LOEA10_5H,,,Mrgl Mrgl Nyah Nyah,,,NEUTRAL,,COMMON,LOE,,Summon 5 Murlocs that died this game.,SPELL
+2087,,,,2.0,400.0,,"[40, 400, 5, 50]",,,"""You won't like me when I'm angry.""",,,EX1_392,,,Battle Rage,,{'REQ_MINION_TARGET': 0},WARRIOR,,COMMON,EXPERT1,,Draw a card for each damaged friendly character.,SPELL
+2089,,,,6.0,823.0,,,,,Balance is important to druids.  This card is perfectly balanced.,,Unlocked at Level 45.,EX1_173,,,Starfire,,{'REQ_TARGET_TO_PLAY': 0},DRUID,,COMMON,CORE,,"Deal $5 damage.
+Draw a card.",SPELL
+2092,,,,1.0,2792.0,,"[40, 400, 5, 50]",,,2 out of 2 saplings recommend that you summon the saplings.,,,AT_037,['CHOOSE_ONE'],,Living Roots,,{'REQ_TARGET_TO_PLAY': 0},DRUID,,COMMON,TGT,,<b>Choose One -</b> Deal $2 damage; or Summon two 1/1 Saplings.,SPELL
+2105,,,,5.0,41605.0,,,,,,,,CFM_621t16,,,Heart of Fire,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,,GANGS,,Deal $5 damage.,SPELL
+2108,,,,6.0,1850.0,,,,,,,,NAX4_05,,,Plague,,,NEUTRAL,,,NAXX,,Destroy all non-Skeleton minions.,SPELL
+2111,,,,0.0,217.0,,,,,,,,DREAM_05,,,Nightmare,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",DREAM,,,EXPERT1,,"Give a minion +5/+5. At the start of your next turn, destroy it.",SPELL
+2117,,,,2.0,3001.0,,"[100, 800, 20, 100]",,,"Harrison Jones was disappointed that he didn't get to be part of the League of Explorers, but his hat did.",,Can be crafted after starting the League of Explorers adventure.,LOE_105,,,Explorer's Hat,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",HUNTER,,RARE,LOE,,"Give a minion +1/+1 and ""<b>Deathrattle:</b> Add an Explorer's Hat to your hand.""",SPELL
+2123,,,,2.0,42231.0,,,,,,,,TB_SPT_DPromoSpellPortal,,,The Portal Opens,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,,TB,,Through the Nether and into...,SPELL
+2126,,,,1.0,41586.0,,,,,,,,CFM_621t6,,,Goldthorn,,,NEUTRAL,,,GANGS,,Give your minions +2 Health.,SPELL
+2127,,,,0.0,2244.0,,,,,,,,XXX_050,,,Destroy a Mana Crystal,,"{'REQ_HERO_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,COMMON,CHEAT,,Pick a player and destroy one of his Mana Crystals.,SPELL
+2131,,,,0.0,1461.0,,,,,,,,XXX_019,,,Molasses,,,NEUTRAL,,COMMON,CHEAT,,You can take as long as you want on your turn.,SPELL
+2133,,,,0.0,25402.0,,,,,,,,LOEA16_12,,,Medivh's Locket,,,NEUTRAL,,,LOE,,Replace your hand with Unstable Portals.,SPELL
+2142,,,,0.0,39043.0,,,,,,,,TB_PickYourFate_8rand,,,Fate: Armor,,,NEUTRAL,,,TB,,Each player gains 2 Armor on the start of their turn.,SPELL
+2143,,,Deal $4 damage. Summon a <b>Jade Golem</b>.,4.0,40455.0,,"[40, 400, 5, 50]",,,"Jade Lightning, goooo Jade Lightning!",,,CFM_707,['JADE_GOLEM'],,Jade Lightning,,{'REQ_TARGET_IF_AVAILABLE': 0},SHAMAN,,COMMON,GANGS,,Deal $4 damage. Summon a{1} {0} <b>Jade Golem</b>.,SPELL
+2144,,,,1.0,971.0,,,,,FROST SHOCK!,,Unlocked at Level 32.,CS2_037,['FREEZE'],,Frost Shock,,"{'REQ_ENEMY_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",SHAMAN,,FREE,CORE,,Deal $1 damage to an enemy character and <b>Freeze</b> it.,SPELL
+2147,,,,0.0,1189.0,,"[40, 400, 5, 50]",,,"Reserved for enemy spellcasters, evil liches from beyond the grave, and karaoke nights at the Grim Guzzler.",,,EX1_332,['SILENCE'],,Silence,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",PRIEST,,COMMON,EXPERT1,,<b>Silence</b> a minion.,SPELL
+2151,,,,5.0,40615.0,,"[400, 1600, 100, 400]",,,The true mystery of lunar visions is how there is nothing to watch when there are so many channels.,,,CFM_811,,,Lunar Visions,,,DRUID,,EPIC,GANGS,,Draw 2 cards. Minions drawn cost (2) less.,SPELL
+2158,,,,0.0,149.0,,,,,"I personally prefer some non-ancestral right-the-heck-now healing, but maybe that is just me.",,Unlocked at Level 15.,CS2_041,,,Ancestral Healing,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",SHAMAN,,FREE,CORE,,"Restore a minion
+to full Health and
+give it <b>Taunt</b>.",SPELL
+2169,,,,4.0,40833.0,,,,,,,,KAR_A02_09H,,,Set the Table,,,NEUTRAL,,,KARA,,Give your Plates +2/+2.,SPELL
+2171,,,,3.0,195.0,,"[40, 400, 5, 50]",,,"""You go first."" - Krush'gor the Behemoth, to his pet boar.",,,EX1_294,['SECRET'],,Mirror Entity,,,MAGE,,COMMON,EXPERT1,,"<b>Secret:</b> After your opponent plays a minion, summon a copy of it.",SPELL
+2189,,,,2.0,42168.0,,,,,,,,TB_SPT_DPromoSpell1,,,Lightning,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,,TB,,Deal $3 damage.,SPELL
+2190,,,,2.0,39468.0,,"[40, 400, 5, 50]",,,Even better than a hot shower with vigorous scrubbing!,,"Crafting unlocked in the Menagerie, in One Night in Karazhan.",KAR_013,,,Purify,,"{'REQ_FRIENDLY_TARGET': 0, 'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",PRIEST,,COMMON,KARA,,<b>Silence</b> a friendly minion. Draw a card.,SPELL
+2191,,,,3.0,40300.0,,,,,,,,KARA_08_03H,,,Nether Breath,,,NEUTRAL,,,KARA,,"[x]Change the Health of
+all enemy minions to 1.",SPELL
+2194,,,,0.0,38697.0,,,,,,,,TB_PickYourFate_7,,,Fate: Coin,,,NEUTRAL,,,TB,,"When a minion dies, its owner gets a Coin.",SPELL
+2197,,,,1.0,141.0,,,,,Never play 'Hide and Go Seek' with a Hunter.,,Unlocked at Level 40.,CS2_084,,,Hunter's Mark,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",HUNTER,,COMMON,CORE,,Change a minion's Health to 1.,SPELL
+2198,,,,4.0,220.0,,"[100, 800, 20, 100]",,,"You can rationalize it all you want, it's still a mean thing to do.",,,EX1_334,,,Shadow Madness,,"{'REQ_ENEMY_TARGET': 0, 'REQ_MINION_TARGET': 0, 'REQ_NUM_MINION_SLOTS': 1, 'REQ_TARGET_MAX_ATTACK': 3, 'REQ_TARGET_TO_PLAY': 0}",PRIEST,,RARE,EXPERT1,,Gain control of an enemy minion with 3 or less Attack until end of turn.,SPELL
+2199,,,,0.0,40324.0,,"[40, 400, 5, 50]",,,This is delicious! Oh no. BRAIN FREEEEEEEZE!,,,CFM_021,,,Freezing Potion,,"{'REQ_ENEMY_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",MAGE,,COMMON,GANGS,,<b>Freeze</b> an enemy.,SPELL
+2201,,,,1.0,35297.0,,,,,,,,NAX12_02H_2c_TB,,,Decimate,,,NEUTRAL,,,TB,,Change the Health of enemy minions to 1.,SPELL
+2202,,,,0.0,928.0,,,,,,,,NEW1_007b,,,Starfall,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",DRUID,,,EXPERT1,,Deal $5 damage to a minion.,SPELL
+2204,,,,10.0,41593.0,,,,,,,,CFM_621t13,,,Superior Potion,,,NEUTRAL,,,GANGS,,Create a 10-Cost spell.,SPELL
+2210,,,,2.0,2298.0,,"[100, 800, 20, 100]",,,"I walked into the dungeon and noticed a slain adventurer. In his final moments, he had scrawled out a message in the dust on the wall beside him. Two words: ""rez plz""",,"Crafting unlocked in Blackrock Depths, in the Blackrock Mountain adventure.",BRM_017,,,Resurrect,,"{'REQ_FRIENDLY_MINION_DIED_THIS_GAME': 0, 'REQ_NUM_MINION_SLOTS': 1}",PRIEST,,RARE,BRM,,Summon a random friendly minion that died this game.,SPELL
+2212,,,,0.0,1582.0,,,,,,,,XXX_008,['FREEZE'],,Freeze,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,COMMON,CHEAT,,<b>Freeze</b> a character.,SPELL
+2217,,,,2.0,42163.0,,,,,,,,TB_SPT_DPromoSecret3,['SECRET'],,Visions of Valor,,,WARRIOR,,,TB,,"<b>Secret:</b> When your opponent summons a Legendary minion, give all minions <b>Windfury</b>",SPELL
+2218,,,,0.0,38896.0,,,,,Some men just want to watch the world burn.,,,XXX_064,,,The Song That Ends the World,,,NEUTRAL,,LEGENDARY,CHEAT,,"Crash the game server.  No, really.",SPELL
+2219,,,,1.0,38918.0,,"[100, 800, 20, 100]",,,"For his next trick, he turns the ichor back to blood and stuffs it back in you.",,,OG_314,,,Blood To Ichor,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",WARRIOR,,RARE,OG,,"Deal $1 damage to a minion. If it survives, summon a 2/2 Slime.",SPELL
+2220,,,,0.0,38675.0,,,,,,,,TB_PickYourFate_3,,,Dire Fate: Windfury,,,NEUTRAL,,,TB,,All minions have <b>Windfury</b>.,SPELL
+2221,,,,1.0,42259.0,,,,,,,,TB_DiscoverMyDeck_Discovery,,,Peruse,,,NEUTRAL,,COMMON,TB,,<b>Discover</b> a card from your deck.,SPELL
+2222,,,,0.0,41959.0,,,,,,,,CFM_308b,,,Forgotten Mana,,,DRUID,,,GANGS,,Refresh your Mana Crystals.,SPELL
+2225,,,,1.0,41588.0,,,,,,,,CFM_621t4,,,Felbloom,,,NEUTRAL,,,GANGS,,Deal $2 damage to all minions.,SPELL
+2226,,,,2.0,42174.0,,,,,,,,TB_SPT_DPromoSecret7,['SECRET'],,Visions of the Necromancer,,,WARRIOR,,,TB,,"<b>Secret:</b> When your opponent summons a minion with <b>Deathrattle</b>, destroy it.",SPELL
+2227,,,,0.0,39875.0,,,,,,,,XXX_102,['ImmuneToSpellpower'],,Add 1 to Health.,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,COMMON,CHEAT,,Adds 1 health to a damaged character. Does NOT heal.,SPELL
+2230,,,,0.0,40500.0,,,,,,,,TB_CoOpv3_009,,,Explosive Rune,,,NEUTRAL,,,TB,,Summon an 'Explosive Rune.',SPELL
+2232,,,,2.0,213.0,,,,,Not to be confused with Jim of the Wild.,,Unlocked at Level 28.,CS2_009,,,Mark of the Wild,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",DRUID,,FREE,CORE,,"Give a minion <b>Taunt</b> and +2/+2.<i>
+(+2 Attack/+2 Health)</i>",SPELL
+2233,,,,7.0,630.0,,,,,Rogues are not good joggers.,,Unlocked at Level 49.,CS2_077,,,Sprint,,,ROGUE,,COMMON,CORE,,Draw 4 cards.,SPELL
+2235,,,,3.0,621.0,,"[40, 400, 5, 50]",,,This is Rank 1.  Rank 2 is Chocolate Milk Barrier.,,,EX1_289,['SECRET'],,Ice Barrier,,,MAGE,,COMMON,EXPERT1,,"<b>Secret:</b> When your
+hero is attacked,
+gain 8 Armor.",SPELL
+2237,,,,2.0,836.0,,"[40, 400, 5, 50]",,,The talk around the Ratchet Inn is that this card is too good and should be a Legendary.,,,EX1_154,['CHOOSE_ONE'],,Wrath,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",DRUID,,COMMON,EXPERT1,,<b>Choose One -</b> Deal $3 damage to a minion; or $1 damage and draw a card.,SPELL
+2240,,,,0.0,40316.0,,,,,,,,TB_CoOpv3_007,,,Flame Missiles,,,NEUTRAL,,,TB,,Deal 5 damage randomly split among all other characters.,SPELL
+2242,,,,0.0,40044.0,,,,,,,,TB_ClassRandom_Druid,,,Second Class: Druid,,,DRUID,,,TB,,Add Druid cards to your deck.,SPELL
+2245,,,,4.0,1864.0,,,,,,,,NAX6_03,,,Deathbloom,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,,NAXX,,Deal $5 damage to a minion. Summon a Spore.,SPELL
+2246,,,,0.0,2377.0,,,,,,,,XXX_056,,,Silence and Destroy All Minions,,,NEUTRAL,,,CHEAT,,Destroy all minions without triggering deathrattles.,SPELL
+2249,,,,3.0,1925.0,,,,,,,,NAX11_04,,,Mutating Injection,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,,NAXX,,Give a minion +4/+4 and <b>Taunt</b>.,SPELL
+2256,,,,6.0,1938.0,,"[400, 1600, 100, 400]",,,This is what happens when you allow goblins to be priests.,,,GVG_008,,,Lightbomb,,,PRIEST,,EPIC,GVG,,Deal damage to each minion equal to its Attack.,SPELL
+2260,,,,0.0,38454.0,,"[100, 800, 20, 100]",,,"Actually, C'Thun gives his full support for this ritual.",,,OG_114,,,Forbidden Ritual,,,WARLOCK,,RARE,OG,,Spend all your Mana. Summon that many 1/1 Tentacles.,SPELL
+2262,,,,2.0,39712.0,,"[100, 800, 20, 100]",,,"They bill this as a popular resort attraction, but they try and get your money up front.",,"Crafting unlocked in the Parlor, in One Night in Karazhan.",KAR_073,,,Maelstrom Portal,,,SHAMAN,,RARE,KARA,,"Deal $1 damage to all enemy minions. Summon a random
+1-Cost minion.",SPELL
+2263,,,,3.0,40634.0,,"[400, 1600, 100, 400]",,,Now we know why they wear tiny watches.,,,CFM_905,,,Small-Time Recruits,,,PALADIN,,EPIC,GANGS,,"[x]Draw three 1-Cost
+minions from your deck.",SPELL
+2273,,,,5.0,38426.0,,"[40, 400, 5, 50]",,,Because you're wrapped in a protective layer of… tentacles?,,,OG_094,,,Power Word: Tentacles,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",PRIEST,,COMMON,OG,,Give a minion +2/+6.,SPELL
+2275,,,,5.0,40308.0,,,,,,,,KARA_07_08heroic,,,Dragons Free!,,,NEUTRAL,,,KARA,,Summon a random Dragon.,SPELL
+2277,,,,1.0,38811.0,,,,,,,,LOE_008H,,,Eye of Hakkar,,,NEUTRAL,,,LOE,,Take a secret from your opponent's deck and put it into the battlefield.,SPELL
+2280,,,,1.0,38940.0,,,,,,,,OG_080d,,,Briarthorn Toxin,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",ROGUE,,,OG,,Give a minion +3 Attack.,SPELL
+2286,,,,0.0,40042.0,,,,,,,,TB_ClassRandom_Mage,,,Second Class: Mage,,,MAGE,,,TB,,Add Mage cards to your deck.,SPELL
+2288,,,,2.0,42164.0,,,,,,,,TB_SPT_DPromoSecret4,['SECRET'],,Visions of Fate,,,WARRIOR,,,TB,,<b>Secret:</b> When your opponent takes lethal damage... save him.,SPELL
+2296,,,,1.0,505.0,,"[40, 400, 5, 50]",,,Lightning Bolt! Lightning Bolt! Lightning Bolt!,,,EX1_238,,,Lightning Bolt,1.0,{'REQ_TARGET_TO_PLAY': 0},SHAMAN,,COMMON,EXPERT1,,Deal $3 damage. <b>Overload:</b> (1),SPELL
+2304,,,,2.0,40694.0,,"[100, 800, 20, 100]",,,"Ragnaros looked down. He looked like some kind of War Golem. ""WHAT HAVE YOU DONE TO ME,"" he yelled. But all that came out was a deep grinding sound. He began to cry.",,,CFM_696,,,Devolve,,{'REQ_HERO_TARGET': 0},SHAMAN,,RARE,GANGS,,Transform all enemy minions into random ones that cost (1) less.,SPELL
+2314,,,,3.0,38578.0,,"[40, 400, 5, 50]",,,"It's like a backstab, only from the front. And with two more stabs.",,,OG_176,,,Shadow Strike,,"{'REQ_TARGET_TO_PLAY': 0, 'REQ_UNDAMAGED_TARGET': 0}",ROGUE,,COMMON,OG,,Deal $5 damage to an undamaged character.,SPELL
+2317,,,,4.0,430.0,,"[40, 400, 5, 50]",,,Magi of the Kirin Tor were casting Cubes of Cold for many years before Cones came into fashion some 90 years ago.,,,EX1_275,['FREEZE'],,Cone of Cold,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",MAGE,,COMMON,EXPERT1,,"<b>Freeze</b> a minion and the minions next to it, and deal $1 damage to them.",SPELL
+2324,,,,0.0,1648.0,,,,,,,,XXX_022,,,Free Cards,,,NEUTRAL,,COMMON,CHEAT,,Your cards cost (0) for the rest of the game.,SPELL
+2326,,,,0.0,38287.0,,,,,,,,TB_CoOpBossSpell_4,,,Overclock,,,NEUTRAL,,,TB,,Gain 2 Attack.,SPELL
+2336,,,,1.0,38935.0,,,,,,,,OG_080f,,,Firebloom Toxin,,{'REQ_TARGET_TO_PLAY': 0},ROGUE,,,OG,,Deal $2 damage.,SPELL
+2337,,,,1.0,40839.0,,"[40, 400, 5, 50]",,,Well… a guy who knows a guy.,,,CFM_940,['DISCOVER'],,I Know a Guy,,,WARRIOR,,COMMON,GANGS,,<b>Discover</b> a <b>Taunt</b> minion.,SPELL
+2341,,,,1.0,344.0,,,,,"""Guys! Guys! Slow down!"" - some kind of non-warrior minion",,Unlocked at Level 23.,CS2_103,,,Charge,,"{'REQ_FRIENDLY_TARGET': 0, 'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",WARRIOR,,FREE,CORE,,Give a friendly minion <b>Charge</b>. It can't attack heroes this turn.,SPELL
+2346,,,,2.0,503.0,,"[40, 400, 5, 50]",,,"Never look a panther in the eye.  Or is it 'Always look a panther in the eye'?  Well, it's one of those.",,,EX1_160,['CHOOSE_ONE'],,Power of the Wild,,,DRUID,,COMMON,EXPERT1,,<b>Choose One -</b> Give your minions +1/+1; or Summon a 3/2 Panther.,SPELL
+2349,,,,2.0,39646.0,,,,,,,,KARA_09_03,,,Many Imps!,,,NEUTRAL,,,KARA,,Summon 2 Icky Imps.,SPELL
+2354,,,,0.0,40039.0,,,,,,,,TB_ClassRandom_Rogue,,,Second Class: Rogue,,,ROGUE,,,TB,,Add Rogue cards to your deck.,SPELL
+2356,,,,2.0,2025.0,,"[40, 400, 5, 50]",,,The walrus of Light restores EIGHT Health.,,,GVG_057,,,Seal of Light,,,PALADIN,,COMMON,GVG,,Restore #4 Health to your hero and gain +2 Attack this turn.,SPELL
+2358,,,,1.0,2423.0,,,,,,,,BRMA16_4,,,Reverberating Gong,,{'REQ_ENEMY_WEAPON_EQUIPPED': 0},NEUTRAL,,,BRM,,Destroy your opponent's weapon.,SPELL
+2360,,,,0.0,2294.0,,"[40, 400, 5, 50]",,,,,,BRM_010b,,,Fire Hawk Form,,,DRUID,,COMMON,BRM,,Transform into a 2/5 minion.,SPELL
+2361,,,,3.0,1893.0,,,,,,,,NAX12_04,,,Enrage,,,NEUTRAL,,,NAXX,,Give your hero +6 Attack this turn.,SPELL
+2362,,,,1.0,462.0,,"[40, 400, 5, 50]",,,Justice sometimes takes the form of a closed fist into a soft cheek.,,,EX1_132,['SECRET'],,Eye for an Eye,,,PALADIN,,COMMON,EXPERT1,,"<b>Secret:</b> When your hero takes damage, deal that much damage to the enemy hero.",SPELL
+2365,,,,0.0,1585.0,,,,,,,,XXX_010,,,Silence - debug,,"{'REQ_HERO_TARGET': 0, 'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,COMMON,CHEAT,,Remove all enchantments and powers from a minion.,SPELL
+2368,,,,4.0,39638.0,,,,,,,,KARA_07_06,,,Demons Loose!,,,NEUTRAL,,,KARA,,Summon a random Demon.,SPELL
+2372,,,,9.0,2001.0,,"[400, 1600, 100, 400]",,,Healing: It grows on trees!,,,GVG_033,,,Tree of Life,,,DRUID,,EPIC,GVG,,Restore all characters to full Health.,SPELL
+2373,,,,2.0,40566.0,,"[100, 800, 20, 100]",,,"It fell off a kodo, I promise!",,,CFM_752,,,Stolen Goods,,,WARRIOR,,RARE,GANGS,,Give a random <b>Taunt</b> minion in your hand +3/+3.,SPELL
+2379,,,,2.0,1074.0,,"[40, 400, 5, 50]",,,"""Dun da dun, dun da dun"": if you've heard an ogre sing this, it's too late.",,,EX1_391,,,Slam,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",WARRIOR,,COMMON,EXPERT1,,"Deal $2 damage to a minion. If it survives, draw a card.",SPELL
+2389,,,,1.0,1047.0,,,,,For the person who just cannot decide what card to put into a deck!,,Unlocked at Level 15.,DS1_184,,,Tracking,,,HUNTER,,FREE,CORE,,Look at the top 3 cards of your deck. Draw one and discard the others.,SPELL
+2395,,,,1.0,41587.0,,,,,,,,CFM_621t5,,,Icecap,,,NEUTRAL,,,GANGS,,<b>Freeze</b> a random enemy minion.,SPELL
+2399,,,,2.0,42170.0,,,,,,,,TB_SPT_DPromoSpell2,,,Summon Guardians,,{'REQ_NUM_MINION_SLOTS': 1},NEUTRAL,,,TB,,Summon two 2/4 Guardians.,SPELL
+2401,,,,10.0,8.0,,,,,"Nominated as ""Spell Most Likely to Make Your Opponent Punch the Wall.""",,Unlocked at Level 49.,CS1_113,,,Mind Control,,"{'REQ_ENEMY_TARGET': 0, 'REQ_MINION_TARGET': 0, 'REQ_NUM_MINION_SLOTS': 1, 'REQ_TARGET_TO_PLAY': 0}",PRIEST,,COMMON,CORE,,Take control of an enemy minion.,SPELL
+2405,,,,0.0,38666.0,,"[400, 1600, 100, 400]",,,"No one's quite sure why it's forbidden. And yes, that should make you nervous.",,,OG_198,,,Forbidden Healing,,{'REQ_TARGET_TO_PLAY': 0},PALADIN,,EPIC,OG,,Spend all your Mana. Restore twice that much Health.,SPELL
+2408,,,,0.0,2791.0,,,,,,,,AT_037b,,,Living Roots,,,DRUID,,,TGT,,Summon two 1/1 Saplings.,SPELL
+2409,,,,2.0,40339.0,,"[100, 800, 20, 100]",,,There is an urban legend that the first Toxic Sewer Ooze was born because a rookie Goon stashed an open container of milk in a Hidden Cache.,,,CFM_026,['SECRET'],,Hidden Cache,,,HUNTER,,RARE,GANGS,,"<b>Secret:</b> After your opponent plays a minion, give a random minion in your hand +2/+2.",SPELL
+2410,,,,0.0,39278.0,,,,,,,,XXX_999_Crash,,,Crash the server,,,NEUTRAL,,COMMON,CHEAT,,Crash the server,SPELL
+2416,,,,1.0,232.0,,"[40, 400, 5, 50]",,,Repentance often comes in the moment before obliteration. Curious.,,,EX1_379,['SECRET'],,Repentance,,,PALADIN,,COMMON,EXPERT1,,"<b>Secret:</b> After your opponent plays a minion, reduce its Health to 1.",SPELL
+2417,,,,1.0,2342.0,,,,,,,,BRMA08_3,,,Drakkisath's Command,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,,BRM,,Destroy a minion. Gain 10 Armor.,SPELL
+2419,,,,1.0,2363.0,,,,,,,,BRMA12_4,['EVIL_GLOW'],,Brood Affliction: Green,,,NEUTRAL,,,BRM,,"While this is in your hand, restore 2 health to your opponent at the start of your turn.",SPELL
+2422,,,,3.0,39637.0,,,,,,,,KARA_07_05,,,Stampeding Beast!,,,NEUTRAL,,,KARA,,Summon a random Beast.,SPELL
+2423,,,,10.0,41621.0,,,,,,,,CFM_621t25,,,Heart of Fire,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,,GANGS,,Deal $8 damage.,SPELL
+2424,,,,6.0,1100.0,,"[100, 800, 20, 100]",,,You probably should avoid siphoning your own soul.  You might create some kind of weird infinite loop.,,,EX1_309,,,Siphon Soul,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",WARLOCK,,RARE,EXPERT1,,Destroy a minion. Restore #3 Health to your hero.,SPELL
+2427,,,,4.0,1846.0,,,"['CS2_121', 'EX1_021', 'EX1_023', 'EX1_110', 'EX1_390', 'CS2_179']",,,,,PRO_001c,,,Power of the Horde,,{'REQ_NUM_MINION_SLOTS': 1},NEUTRAL,,,PROMO,,Summon a random Horde Warrior.,SPELL
+2428,,,,2.0,2260.0,,"[40, 400, 5, 50]",,,Han shot first.,,"Crafting unlocked in Blackrock Depths, in the Blackrock Mountain adventure.",BRM_013,,,Quick Shot,,{'REQ_TARGET_TO_PLAY': 0},HUNTER,,COMMON,BRM,,"Deal $3 damage.
+If your hand is empty, draw a card.",SPELL
+2429,,,,3.0,2770.0,,"[100, 800, 20, 100]",,,Yoink!,,,AT_033,,,Burgle,,,ROGUE,,RARE,TGT,,Add 2 random class cards to your hand <i>(from your opponent's class)</i>.,SPELL
+2430,,,,3.0,30.0,,"[40, 400, 5, 50]",,,"""What do you get when you cast Thoughtsteal on an Orc?  Nothing!"" - Tauren joke",,,EX1_339,,,Thoughtsteal,,,PRIEST,,COMMON,EXPERT1,,Copy 2 cards in your opponent's deck and add them to your hand.,SPELL
+2432,,,,0.0,38673.0,,,,,,,,TB_PickYourFate_1,,,Dire Fate: Taunt and Charge,,,NEUTRAL,,,TB,,All minions have <b>Taunt</b> and <b>Charge</b>.,SPELL
+2434,,,,2.0,1976.0,,,,,,,,NAX13_03,,,Supercharge,,,NEUTRAL,,,NAXX,,Give your minions +2 Health.,SPELL
+2458,,,,1.0,25272.0,,,,,,,,LOEA07_21,,,Barrel Forward,,,NEUTRAL,,,LOE,,Get 1 turn closer to the Exit!,SPELL
+2463,,,,0.0,830.0,,,,,Totem-stomping is no longer recommended.,,Unlocked at Level 28.,EX1_244,,,Totemic Might,,,SHAMAN,,COMMON,CORE,,Give your Totems +2 Health.,SPELL
+2466,,,,5.0,345.0,,,,,"If you don't want to be assassinated, move to the Barrens and change your name. Good luck!",,Unlocked at Level 47.,CS2_076,,,Assassinate,,"{'REQ_ENEMY_TARGET': 0, 'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",ROGUE,,FREE,CORE,,Destroy an enemy minion.,SPELL
+2469,,,,1.0,2150.0,,,,,,,,PART_007,,,Whirling Blades,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,,GVG,,Give a minion +1 Attack.,SPELL
+2470,,,,3.0,2462.0,,,,,,,,BRMA12_6H,['EVIL_GLOW'],,Brood Affliction: Black,,,NEUTRAL,,,BRM,,"While this is in your hand, whenever Chromaggus draws a card, he gets another copy of it.",SPELL
+2479,,,,3.0,667.0,,,,,"I wouldn't say I LOVE knives, but I'm definitely a fan.",,Unlocked at Level 28.,EX1_129,,,Fan of Knives,,,ROGUE,,COMMON,CORE,,Deal $1 damage to all enemy minions. Draw a card.,SPELL
+2494,,,,0.0,16456.0,,,,,,,,LOEA04_06b,,,Walk Across Gingerly,,,NEUTRAL,,,LOE,,Take 5 damage.,SPELL
+2495,,,,5.0,41620.0,,,,,,,,CFM_621t24,,,Goldthorn,,,NEUTRAL,,,GANGS,,Give your minions +4 Health.,SPELL
+2496,,,,0.0,180.0,,,,,"It's funny how often yelling ""Look over there!"" gets your opponent to turn around.",,Unlocked at Level 36.,CS2_072,,,Backstab,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0, 'REQ_UNDAMAGED_TARGET': 0}",ROGUE,,FREE,CORE,,Deal $2 damage to an undamaged minion.,SPELL
+2505,,,,8.0,859.0,,"[400, 1600, 100, 400]",,,The Twisting Nether is a formless place of magic and illusion and destroyed minions.,,,EX1_312,,,Twisting Nether,,,WARLOCK,,EPIC,EXPERT1,,Destroy all minions.,SPELL
+2518,,,,0.0,40041.0,,,,,,,,TB_ClassRandom_Paladin,,,Second Class: Paladin,,,PALADIN,,,TB,,Add Paladin cards to your deck.,SPELL
+2528,,,,6.0,39663.0,,,,,,,,KARA_09_06,,,Shadow Volley,,,NEUTRAL,,,KARA,,Deal $3 damage to all non-Demon minions.,SPELL
+2530,,,,0.0,2375.0,,,,,,,,XXX_055,,,1000 Stats,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",NEUTRAL,,,CHEAT,,Give a Minion +1000/+1000,SPELL
+2532,,,,0.0,1646.0,,,,,,,,XXX_020,['ImmuneToSpellpower'],,Damage all but 1,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,COMMON,CHEAT,,Set the Health of a character to 1.,SPELL
+2534,,,,1.0,2582.0,,"[40, 400, 5, 50]",,,Flash!  Ahhhhhhh~,,,AT_055,,,Flash Heal,,{'REQ_TARGET_TO_PLAY': 0},PRIEST,,COMMON,TGT,,Restore #5 Health.,SPELL
+2535,,,,0.0,38953.0,,,,,,,,TB_PickYourFate_12,,,Fate: Confusion,,,NEUTRAL,,,TB,,"At the end of each turn, swap all minions' Attack and Health.",SPELL
+2538,,,,2.0,42181.0,,,,,,,,TB_SPT_DPromoSecret10,['SECRET'],,Visions of Hate,,,WARRIOR,,,TB,,"<b>Secret:</b> When both heroes have 15 or less Health, BRAWL!",SPELL
+2544,,,,0.0,163.0,,,,,This is the reason that Demons never really become friends with Warlocks.,,Unlocked at Level 15.,NEW1_003,,,Sacrificial Pact,,"{'REQ_TARGET_TO_PLAY': 0, 'REQ_TARGET_WITH_RACE': 15}",WARLOCK,,COMMON,CORE,,Destroy a Demon. Restore #5 Health to your hero.,SPELL
+2548,,,,0.0,63.0,,"[40, 400, 5, 50]",,,,,,EX1_165a,,,Cat Form,,,DRUID,,COMMON,EXPERT1,,<b>Charge</b>,SPELL
+2552,,,,3.0,1368.0,,"[400, 1600, 100, 400]",,,If a bright light shines on a priest in Shadowform… do they cast a shadow?,,,EX1_625,,,Shadowform,,,PRIEST,,EPIC,EXPERT1,,Your Hero Power becomes 'Deal 2 damage'. If already in Shadowform: 3 damage.,SPELL
+2558,,,,4.0,40375.0,,"[100, 800, 20, 100]",,,Filled with electrolytes!,,,CFM_604,,,Greater Healing Potion,,"{'REQ_FRIENDLY_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",PRIEST,,RARE,GANGS,,Restore 12 Health to a friendly character.,SPELL
+2564,,,,3.0,2343.0,,,,,,,,BRMA04_4,,,Rock Out,2.0,,NEUTRAL,,,BRM,,Summon 3 Firesworn. <b>Overload:</b> (2),SPELL
+2567,,,,0.0,1161.0,,,,,,,,NEW1_007a,,,Starfall,,,DRUID,,,EXPERT1,,Deal $2 damage to all enemy minions.,SPELL
+2569,,,,0.0,99.0,,"[40, 400, 5, 50]",,,,,,EX1_165b,,,Bear Form,,,DRUID,,COMMON,EXPERT1,,+2 Health and <b>Taunt</b>.,SPELL
+2572,,,,4.0,2013.0,,"[100, 800, 20, 100]",,,The shrapnel is waaaaay worse than the explosion.,,,GVG_045,,,Imp-losion,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",WARLOCK,,RARE,GVG,,Deal $2-$4 damage to a minion. Summon a 1/1 Imp for each damage dealt.,SPELL
+2587,,,,0.0,2480.0,,,,,,,,BRMA13_8,,,"DIE, INSECT!",,,NEUTRAL,,,BRM,,Deal $8 damage to a random enemy.,SPELL
+2592,,,,1.0,25277.0,,,,,,,,LOEA07_28,,,Repairs,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,,LOE,,Restore 10 Health.,SPELL
+2596,,,,3.0,37345.0,,,,,,,,LOEA_01,,,Looming Presence,,,NEUTRAL,,,LOE,,Draw 2 cards. Gain 4 Armor.,SPELL
+2603,,,,2.0,42173.0,,,,,,,,TB_SPT_DPromoSecret6,['SECRET'],,Visions of the Sorcerer,,,WARRIOR,,,TB,,"<b>Secret:</b> When your opponent summons a minion with <b>Spell Damage</b>, Summon 2 Guardians.",SPELL
+2607,,,,0.0,1714.0,,,,,,,,XXX_028,,,Reveal Hand,,,NEUTRAL,,COMMON,CHEAT,,,SPELL
+2608,,,,4.0,39586.0,,,,,,,,KAR_A02_09,,,Set the Table,,,NEUTRAL,,,KARA,,Give your Plates +1/+1.,SPELL
+2614,,,,0.0,25394.0,,,,,,,,LOEA16_14,,,Khadgar's Pipe,,,NEUTRAL,,,LOE,,Put a random spell into each player's hand.  Yours costs (0).,SPELL
+2619,,,,0.0,38113.0,,"[40, 400, 5, 50]",,,,,,LOE_115b,,,Raven Idol,,,DRUID,,COMMON,LOE,,<b>Discover</b> a spell.,SPELL
+2620,,,,0.0,40379.0,,,,,,,,XXX_113,,,Again,,,NEUTRAL,,COMMON,CHEAT,,,SPELL
+2625,,,,0.0,22.0,,"[40, 400, 5, 50]",,,They're only smiling on the outside.,,,EX1_607,,,Inner Rage,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",WARRIOR,,COMMON,EXPERT1,,Deal $1 damage to a minion and give it +2 Attack.,SPELL
+2630,,,,0.0,1565.0,,,,,,,,XXX_005,,,Destroy,,{'REQ_TARGET_TO_PLAY': 0},NEUTRAL,,COMMON,CHEAT,,Destroy a minion or hero.,SPELL
+2635,,,,0.0,25090.0,,,,,,,,LOEA04_29b,,,Investigate the Runes,,,NEUTRAL,,,LOE,,Draw 2 cards.,SPELL
+2641,,,,1.0,40587.0,,"[100, 800, 20, 100]",,,Get to da Kodo! Now!,,,CFM_800,['SECRET'],,Getaway Kodo,,,PALADIN,,RARE,GANGS,,"<b>Secret:</b> When a friendly minion dies, return it to your hand.",SPELL
+2643,,,,1.0,2364.0,,,,,,,,BRMA12_5,['EVIL_GLOW'],,Brood Affliction: Blue,,,NEUTRAL,,,BRM,,"While this is in your hand, Chromaggus' spells cost (1) less.",SPELL
+2645,,,,2.0,38407.0,,"[40, 400, 5, 50]",,,What's cooler than being cool?,,,OG_081,,,Shatter,,"{'REQ_FROZEN_TARGET': 0, 'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",MAGE,,COMMON,OG,,Destroy a <b>Frozen</b> minion.,SPELL
+2647,,,,0.0,39037.0,,,,,,,,TB_PickYourFate_6_2nd,,,Dire Fate: Unstable Portals,,,NEUTRAL,,,TB,,Place 3 Unstable Portals in each player's hand.,SPELL
+2648,,,,3.0,1541.0,,,,,,,,TU4c_008,,,Will of Mukla,,,NEUTRAL,,COMMON,MISSIONS,,Restore 8 Health.,SPELL
+2649,,,,0.0,25088.0,,,,,,,,LOEA04_29,,,The Eye,,,NEUTRAL,,,LOE,,<b>Choose Your Path!</b>,SPELL
+2654,,,,2.0,301.0,,,,,,,,DREAM_02,,,Ysera Awakens,,,DREAM,,,EXPERT1,,Deal $5 damage to all characters except Ysera.,SPELL
+2655,,,,5.0,2999.0,,"[100, 800, 20, 100]",,,MOM! DAD! DON'T TOUCH IT! IT'S EVIL!!!!!!,,"Crafting unlocked in Uldaman, in the League of Explorers adventure.",LOE_111,,,Excavated Evil,,,PRIEST,,RARE,LOE,,"Deal $3 damage to all minions.
+Shuffle this card into your opponent's deck.",SPELL
+2660,,,,0.0,253.0,,,,,,,,EX1_154a,,,Wrath,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",DRUID,,,EXPERT1,,Deal $3 damage to a minion.,SPELL
+2671,,,,3.0,40409.0,,"[100, 800, 20, 100]",,,Tastes like Baaaaananas.,,,CFM_620,['SECRET'],,Potion of Polymorph,,,MAGE,,RARE,GANGS,,"<b>Secret:</b> After your opponent plays a minion, transform it into a
+1/1 Sheep.",SPELL
+2675,,,,1.0,13335.0,,"[40, 400, 5, 50]",,,Was petrified when it found out it didn't make the cut for Azerothian Idol.,,"Crafting unlocked in the Hall of Explorers, in the League of Explorers adventure.",LOE_115,['CHOOSE_ONE'],,Raven Idol,,,DRUID,,COMMON,LOE,,"<b>Choose One -</b>
+<b>Discover</b> a minion; or <b>Discover</b> a spell.",SPELL
+2682,,,,3.0,2997.0,,,,,,,,LOE_002t,,,Roaring Torch,,{'REQ_TARGET_TO_PLAY': 0},MAGE,,,LOE,,Deal $6 damage.,SPELL
+2687,,,,1.0,1933.0,,"[100, 800, 20, 100]",,,"""Light it up!"" - Command given to both Lightwardens and Goblins holding Flamecannons.",,,GVG_012,,,Light of the Naaru,,{'REQ_TARGET_TO_PLAY': 0},PRIEST,,RARE,GVG,,"Restore #3 Health. If the target is still damaged, summon a Lightwarden.",SPELL
+2689,,,,2.0,988.0,,,,,,,,TU4c_004,,,Stomp,,,NEUTRAL,,COMMON,MISSIONS,,Deal 2 damage to all enemies.,SPELL
+2691,,,,1.0,1050.0,,,,,The claw decides who will stay and who will go.,,Unlocked at Level 32.,CS2_005,,,Claw,,,DRUID,,FREE,CORE,,Give your hero +2 Attack this turn. Gain 2 Armor.,SPELL
+2694,,,,5.0,2284.0,,"[40, 400, 5, 50]",,,"Dragons breathe fire, sure, but did you know they can also breathe Cotton Candy?  It's harder to give them a reason to do that, though.",,"Crafting unlocked in Blackrock Depths, in the Blackrock Mountain adventure.",BRM_003,,,Dragon's Breath,,{'REQ_TARGET_TO_PLAY': 0},MAGE,,COMMON,BRM,,Deal $4 damage. Costs (1) less for each minion that died this turn.,SPELL
+2695,,,,0.0,1586.0,,,,,,,,XXX_011,,,Summon a random Secret,,,NEUTRAL,,COMMON,CHEAT,,Summon a secret from your deck.,SPELL
+2696,,,,5.0,41608.0,,,,,,,,CFM_621t19,,,Icecap,,,NEUTRAL,,,GANGS,,<b>Freeze</b> 2 random enemy minions.,SPELL
+2697,,,,5.0,2539.0,,"[40, 400, 5, 50]",,,"It's on the rack next to ice lance, acid lance, and English muffin lance.",,,AT_001,,,Flame Lance,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",MAGE,,COMMON,TGT,,Deal $8 damage to a minion.,SPELL
+2703,,,,1.0,459.0,,,,,"Rogues guard the secrets to poison-making carefully, lest magi start incorporating poison into their spells.  Poisonbolt? Rain of Poison?  Poison Elemental?  Nobody wants that.",,Unlocked at Level 43.,CS2_074,,,Deadly Poison,,{'REQ_WEAPON_EQUIPPED': 0},ROGUE,,FREE,CORE,,Give your weapon +2 Attack.,SPELL
+2707,,,,2.0,2484.0,,"[400, 1600, 100, 400]",,,"Rexxar narrowed his eyes, grabbed his machine gun, and said: ""It's go time.  Lock and load.""
+This card pays homage to that special moment.",,,AT_061,,,Lock and Load,,,HUNTER,,EPIC,TGT,,"Each time you cast a spell this turn, add a random Hunter card to your hand.",SPELL
+2712,,,,4.0,2785.0,,"[400, 1600, 100, 400]",,,Hey!  Moon!  Can I have some mana crystals?,,,AT_043,,,Astral Communion,,,DRUID,,EPIC,TGT,,Gain 10 Mana Crystals. Discard your hand.,SPELL
+2717,,,,1.0,38934.0,,,,,,,,OG_080b,,,Kingsblood Toxin,,,ROGUE,,,OG,,Draw a card.,SPELL
+2718,,,,0.0,38717.0,,"[100, 800, 20, 100]",,,,,,OG_202b,,,Yogg-Saron's Magic,,,DRUID,,RARE,OG,,Gain an empty Mana Crystal.,SPELL
+2724,,,,6.0,457.0,,"[100, 800, 20, 100]",,,This spell can be very Entertaining.,,,CS2_028,['FREEZE'],,Blizzard,,,MAGE,,RARE,EXPERT1,,Deal $2 damage to all enemy minions and <b>Freeze</b> them.,SPELL
+2726,,,,4.0,2015.0,,"[400, 1600, 100, 400]",,,Rogues can't stand it. They know you planned it! They are going to set you straight!,,,GVG_047,['COMBO'],,Sabotage,,"{'REQ_ENEMY_TARGET': 0, 'REQ_MINION_TARGET': 0}",ROGUE,,EPIC,GVG,,Destroy a random enemy minion. <b>Combo:</b> And your opponent's weapon.,SPELL
+2731,,,,2.0,2564.0,,"[400, 1600, 100, 400]",,,This minion is really powerful!,,,AT_016,,,Confuse,,,PRIEST,,EPIC,TGT,,Swap the Attack and Health of all minions.,SPELL
+2734,,,,2.0,573.0,,,,,Rogues are experts at SHIV-al-ry.,,Unlocked at Level 45.,EX1_278,,,Shiv,,{'REQ_TARGET_TO_PLAY': 0},ROGUE,,COMMON,CORE,,"Deal $1 damage.
+Draw a card.",SPELL
+2735,,,,4.0,64.0,,,,,"When a bear rears back and extends his arms, he's about to Swipe!  ... or hug.",,Unlocked at Level 47.,CS2_012,,,Swipe,,"{'REQ_ENEMY_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",DRUID,,COMMON,CORE,,Deal $4 damage to an enemy and $1 damage to all other enemies.,SPELL
+2736,,,,5.0,16358.0,,"[40, 400, 5, 50]",,,,,,LOEA10_5,,,Mrgl Mrgl Nyah Nyah,,,NEUTRAL,,COMMON,LOE,,Summon 3 Murlocs that died this game.,SPELL
+2741,,,,1.0,584.0,,"[40, 400, 5, 50]",,,"We will always remember you, ""Defender!""",,,EX1_130,['SECRET'],,Noble Sacrifice,,,PALADIN,,COMMON,EXPERT1,,"<b>Secret:</b> When an enemy attacks, summon a 2/1 Defender as the new target.",SPELL
+2747,,,,0.0,41665.0,,,,,,,,TB_CoOpv3_200,,,Follow MY Rules!,,,PALADIN,,,TB,,Change the Attack of all other minions to 1.,SPELL
+2749,,,,3.0,679.0,,"[100, 800, 20, 100]",,,"This is not just a favor, but a divine one, like helping someone move a couch with a fold out bed!",,,EX1_349,,,Divine Favor,,,PALADIN,,RARE,EXPERT1,,Draw cards until you have as many in hand as your opponent.,SPELL
+2751,,,,0.0,2293.0,,"[40, 400, 5, 50]",,,,,,BRM_010a,,,Firecat Form,,,DRUID,,COMMON,BRM,,Transform into a 5/2 minion.,SPELL
+2759,,,,1.0,481.0,,"[100, 800, 20, 100]",,,"It is true that some druids are savage, but others still enjoy a quiet moment and a spot of tea.",,,EX1_578,,,Savagery,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",DRUID,,RARE,EXPERT1,,Deal damage equal to your hero's Attack to a minion.,SPELL
+2760,,,,3.0,39765.0,,,"['EX1_294', 'FP1_018', 'AT_002', 'EX1_287', 'tt_010', 'EX1_295', 'EX1_289', 'EX1_594']",,,,,KARA_00_10,,,Mysterious Rune,,{'REQ_SECRET_CAP_FOR_NON_SECRET': 0},MAGE,,,KARA,,Put 5 random Mage <b>Secrets</b> into the battlefield.,SPELL
+2764,,,,3.0,40560.0,,,,,,,,KARA_13_11,,,Shadow Bolt Volley,,{'REQ_MINIMUM_ENEMY_MINIONS': 2},NEUTRAL,,,KARA,,Deal $4 damage to three random enemies.,SPELL
+2771,,,,1.0,279.0,,,,,It doesn't matter how pious you are.  Everyone needs a good smiting now and again.,,Unlocked at Level 23.,CS1_130,,,Holy Smite,,{'REQ_TARGET_TO_PLAY': 0},PRIEST,,FREE,CORE,,Deal $2 damage.,SPELL
+2772,,,,3.0,38848.0,,"[400, 1600, 100, 400]",,,They have an uneasy rivalry with the Blood Paladins.,,,OG_276,,,Blood Warriors,,,WARRIOR,,EPIC,OG,,Add a copy of each damaged friendly minion to your hand.,SPELL
+2775,,,,6.0,2632.0,,"[400, 1600, 100, 400]",,,A prime example of lose-lose negotiating.,,,AT_025,,,Dark Bargain,,{'REQ_MINIMUM_ENEMY_MINIONS': 2},WARLOCK,,EPIC,TGT,,Destroy 2 random enemy minions. Discard 2 random cards.,SPELL
+2778,,,,3.0,919.0,,,,,"""I've just sucked one year of your life away.""",,Unlocked at Level 45.,CS2_061,,,Drain Life,,{'REQ_TARGET_TO_PLAY': 0},WARLOCK,,FREE,CORE,,Deal $2 damage. Restore #2 Health to your hero.,SPELL
+2780,,,,2.0,1007.0,,,,,"Really, if you're a hero, this is <i>every</i> strike.",,Unlocked at Level 15.,CS2_105,,,Heroic Strike,,,WARRIOR,,FREE,CORE,,Give your hero +4 Attack this turn.,SPELL
+2787,,,,3.0,39759.0,,,,,,,,KARA_00_05,,,Archmage's Insight,,,MAGE,,,KARA,,Your spells cost (0) this turn.,SPELL
+2792,,,,4.0,2402.0,,,,,,,,BRMA16_3,,,Sonic Breath,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0, 'REQ_WEAPON_EQUIPPED': 0}",NEUTRAL,,,BRM,,Deal $3 damage to a minion. Give your weapon +3 Attack.,SPELL
+2795,,,,6.0,1365.0,,"[100, 800, 20, 100]",,,Often followed by Holy Smokes!,,,EX1_624,,,Holy Fire,,{'REQ_TARGET_TO_PLAY': 0},PRIEST,,RARE,EXPERT1,,Deal $5 damage. Restore #5 Health to your hero.,SPELL
+2797,,,,3.0,2793.0,,"[400, 1600, 100, 400]",,,Is this a noun or a verb?  We will never know.,,,AT_044,,,Mulch,,"{'REQ_MINION_TARGET': 0, 'REQ_TARGET_TO_PLAY': 0}",DRUID,,EPIC,TGT,,"Destroy a minion.
+Add a random minion to your opponent's hand.",SPELL
+2799,,,,10.0,41625.0,,,,,,,,CFM_621t29,,,Mystic Wool,,,NEUTRAL,,,GANGS,,Transform all minions into 1/1 Sheep.,SPELL
+2815,,,,1.0,172.0,,"[40, 400, 5, 50]",,,"The trick is not to break the lance.  Otherwise, you have ""Ice Pieces.""  Ice Pieces aren't as effective.",,,CS2_031,['FREEZE'],,Ice Lance,,{'REQ_TARGET_TO_PLAY': 0},MAGE,,COMMON,EXPERT1,,"<b>Freeze</b> a character. If it was already <b>Frozen</b>, deal $4 damage instead.",SPELL

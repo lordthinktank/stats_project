@@ -1,0 +1,479 @@
+,attack,classes,collectionText,cost,dbfId,durability,dust,entourage,faction,flavor,health,howToEarnGolden,id,mechanics,multiClassGroup,name,overload,playRequirements,playerClass,race,rarity,set,spellDamage,text,type
+6,,,,,39045.0,,,,,,,,OG_337e,,,Eve of Destruction,,,NEUTRAL,,,OG,,Stats increased.,ENCHANTMENT
+8,,,,,2166.0,,,,,,,,GVG_011a,['TAG_ONE_TURN_EFFECT'],,Shrink Ray,,,NEUTRAL,,,GVG,,-2 Attack this turn.,ENCHANTMENT
+11,,,,,1402.0,,,,,,,,CS2_122e,,,Enhanced,,,NEUTRAL,,,CORE,,Raid Leader is granting this minion +1 Attack.,ENCHANTMENT
+14,,,,,41672.0,,,,,,,,CFM_334e,,,Smuggling,,,NEUTRAL,,,GANGS,,+2/+2 from Smuggler's Crate.,ENCHANTMENT
+32,,,,,2312.0,,,,,,,,BRM_011t,['TAG_ONE_TURN_EFFECT'],,Lava Shock,,,SHAMAN,,,BRM,,Cards you play this turn don't cause <b>Overload</b>.,ENCHANTMENT
+40,,,,,2428.0,,,,,,,,BRM_004e,,,Twilight Endurance,,,NEUTRAL,,,BRM,,Increased Health.,ENCHANTMENT
+43,,,,,849.0,,,,,,,,EX1_295o,['TAG_ONE_TURN_EFFECT'],,Ice Block,,,MAGE,,,EXPERT1,,Your hero is <b>Immune</b> this turn.,ENCHANTMENT
+50,,,,,1918.0,,,,,,,,EX1_382e,,,Stand Down!,,,PALADIN,,,EXPERT1,,Attack changed to 1.,ENCHANTMENT
+51,,,,,1760.0,,,,,,,,EX1_145o,['TAG_ONE_TURN_EFFECT'],,Preparation,,,ROGUE,,,EXPERT1,,The next spell you cast this turn costs (3) less.,ENCHANTMENT
+56,,,,,24937.0,,,,,,,,LOEA09_2e,['TAG_ONE_TURN_EFFECT'],,Enraged,,,NEUTRAL,,,LOE,,+2 Attack,ENCHANTMENT
+59,,,,,1708.0,,,,,,,,EX1_570e,['TAG_ONE_TURN_EFFECT'],,Bite,,,NEUTRAL,,,EXPERT1,,+4 Attack this turn.,ENCHANTMENT
+62,,,,,465.0,,,,,,,,NEW1_018e,,,Treasure Crazed,,,NEUTRAL,,,EXPERT1,,Increased Attack.,ENCHANTMENT
+70,,,,,1103.0,,,,,,,,EX1_093e,,,Hand of Argus,,,NEUTRAL,,,EXPERT1,,+1/+1 and <b>Taunt</b>.,ENCHANTMENT
+71,,,,,1633.0,,,,,,,,EX1_531e,,,Well Fed,,,HUNTER,,,EXPERT1,,Increased Attack and Health.,ENCHANTMENT
+73,,,,,2734.0,,,,,,,,AT_069e,,,Training Complete,,,WARRIOR,,,TGT,,<b>Taunt</b>,ENCHANTMENT
+83,,,,,863.0,,,,,,,,EX1_584e,,,Teachings of the Kirin Tor,,,NEUTRAL,,,EXPERT1,,<b>Spell Damage +1</b>.,ENCHANTMENT
+85,,,,,603.0,,,,,,,,CS2_087e,,,Blessing of Might,,,PALADIN,,,CORE,,+3 Attack.,ENCHANTMENT
+88,,,,,38941.0,,,,,,,,OG_080de,,,Fadeleaf,,,NEUTRAL,,,OG,,Stealthed until your next turn.,ENCHANTMENT
+89,,,,,1852.0,,,,,,,,NEW1_027e,,,Yarrr!,,,NEUTRAL,,,EXPERT1,,Southsea Captain is granting +1/+1.,ENCHANTMENT
+92,,,,,40519.0,,,,,,,,TB_CoOpv3_104e,,,Unity,,,NEUTRAL,,,TB,,+2/+2,ENCHANTMENT
+107,,,,,2223.0,,,,,,,,GVG_055e,,,Screwy Jank,,{'REQ_FRIENDLY_TARGET': 0},WARRIOR,,,GVG,,+2/+2.,ENCHANTMENT
+110,,,,,39848.0,,,,,,,,KAR_A02_09e,,,Table Set,,,NEUTRAL,,,KARA,,+1/+1.,ENCHANTMENT
+113,,,,,20438.0,,,"['TBST_003', 'TBST_002', 'TBST_001']",,,,,TBST_006,,,OLDTBST Push Common Card,,,NEUTRAL,,,TB,,push a common card into player's hand,ENCHANTMENT
+116,,,,,2657.0,,,,,,,,TB_006e,,,Big Banana,,,NEUTRAL,,,TB,,Has +2/+2.,ENCHANTMENT
+120,,,,,593.0,,,,,,,,EX1_613e,,,VanCleef's Vengeance,,,ROGUE,,,EXPERT1,,Increased stats.,ENCHANTMENT
+129,,,,,40987.0,,,,,,,,CFM_671e,,,We All Scream,,,NEUTRAL,,,GANGS,,+2/+2.,ENCHANTMENT
+139,,,,,40846.0,,,,,,,,CFM_336e,,,Smuggling,,,NEUTRAL,,,GANGS,,+2/+2 from Shaky Zipgunner.,ENCHANTMENT
+141,,,,,38668.0,,,,,,,,OG_200e,,,Doom Free,,,NEUTRAL,,,OG,,Attack set to 7.,ENCHANTMENT
+148,,,,,38636.0,,,,,,,,LOEA09_3a,,,Famished,,,NEUTRAL,,,LOE,,Quite Hungry.,ENCHANTMENT
+151,,,,,2693.0,,,,,,,,BRMC_97e,,,Burning Adrenaline,,,NEUTRAL,,,TB,,Costs (2) less.,ENCHANTMENT
+159,,,,,639.0,,,,,,,,EX1_334e,,,Shadow Madness,,,PRIEST,,,EXPERT1,,This minion has switched controllers this turn.,ENCHANTMENT
+168,,,,,38963.0,,,,,,,,OG_113e,,,Power of the People,,,WARLOCK,,,OG,,Increased Attack.,ENCHANTMENT
+171,,,,,35035.0,,,,,,,,LOE_118e,,,Cursed Blade,,,WARRIOR,,,LOE,,Double all damage dealt to your hero.,ENCHANTMENT
+172,,,,,1627.0,,,,,,,,CS2_236e,,,Divine Spirit,,,PRIEST,,,CORE,,This minion has double Health.,ENCHANTMENT
+177,,,,,40685.0,,,,,,,,CFM_338e,,,Smuggling,,,HUNTER,,,GANGS,,+1/+1 from Trogg Beastrager.,ENCHANTMENT
+185,,,,,2565.0,,,,,,,,AT_016e,,,Confused,,,PRIEST,,,TGT,,Swapped Attack and Health.,ENCHANTMENT
+202,,,,,38858.0,,,,,,,,OG_281e,,,Fanatic Devotion,,,NEUTRAL,,,OG,,Increased Stats.,ENCHANTMENT
+203,,,,,2374.0,,,,,,,,XXX_054e,,,Weapon Buff Enchant,,,NEUTRAL,,,CHEAT,,,ENCHANTMENT
+204,,,,,38995.0,,,,,,,,TB_Face_Ench1,,,Safe,,,NEUTRAL,,,TB,,This minion is safe from attacks and cannot have taunt.,ENCHANTMENT
+218,,,,,591.0,,,,,,,,CS2_004e,,,Power Word: Shield,,,PRIEST,,,CORE,,+2 Health.,ENCHANTMENT
+222,,,,,2238.0,,,,,,,,GVG_104a,,,"HERE, TAKE BUFF.",,,NEUTRAL,,,GVG,,+2/+2.,ENCHANTMENT
+223,,,,,2300.0,,,,,,,,BRM_018e,,,Unchained!,,,PALADIN,,,BRM,,Your next Dragon costs (2) less.,ENCHANTMENT
+232,,,,,1702.0,,,,,,,,EX1_304e,,,Consume,,,WARLOCK,,,EXPERT1,,Increased stats.,ENCHANTMENT
+236,,,,,38390.0,,,,,,,,OG_070e,,,Thirsty Blades,,,ROGUE,,COMMON,OG,,+1/+1.,ENCHANTMENT
+237,,,,,2819.0,,,,,,,,AT_133e,,,Victory!,,,NEUTRAL,,,TGT,,+1/+1.,ENCHANTMENT
+238,,,,,122.0,,,,,,,,NEW1_017e,,,Full Belly,,,NEUTRAL,,,EXPERT1,,+2/+2.  Full of Murloc.,ENCHANTMENT
+253,,,,,1738.0,,,,,,,,EX1_258e,,,Overloading,,,SHAMAN,,,EXPERT1,,Increased stats.,ENCHANTMENT
+256,,,,,2200.0,,,,,,,,GVG_043e,,,Glaivezooka,,,HUNTER,,,GVG,,+1 Attack.,ENCHANTMENT
+257,,,,,1695.0,,,,,,,,EX1_014te,,,Bananas,,,NEUTRAL,,,EXPERT1,,Has +1/+1.,ENCHANTMENT
+269,,,,,2616.0,,,,,,,,AT_049e,,,Power of the Bluff,,,SHAMAN,,,TGT,,Increased Attack.,ENCHANTMENT
+274,,,,,1502.0,,,,,,,,TU4c_006e,,,Bananas,,,NEUTRAL,,,MISSIONS,,This minion has +1/+1. <i>(+1 Attack/+1 Health)</i>,ENCHANTMENT
+275,,,,,38956.0,,,,,,,,OG_320e,,,Hour of Corruption,,,NEUTRAL,,,OG,,Increased Attack.,ENCHANTMENT
+286,,,,,130.0,,,,,,,,CS2_022e,['MORPH'],,Polymorph,,,MAGE,,COMMON,CORE,,This minion has been transformed into a 1/1 Sheep.,ENCHANTMENT
+288,,,,,39042.0,,,,,,,,TB_PickYourFate_8_EnchRand,,,Fate 8 Rand 2 armor each turn,,,NEUTRAL,,,TB,,,ENCHANTMENT
+301,,,,,38405.0,,,,,,,,NEW1_014e,,,Disguised,,,ROGUE,,,EXPERT1,,Stealthed until your next turn.,ENCHANTMENT
+306,,,,,40524.0,,,,,,,,TB_CoOpv3_101e,,,Team Player Enchantment,,,NEUTRAL,,,TB,,<b>Immune</b> ahile attacking,ENCHANTMENT
+314,,,,,2204.0,,,,,,,,GVG_049e,,,Might of Zul'Farrak,,,HUNTER,,,GVG,,Multiplying Attack.,ENCHANTMENT
+317,,,,,809.0,,,,,,,,CS2_188o,['TAG_ONE_TURN_EFFECT'],,'Inspired',,,NEUTRAL,,,EXPERT1,,This minion has +2 Attack this turn.,ENCHANTMENT
+323,,,,,39024.0,,,"['TB_PickYourFate_1', 'TB_PickYourFate_4', 'TB_PickYourFate_7_2nd', 'TB_PickYourFate_3', 'TB_PickYourFate_6_2nd', 'TB_PickYourFate_11rand']",,,,,TB_PickYourFate_2nd,,,Pick Your Fate Randon 2nd,,,NEUTRAL,,,TB,,,ENCHANTMENT
+324,,,,,2643.0,,,"['BRMA14_10', 'BRMA14_10H', 'BRMA09_4', 'BRMA09_4H', 'BRMA17_5', 'BRMA17_5H', 'NAX15_04', 'NAX15_04H', 'NAX12_02', 'NAX12_02H', 'BRM_027p', 'BRM_027pH', 'BRMA09_5', 'BRMA09_5H', 'BRMA16_2', 'BRMA16_2H', 'NAX5_02', 'NAX5_02H', 'BRMA11_2', 'BRMA11_2H', 'BRMA17_8', 'BRMA17_8H', 'NAX15_02', 'NAX15_02H', 'NAX14_02', 'NAX8_02', 'NAX8_02H', 'NAX10_03', 'NAX10_03H', 'BRMA05_2', 'BRMA05_2H', 'BRMA02_2', 'BRMA02_2H', 'BRMA04_2', 'BRMA07_2', 'BRMA07_2H', 'NAX6_02', 'NAX6_02H', 'BRMA09_2', 'BRMA09_2H', 'BRMA01_2', 'BRMA01_2H', 'NAX11_02', 'NAX11_02H', 'NAX13_02', 'NAX2_03', 'NAX2_03H', 'NAX1_04', 'NAX1h_04', 'BRMA06_2', 'BRMA06_2H', 'BRMA10_3', 'BRMA10_3H', 'NAX7_03', 'NAX7_03H', 'NAX9_06', 'NAX3_02', 'NAX3_02H', 'BRMA13_4', 'BRMA13_4H']",,,,,TB_001,,,Boss HP Swapper,,,NEUTRAL,,,TB,,,ENCHANTMENT
+327,,,,,40003.0,,,,,,,,TB_GP_01e_copy1,['CANT_ATTACK'],,Shadow Tower Give My minions Stealth,,,NEUTRAL,,,TB,,"Can't Attack.
+<b>Stealth</b>.",ENCHANTMENT
+328,,,,,42060.0,,,,,,,,CFM_621e3,,,Goldthorn,,,NEUTRAL,,,GANGS,,+6 Health.,ENCHANTMENT
+331,,,,,38907.0,,,,,,,,OG_290e,,,Caller Devotion,,,NEUTRAL,,,OG,,+1/+1.,ENCHANTMENT
+343,,,,,1649.0,,,,,,,,XXX_022e,,,Free Cards,,,NEUTRAL,,,CHEAT,,Your cards cost (0) for the rest of the game.,ENCHANTMENT
+344,,,,,38796.0,,,,,,,,OG_256e,,,Slimed,,,NEUTRAL,,,OG,,+1/+1.,ENCHANTMENT
+350,,,,,320.0,,,,,,,,EX1_607e,,,Inner Rage,,,WARRIOR,,,EXPERT1,,+2 Attack.,ENCHANTMENT
+376,,,,,40390.0,,,,,,,,CFM_610e,,,Serrated Shadows,,,NEUTRAL,,,GANGS,,+1/+1.,ENCHANTMENT
+398,,,,,2750.0,,,,,,,,AT_121e,,,Huge Ego,,,NEUTRAL,,,TGT,,Increased stats.,ENCHANTMENT
+407,,,,,40246.0,,,,,,,,OG_150e,['ENRAGED'],,Enraged,,,NEUTRAL,,,OG,,+2 Attack.,ENCHANTMENT
+409,,,,,2597.0,,,,,,,,AT_116e,,,Bring it on!,,,PRIEST,,,TGT,,+1 Attack and <b>Taunt</b>.,ENCHANTMENT
+410,,,,,1732.0,,,,,,,,GAME_001,,,Luck of the Coin,,,NEUTRAL,,,CORE,,Going second grants you increased Health.,ENCHANTMENT
+417,,,,,38815.0,,,,,,,,LOEA16_20H,,,Blessing of the Sun,,,NEUTRAL,,,LOE,,<b>Immune</b>.,ENCHANTMENT
+418,,,,,38849.0,,,,,,,,LOEA09_7e,,,Cauldron,,,NEUTRAL,,,LOE,,,ENCHANTMENT
+419,,,,,38962.0,,,,,,,,TB_Mini_1e,,,Miniature,,,NEUTRAL,,,TB,,"Mini-sized, set to 1/1",ENCHANTMENT
+429,,,,,2214.0,,,,,,,,GVG_086e,,,Armor Plated,,,WARRIOR,,,GVG,,Increased Attack.,ENCHANTMENT
+442,,,,,1713.0,,,,,,,,CS2_103e2,,,Charge,,,WARRIOR,,,CORE,,Has <b>Charge</b>.,ENCHANTMENT
+451,,,,,2769.0,,,,,,,,AT_032e,,,Shady Deals,,,ROGUE,,,TGT,,+1/+1.,ENCHANTMENT
+472,,,,,40561.0,,,,,,,,KARA_13_11e,,,Enfeeble,,,NEUTRAL,,,KARA,,Health changed to 1.,ENCHANTMENT
+473,,,,,650.0,,,,,,,,CS1_129e,,,Inner Fire,,,PRIEST,,,EXPERT1,,This minion's Attack is equal to its Health.,ENCHANTMENT
+475,,,,,1717.0,,,,,,,,NEW1_029t,,,Kill Millhouse!,,,NEUTRAL,,LEGENDARY,EXPERT1,,Spells cost (0) this turn!,ENCHANTMENT
+491,,,,,1911.0,,,,,,,,FP1_028e,,,Darkness Calls,,,NEUTRAL,,,NAXX,,Increased stats.,ENCHANTMENT
+497,,,,,1153.0,,,,,,,,NEW1_024o,,,Greenskin's Command,,,NEUTRAL,,,EXPERT1,,+1/+1.,ENCHANTMENT
+508,,,,,2276.0,,,,,,,,BRM_001e,['TAG_ONE_TURN_EFFECT'],,Melt,,,PRIEST,,,BRM,,Attack changed to 0 this turn.,ENCHANTMENT
+519,,,,,41528.0,,,,,,,,CFM_631e,,,Smuggling,,,NEUTRAL,,,GANGS,,Increased stats from Brass Knuckles.,ENCHANTMENT
+524,,,,,1719.0,,,,,,,,EX1_509e,,,Blarghghl,,,NEUTRAL,,,EXPERT1,,Increased Attack.,ENCHANTMENT
+528,,,,,1700.0,,,,,,,,EX1_046e,['TAG_ONE_TURN_EFFECT'],,Tempered,,,NEUTRAL,,,EXPERT1,,+2 Attack this turn.,ENCHANTMENT
+539,,,,,1779.0,,,,,,,,EX1_274e,,,Raw Power!,,,MAGE,,,EXPERT1,,Increased stats.,ENCHANTMENT
+541,,,,,1542.0,,,,,,,,TU4c_008e,['TAG_ONE_TURN_EFFECT'],,Might of Mukla,,,NEUTRAL,,,MISSIONS,,King Mukla has +8 Attack this turn.,ENCHANTMENT
+542,,,,,17264.0,,,,,,,,TB_EndlessMinions01,,,Endless Enchantment,,,NEUTRAL,,,TB,,+2/+2.,ENCHANTMENT
+549,,,,,42705.0,,,,,,,,CFM_325e,,,Equipped,,,NEUTRAL,,,GANGS,,+2 Attack.,ENCHANTMENT
+556,,,,,2241.0,,,,,,,,GVG_106e,,,Junked Up,,,NEUTRAL,,,GVG,,Increased stats.,ENCHANTMENT
+557,,,,,2239.0,,,,,,,,GVG_060e,,,Well Equipped,,,PALADIN,,,GVG,,+2/+2.,ENCHANTMENT
+560,,,,,2487.0,,,,,,,,AT_082e,,,Training,,,NEUTRAL,,,TGT,,Increased Attack.,ENCHANTMENT
+575,,,,,143.0,,,,,,,,NEW1_033o,,,Eye In The Sky,,,HUNTER,,,CORE,,Leokk is granting this minion +1 Attack.,ENCHANTMENT
+576,,,,,39100.0,,,,,,,,OG_267e,,,Squid Oil Sheen,,,ROGUE,,,OG,,+2 Attack,ENCHANTMENT
+579,,,,,38912.0,,,,,,,,OG_311e,,,Beacon of Hope,,,NEUTRAL,,,OG,,+1/+1.,ENCHANTMENT
+589,,,,,1711.0,,,,,,,,NEW1_036e2,['TAG_ONE_TURN_EFFECT'],,Commanding Shout,,,WARRIOR,,,EXPERT1,,Your minions can't be reduced below 1 Health this turn.,ENCHANTMENT
+595,,,,,2751.0,,,,,,,,AT_117e,,,Ceremony,,,NEUTRAL,,,TGT,,+2/+2.,ENCHANTMENT
+599,,,,,38702.0,,,,,,,,TB_PickYourFate_8_Ench,,,Fate 8 Get Armor,,,NEUTRAL,,,TB,,,ENCHANTMENT
+603,,,,,331.0,,,,,,,,EX1_573ae,,,Demigod's Favor,,,DRUID,,,EXPERT1,,+2/+2.,ENCHANTMENT
+609,,,,,39039.0,,,,,,,,TB_PickYourFate_7_EnchMiniom2nd,,,Fate,,,NEUTRAL,,,TB,,<b>Deathrattle:</b> random card in owner's hand costs (0).,ENCHANTMENT
+613,,,,,2412.0,,,,,,,,XXX_058e,,,Weapon Nerf Enchant,,,NEUTRAL,,,CHEAT,,Red Sparkles!,ENCHANTMENT
+627,,,,,38748.0,,,,,,,,OG_223e,,,Optimism,,,NEUTRAL,,,OG,,+1/+2.,ENCHANTMENT
+628,,,,,2198.0,,,,,,,,GVG_030be,,,Tank Mode,,,DRUID,,,GVG,,+1 Health.,ENCHANTMENT
+633,,,,,2407.0,,,,,,,,BRM_028e,,,Imperial Favor,,,NEUTRAL,,,BRM,,Costs (1) less.,ENCHANTMENT
+636,,,,,977.0,,,,,,,,NEW1_037e,,,Equipped,,,NEUTRAL,,,EXPERT1,,Increased Attack.,ENCHANTMENT
+639,,,,,39031.0,,,,,,,,TB_PickYourFate_7_EnchMinion,,,Fate,,,NEUTRAL,,,TB,,<b>Deathrattle:</b> Your owner gets a coin.,ENCHANTMENT
+646,,,,,1894.0,,,,,,,,NAX12_02e,,,Decimate,,,NEUTRAL,,,NAXX,,Health changed to 1.,ENCHANTMENT
+651,,,,,1630.0,,,,,,,,EX1_043e,,,Hour of Twilight,,,NEUTRAL,,,EXPERT1,,Increased Health.,ENCHANTMENT
+667,,,,,38586.0,,,,,,,,TB_GiftExchange_Enchantment,,,Cheap Gift,,,NEUTRAL,,,TB,,This card's cost is reduced.,ENCHANTMENT
+670,,,,,276.0,,,,,,,,EX1_155be,,,Mark of Nature,,,DRUID,,,EXPERT1,,This minion has +4 Health and <b>Taunt</b>.,ENCHANTMENT
+675,,,,,2194.0,,,,,,,,GVG_100e,,,Brow Furrow,,,WARLOCK,,,GVG,,Increased stats.,ENCHANTMENT
+676,,,,,2158.0,,,,,,,,PART_001e,,,Armor Plating,,,NEUTRAL,,,GVG,,+1 Health.,ENCHANTMENT
+699,,,,,42207.0,,,,,,,,TB_BoomAnnoy_001e,,,Loves Annoy-o-tron,,,NEUTRAL,,,TB,,+2/+2.,ENCHANTMENT
+718,,,,,39032.0,,,,,,,,TB_PickYourFate_2_EnchMinion,['DEATHRATTLE'],,Fate,,,NEUTRAL,,,TB,,<b>Deathrattle:</b> Your owner gets a banana.,ENCHANTMENT
+727,,,,,38742.0,,,,,,,,LOEA09_3aH,,,Famished,,,NEUTRAL,,,LOE,,Quite Hungry.,ENCHANTMENT
+731,,,,,1812.0,,,,,,,,FP1_020e,,,Vengeance,,,PALADIN,,,NAXX,,+3/+2.,ENCHANTMENT
+733,,,,,42155.0,,,,,,,,CFM_603e,,,Madness Potion,,,PRIEST,,,GANGS,,This minion has switched controllers this turn.,ENCHANTMENT
+745,,,,,925.0,,,,,,,,CS2_084e,,,Hunter's Mark,,,HUNTER,,,CORE,,This minion has 1 Health.,ENCHANTMENT
+748,,,,,1731.0,,,,,,,,EX1_411e2,,,Needs Sharpening,,,WARRIOR,,,EXPERT1,,Decreased Attack.,ENCHANTMENT
+749,,,,,78.0,,,,,,,,CS2_105e,['TAG_ONE_TURN_EFFECT'],,Heroic Strike,,,WARRIOR,,,CORE,,+4 Attack this turn.,ENCHANTMENT
+759,,,,,40129.0,,,,,,,,KAR_037t,,,Secrets of Karazhan,,,NEUTRAL,,,KARA,,+1/+1 and <b>Taunt</b>.,ENCHANTMENT
+760,,,,,39741.0,,,,,,,,KARA_08_04e,['TAG_ONE_TURN_EFFECT'],,Empowered,,,NEUTRAL,,,EXPERT1,,+8 Attack this turn.,ENCHANTMENT
+768,,,,,2178.0,,,,,,,,GVG_041c,,,Dark Wispers,,,DRUID,,,GVG,,+5/+5 and <b>Taunt</b>.,ENCHANTMENT
+774,,,,,40730.0,,,,,,,,TB_CoOpv3_BOSS4e,['TAG_ONE_TURN_EFFECT'],,Cowed,,,NEUTRAL,,,TB,,Can't attack this turn.,ENCHANTMENT
+782,,,,,40002.0,,,,,,,,TB_GP_01e_v2,,,Shadow Tower Stealth,,,NEUTRAL,,,TB,,<b>Stealth</b>.,ENCHANTMENT
+783,,,,1.0,19955.0,,,,,,,,HRW02_1e,,,Overclock,,,NEUTRAL,,,TB,,Increased Attack.,ENCHANTMENT
+790,,,,,39135.0,,,,,,,,OG_339e,,,Vassal's Subservience,,,NEUTRAL,,,OG,,+2/+2.,ENCHANTMENT
+815,,,,,40286.0,,,,,,,,CFM_063e,,,Kooky Chemistry,,,NEUTRAL,,,GANGS,,Attack and Health have been swapped by Kooky Chemist.,ENCHANTMENT
+829,,,,,17148.0,,,,,,,,LOEA06_03e,,,Animated,,,NEUTRAL,,,LOE,,+1/+1 and <b>Taunt</b>.,ENCHANTMENT
+835,,,,,2722.0,,,,,,,,TB_010e,,,Choose One of Three,,,NEUTRAL,,,TB,,,ENCHANTMENT
+842,,,,,39758.0,,,,,,,,KARA_00_05e,['TAG_ONE_TURN_EFFECT'],,Insightful,,,NEUTRAL,,,KARA,,Your spells cost (0).,ENCHANTMENT
+846,,,,,37603.0,,,,,,,,TB_RandCardCost,,,TBRandomCardCost,,,NEUTRAL,,,TB,,,ENCHANTMENT
+847,,,,,40572.0,,,,,,,,CFM_755e,,,Smuggling,,,NEUTRAL,,,GANGS,,+1/+1 from Grimestreet Pawnbroker.,ENCHANTMENT
+849,,,,,2185.0,,,,,,,,GVG_022a,,,Tinker's Sharpsword Oil,,,NEUTRAL,,,GVG,,+3 Attack.,ENCHANTMENT
+852,,,,,38939.0,,,,,,,,OG_080ee,,,Briarthorn,,,NEUTRAL,,,OG,,+3 Attack.,ENCHANTMENT
+860,,,,,38695.0,,,,,,,,TB_PickYourFate_5_Ench,,,Pick Your Fate 5 Ench,,,NEUTRAL,,,TB,,,ENCHANTMENT
+868,,,,,38851.0,,,"['TB_PickYourFate_12', 'TB_PickYourFate_2', 'TB_PickYourFate_8rand', 'TB_PickYourFate_6', 'TB_PickYourFate_5', 'TB_PickYourFate_7']",,,,,TB_PickYourFateRandom,,,Pick Your Fate Random,,,NEUTRAL,,,TB,,,ENCHANTMENT
+870,,,,,2376.0,,,,,,,,XXX_055e,,,1000 Stats Enchant,,,NEUTRAL,,,CHEAT,,,ENCHANTMENT
+871,,,,,2846.0,,,,,,,,AT_011e,['AURA'],,Light's Blessing,,,NEUTRAL,,,TGT,,Increased Attack.,ENCHANTMENT
+872,,,,,1747.0,,,,,,,,GAME_005e,,,The Coin,,,NEUTRAL,,,CORE,,,ENCHANTMENT
+876,,,,,2848.0,,,,,,,,AT_013e,,,Power Word: Glory,,,NEUTRAL,,,TGT,,"When this attacks, restore 4 Health to the hero of the player who buffed it.",ENCHANTMENT
+881,,,,,2578.0,,,,,,,,AT_084e,,,Equipped,,,NEUTRAL,,,TGT,,+2 Attack.,ENCHANTMENT
+886,,,,,38568.0,,,,,,,,OG_174e,,,Faceless,,,NEUTRAL,,,OG,,Copying stats.,ENCHANTMENT
+891,,,,,2747.0,,,,,,,,AT_132_DRUIDe,['TAG_ONE_TURN_EFFECT'],,Dire Claws,,,DRUID,,,TGT,,+2 Attack this turn.,ENCHANTMENT
+893,,,,,39835.0,,,,,,,,EX1_414e,,,Enraged,,,WARRIOR,,,EXPERT1,,+6 Attack,ENCHANTMENT
+895,,,,,38688.0,,,,,,,,LOEA16_20e,['TAG_ONE_TURN_EFFECT'],,Blessed,,,NEUTRAL,,,LOE,,<b>Immune</b> this turn.,ENCHANTMENT
+897,,,,,2604.0,,,,,,,,BRMA10_3e,,,Incubation,,,NEUTRAL,,,BRM,,Increased Health.,ENCHANTMENT
+905,,,,,2160.0,,,,,,,,PART_007e,,,Whirling Blades,,,NEUTRAL,,,GVG,,+1 Attack.,ENCHANTMENT
+912,,,,,521.0,,,,,,,,NEW1_036e,['TAG_ONE_TURN_EFFECT'],,Commanding Shout,,,WARRIOR,,,EXPERT1,,Can't be reduced below 1 Health this turn.,ENCHANTMENT
+913,,,,,620.0,,,,,,,,NEW1_012o,,,Mana Gorged,,,MAGE,,,EXPERT1,,Increased attack.,ENCHANTMENT
+918,,,,,39706.0,,,,,,,,KARA_08_08e2,,,Red Beam,,,NEUTRAL,,,KARA,,Has <b>Windfury</b>.,ENCHANTMENT
+921,,,,,2206.0,,,,,,,,GVG_019e,,,Demonheart,,,WARLOCK,,,GVG,,+5/+5.,ENCHANTMENT
+932,,,,,2169.0,,,,,,,,GVG_014a,,,Shadowed,,,PRIEST,,,GVG,,Health was swapped.,ENCHANTMENT
+951,,,,,2685.0,,,"['FP1_020', 'EX1_287', 'FP1_018', 'EX1_610', 'EX1_132', 'EX1_611', 'EX1_289', 'EX1_295', 'EX1_294', 'EX1_533', 'EX1_130', 'EX1_136', 'EX1_379', 'EX1_554', 'EX1_609', 'tt_010', 'EX1_594']",,,,,TB_009,,,Create 15 Secrets,,,NEUTRAL,,,TB,,,ENCHANTMENT
+953,,,,,38831.0,,,,,,,,OG_271e,,,Terrifying Visage,,,NEUTRAL,,,OG,,Attack increased.,ENCHANTMENT
+954,,,,,28703.0,,,,,,,,TB_RMC_001,,,TB_EnchRandomManaCost,,,NEUTRAL,,,TB,,,ENCHANTMENT
+964,,,,,2220.0,,,,,,,,GVG_027e,,,Ironed Out,,,ROGUE,,,GVG,,Increased stats.,ENCHANTMENT
+973,,,,,25413.0,,,,,,,,LOEA16_8a,,,Putressed,,,NEUTRAL,,,LOE,,Attack and Health swapped.,ENCHANTMENT
+976,,,,,953.0,,,,,,,,EX1_316e,,,Power Overwhelming,,,WARLOCK,,,EXPERT1,,"This minion has +4/+4, but will die a horrible death at the end of the turn.",ENCHANTMENT
+990,,,,,42366.0,,,,,,,,TB_SPT_DPromoSecret9e,,,Knowledge,,,NEUTRAL,,,TB,,Costs (1).,ENCHANTMENT
+993,,,,,634.0,,,,,,,,EX1_080o,,,Keeping Secrets,,,NEUTRAL,,,EXPERT1,,Increased stats.,ENCHANTMENT
+995,,,,,38339.0,,,,,,,,OG_051e,,,Forbidden Power,,,DRUID,,,OG,,Increased stats.,ENCHANTMENT
+1009,,,,,2825.0,,,,,,,,AT_115e,,,Fencing Practice,,,NEUTRAL,,,TGT,,Your Hero Power costs (2) less.,ENCHANTMENT
+1011,,,,,39337.0,,,,,,,,OG_188e,,,Amber Carapace,,,NEUTRAL,,,OG,,+5 Health.,ENCHANTMENT
+1017,,,,,697.0,,,,,,,,EX1_612o,['TAG_ONE_TURN_EFFECT'],,Power of the Kirin Tor,,,MAGE,,,EXPERT1,,Your next Secret costs (0).,ENCHANTMENT
+1021,,,,,322.0,,,,,,,,EX1_155ae,,,Mark of Nature,,,DRUID,,,EXPERT1,,This minion has +4 Attack.,ENCHANTMENT
+1025,,,,,28554.0,,,"['BRMA07_2_2_TB', 'BRMA01_2H_2_TB', 'BRMA17_5_TB', 'NAX12_02H_2_TB', 'BRMA02_2_2_TB', 'NAX11_02H_2_TB', 'BRMA13_4_2_TB', 'BRMA09_2_TB', 'BRMA14_10H_TB', 'BRMA06_2H_TB', 'NAX3_02_TB', 'NAX8_02H_TB']",,,,,TB_RandHero2_001,,,TB_EnchWhosTheBossNow,,,NEUTRAL,,,TB,,,ENCHANTMENT
+1027,,,,,2202.0,,,,,,,,GVG_046e,,,The King,,,HUNTER,,,GVG,,Increased Attack.,ENCHANTMENT
+1037,,,,,2273.0,,,,,,,,GVG_067a,['AURA'],,Metabolized Magic,,,NEUTRAL,,,GVG,,Increased Attack.,ENCHANTMENT
+1044,,,,,42175.0,,,,,,,,TB_SPT_DPromoSecre8e,,,Assassin's Stealth,,,NEUTRAL,,,TB,,<b>Stealth</b>.,ENCHANTMENT
+1046,,,,,2426.0,,,,,,,,BRMA16_3e,,,Sonic Breath,,,NEUTRAL,,,BRM,,+3 Attack.,ENCHANTMENT
+1052,,,,,38438.0,,,,,,,,OG_104e,['TAG_ONE_TURN_EFFECT'],,Embracing the Shadow,,,NEUTRAL,,,OG,,Your healing effects are dealing damage.,ENCHANTMENT
+1055,,,,,3006.0,,,,,,,,LOE_113e,,,Mrglllraawrrrglrur!,,,NEUTRAL,,,LOE,,+2/+2.,ENCHANTMENT
+1070,,,,,2719.0,,,,,,,,AT_074e2,,,Seal of Champions,,,PALADIN,,,TGT,,+3 Attack and <b>Divine Shield</b>.,ENCHANTMENT
+1073,,,,,1740.0,,,,,,,,GAME_004,,,AFK,,,NEUTRAL,,,CORE,,Your turns are shorter.,ENCHANTMENT
+1076,,,,,40403.0,,,,,,,,CFM_617e,,,Visions of Hypnos,,,NEUTRAL,,,GANGS,,+2/+2.,ENCHANTMENT
+1077,,,,,36450.0,,,,,,,,LOEA16_3e,,,Lantern of Power,,,NEUTRAL,,,LOE,,+10/+10.,ENCHANTMENT
+1084,,,,,2203.0,,,,,,,,GVG_021e,,,Grasp of Mal'Ganis,,,WARLOCK,,,GVG,,Mal'Ganis is granting +2/+2.,ENCHANTMENT
+1089,,,,,42187.0,,,,,,,,XXX_115e,,,Destroy Played Card Enchantment,,,NEUTRAL,,COMMON,CHEAT,,"Whenever a player summons a minion, destroy it.",ENCHANTMENT
+1104,,,,,42631.0,,,,,,,,CFM_643e2,,,Smuggling,,,WARRIOR,,,GANGS,,+1 Attack from Hobart Grapplehammer.,ENCHANTMENT
+1108,,,,,2845.0,,,,,,,,AT_077e,,,Extra Poke,,,NEUTRAL,,,TGT,,+1 Durability.,ENCHANTMENT
+1113,,,,,40632.0,,,,,,,,CFM_305e,,,Smuggling,,,PALADIN,,,GANGS,,+1/+1 from Smuggler's Run.,ENCHANTMENT
+1114,,,,,2787.0,,,,,,,,AT_040e,,,Kindred Spirit,,,DRUID,,,TGT,,+3 Health.,ENCHANTMENT
+1116,,,,,2849.0,,,,,,,,AT_073e,,,Competitive Spirit,,,NEUTRAL,,,TGT,,+1/+1.,ENCHANTMENT
+1129,,,,,729.0,,,,,,,,EX1_508o,,,Mlarggragllabl!,,,NEUTRAL,,,CORE,,This Murloc has +1 Attack.,ENCHANTMENT
+1133,,,,,1628.0,,,,,,,,EX1_004e,,,Elune's Grace,,,NEUTRAL,,,EXPERT1,,Increased Health.,ENCHANTMENT
+1134,,,,,38701.0,,,,,,,,TB_PickYourFate7Ench,,,Fate 7 Ench Get a Coin,,,NEUTRAL,,,TB,,,ENCHANTMENT
+1138,,,,,2184.0,,,,,,,,GVG_022b,,,Tinker's Sharpsword Oil,,,NEUTRAL,,,GVG,,+3 Attack.,ENCHANTMENT
+1145,,,,,42086.0,,,,,,,,CFM_611e,,,Demonic Draught,,,NEUTRAL,,,GANGS,,+3 Attack.,ENCHANTMENT
+1148,,,,,1734.0,,,,,,,,GAME_003e,,,Coin's Vengence,,,NEUTRAL,,,CORE,,Going second makes your first minion stronger.,ENCHANTMENT
+1149,,,,,15001.0,,,,,,,,LOE_018e,,,Trogg No Stupid,,,SHAMAN,,,LOE,,Increased Attack.,ENCHANTMENT
+1154,,,,,38804.0,,,,,,,,TB_PickYourFate_9_Ench,,,Fate 9 Ench. Deathrattle bonus,,,NEUTRAL,,,TB,,,ENCHANTMENT
+1157,,,,,2614.0,,,,,,,,AT_047e,,,Experienced,,,SHAMAN,,,TGT,,Increased stats.,ENCHANTMENT
+1172,,,,,40245.0,,,,,,,,OG_218e,['ENRAGED'],,Enraged,,,NEUTRAL,,,OG,,+3 Attack.,ENCHANTMENT
+1174,,,,,38460.0,,,,,,,,OG_118e,,,Renounce Darkness Deck Ench,,,NEUTRAL,,,OG,,,ENCHANTMENT
+1180,,,,,39013.0,,,,,,,,OG_316k,,,Shadowy,,,NEUTRAL,,,OG,,1/1.,ENCHANTMENT
+1184,,,,,1645.0,,,,,,,,EX1_603e,,,Whipped Into Shape,,,WARRIOR,,,EXPERT1,,+2 Attack.,ENCHANTMENT
+1187,,,,,40585.0,,,,,,,,TB_CoOpv3_BOSS3e,['TAG_ONE_TURN_EFFECT'],,Enough!,,,NEUTRAL,,,TB,,Nefarian is <b>Immune</b> this turn.,ENCHANTMENT
+1194,,,,,2781.0,,,,,,,,AT_039e,['TAG_ONE_TURN_EFFECT'],,Savage,,,DRUID,,,TGT,,+2 Attack this turn.,ENCHANTMENT
+1203,,,,,38509.0,,,,,,,,LOEA04_01eh,,,Temple Escape Enchant,,,NEUTRAL,,,LOE,,,ENCHANTMENT
+1211,,,,,2205.0,,,,,,,,GVG_048e,,,Metal Teeth,,,HUNTER,,,GVG,,+2 Attack.,ENCHANTMENT
+1212,,,,,38459.0,,,,,,,,OG_118f,,,New Calling,,,NEUTRAL,,,OG,,Cost reduced.,ENCHANTMENT
+1218,,,,,42351.0,,,,,,,,XXX_119e,,,Death No Rattle,,,,,,CHEAT,,"Died without triggering <b>Deathrattle</b>, All The Time",ENCHANTMENT
+1228,,,,,40762.0,,,,,,,,CFM_020e,,,Raza Enchant,,,NEUTRAL,,,GANGS,,Your <b>Hero Power</b> costs (0).,ENCHANTMENT
+1233,,,,,2842.0,,,,,,,,AT_045e,,,Empowering Mist,,,NEUTRAL,,,TGT,,+1/+1.,ENCHANTMENT
+1236,,,,,42272.0,,,,,,,,TB_DiscoverMyDeck_Enchantment,,,Discover My Deck Enchant,,,NEUTRAL,,,TB,,,ENCHANTMENT
+1239,,,,,39760.0,,,,,,,,KARA_00_06e,['TAG_ONE_TURN_EFFECT'],,Arcanely Powerful,,,NEUTRAL,,,KARA,,+5 Spell Damage.,ENCHANTMENT
+1241,,,,,1543.0,,,,,,,,EX1_363e,,,Blessing of Wisdom,,,PALADIN,,,EXPERT1,,"When this minion attacks, the player who blessed it draws a card.",ENCHANTMENT
+1243,,,,,38977.0,,,,,,,,TB_BlingBrawl_Blade1e,,,Blingtron's Blade,,,NEUTRAL,,,TB,,"When this breaks, randomly summon a new weapon.",ENCHANTMENT
+1245,,,,,2237.0,,,,,,,,GVG_102e,,,Might of Tinkertown,,,NEUTRAL,,,GVG,,+1/+1.,ENCHANTMENT
+1247,,,,,1716.0,,,,,,,,NEW1_025e,,,Bolstered,,,NEUTRAL,,,EXPERT1,,Increased Health.,ENCHANTMENT
+1251,,,,,1678.0,,,,,,,,TU4f_006o,,,Transcendence,,,NEUTRAL,,,MISSIONS,,"Until you kill Cho's minions, he can't be attacked.",ENCHANTMENT
+1258,,,,,1102.0,,,,,,,,CS2_045e,['TAG_ONE_TURN_EFFECT'],,Rockbiter Weapon,,,SHAMAN,,,CORE,,This character has +3 Attack this turn.,ENCHANTMENT
+1277,,,,,39270.0,,,,,,,,KAR_702e,,,A Simple Trick,,,NEUTRAL,,,KARA,,+2/+2.,ENCHANTMENT
+1282,,,,,38693.0,,,,,,,,TB_PickYourFate_3_Ench,,,Pick Your Fate 3 Ench,,,NEUTRAL,,,TB,,,ENCHANTMENT
+1298,,,,,38744.0,,,,,,,,OG_222e,,,Rally,,,PALADIN,,,OG,,+1/+1.,ENCHANTMENT
+1299,,,,,38743.0,,,,,,,,LOEA09_2eH,['TAG_ONE_TURN_EFFECT'],,Enraged,,,NEUTRAL,,,LOE,,+5 Attack,ENCHANTMENT
+1321,,,,,42154.0,,,,,,,,TB_Blizzcon2016_GoonsEnchant,,,The Grimy Goons,,,NEUTRAL,,,TB,,,ENCHANTMENT
+1328,,,,,38672.0,,,"['TB_PickYourFate_9', 'TB_PickYourFate_10', 'TB_PickYourFate_11b', 'TB_PickYourFate_8']",,,,,TB_PickYourFate,,,Pick Your Fate Build Around,,,NEUTRAL,,,TB,,,ENCHANTMENT
+1333,,,,,38626.0,,,,,,,,OG_158e,,,Secrets of the Cult,,,NEUTRAL,,,OG,,+1/+1.,ENCHANTMENT
+1343,,,,,207.0,,,,,,,,CS2_009e,,,Mark of the Wild,,,DRUID,,,CORE,,+2/+2 and <b>Taunt</b>.,ENCHANTMENT
+1345,,,,,1168.0,,,,,,,,NEW1_038o,,,Growth,,,NEUTRAL,,,EXPERT1,,Gruul is growing...,ENCHANTMENT
+1353,,,,,2307.0,,,,,,,,BRM_020e,,,Draconic Power,,,NEUTRAL,,,BRM,,Increased stats.,ENCHANTMENT
+1356,,,,,2721.0,,,,,,,,BRM_033e,,,Dragon Blood,,,NEUTRAL,,,BRM,,+1/+1,ENCHANTMENT
+1358,,,,,1853.0,,,,,,,,CS2_041e,['TAUNT'],,Ancestral Infusion,,,SHAMAN,,,CORE,,Taunt.,ENCHANTMENT
+1361,,,,,42182.0,,,,,,,,TB_SPT_DPromoEnch3,,,Shield Glare,,,NEUTRAL,,,TB,,Attack changed to 1.,ENCHANTMENT
+1370,,,,,39000.0,,,,,,,,OG_293f,,,Dark Guardian,,,NEUTRAL,,,OG,,Increased Stats.,ENCHANTMENT
+1378,,,,,40766.0,,,,,,,,KAR_A02_06e2,,,Filled Up,,,NEUTRAL,,,KARA,,+2/+2.,ENCHANTMENT
+1383,,,,,40571.0,,,,,,,,CFM_753e,,,Smuggling,,,NEUTRAL,,,GANGS,,+1/+1 from Grimestreet Outfitter.,ENCHANTMENT
+1390,,,,,39089.0,,,,,,,,OG_291e,,,Flickering Darkness,,,NEUTRAL,,,OG,,Shadowcaster made this 1/1.,ENCHANTMENT
+1410,,,,,1739.0,,,,,,,,CS2_074e,,,Deadly Poison,,,NEUTRAL,,,CORE,,+2 Attack.,ENCHANTMENT
+1415,,,,,153.0,,,,,,,,EX1_178ae,,,Rooted,,,DRUID,,,EXPERT1,,+5 Health and <b>Taunt</b>.,ENCHANTMENT
+1422,,,,,1685.0,,,,,,,,EX1_366e,,,Justice Served,,,PALADIN,,,EXPERT1,,Has +1/+1.,ENCHANTMENT
+1430,,,,,2496.0,,,,,,,,AT_089e,,,Boneguarded,,,NEUTRAL,,,TGT,,Increased Health.,ENCHANTMENT
+1440,,,,,2405.0,,,,,,,,PART_006a,,,Switched,,,NEUTRAL,,,GVG,,Attack and Health have been swapped by Reversing Switch.,ENCHANTMENT
+1442,,,,,1778.0,,,,,,,,EX1_561e,,,Alexstrasza's Fire,,,NEUTRAL,,,EXPERT1,,Health set to 15.,ENCHANTMENT
+1443,,,,,2248.0,,,,,,,,GVG_101e,,,Pure,,,PALADIN,,,GVG,,Increased Stats.,ENCHANTMENT
+1445,,,,,42024.0,,,,,,,,KAR_A01_02e,,,Reflection,,,NEUTRAL,,,KARA,,1/1.,ENCHANTMENT
+1449,,,,,40789.0,,,,,,,,CFM_694e,,,Trained,,,ROGUE,,,GANGS,,+2/+2.,ENCHANTMENT
+1450,,,,,294.0,,,,,,,,EX1_244e,,,Totemic Might,,,SHAMAN,,,CORE,,+2 Health.,ENCHANTMENT
+1483,,,,,40431.0,,,,,,,,CFM_626e,,,Fortitude,,,NEUTRAL,,,GANGS,,+3 Health.,ENCHANTMENT
+1484,,,,,2622.0,,,,,,,,AT_027e,,,Master Summoner,,,WARLOCK,,,TGT,,Costs (0).,ENCHANTMENT
+1487,,,,,2764.0,,,,,,,,AT_034e,,,Laced,,,ROGUE,,,TGT,,Increased Attack.,ENCHANTMENT
+1488,,,,,346.0,,,,,,,,Mekka3e,,,Emboldened!,,,NEUTRAL,,,PROMO,,Increased Stats.,ENCHANTMENT
+1489,,,,,1177.0,,,,,,,,EX1_604o,,,Berserk,,,WARRIOR,,,EXPERT1,,Increased Attack.,ENCHANTMENT
+1490,,,,,258.0,,,,,,,,EX1_590e,,,Shadows of M'uru,,,NEUTRAL,,COMMON,EXPERT1,,This minion has consumed Divine Shields and has increased Attack and Health.,ENCHANTMENT
+1493,,,,,1668.0,,,,,,,,CS2_017o,['TAG_ONE_TURN_EFFECT'],,Claws,,,DRUID,,,CORE,,Your hero has +1 Attack this turn.,ENCHANTMENT
+1494,,,,,2173.0,,,,,,,,GVG_023a,,,Extra Sharp,,,NEUTRAL,,,GVG,,+1 Attack.,ENCHANTMENT
+1496,,,,,38495.0,,,,,,,,LOEA01_11he,,,Heroic Mode,,,NEUTRAL,,,LOE,,+3/+3 if Phaerix controls the Rod.,ENCHANTMENT
+1501,,,,,42161.0,,,,,,,,CFM_699e,['TAG_ONE_TURN_EFFECT'],,Seadevil Enchant,,,NEUTRAL,,,GANGS,,,ENCHANTMENT
+1502,,,,,15323.0,,,,,,,,LOE_030e,,,Hollow,,,NEUTRAL,,,LOE,,Stats copied.,ENCHANTMENT
+1505,,,,,40290.0,,,,,,,,TB_CoOpv3_009e,['TAUNT'],,Going Nova,,,NEUTRAL,,,TB,,It's about to blow!,ENCHANTMENT
+1511,,,,,2272.0,,,,,,,,GVG_068a,['AURA'],,Metabolized Magic,,,NEUTRAL,,,GVG,,Increased Attack.,ENCHANTMENT
+1525,,,,,38954.0,,,,,,,,TB_PickYourFate_Confused,,,Fate,,,NEUTRAL,,,TB,,Attack and Health swap at end of each turn.,ENCHANTMENT
+1537,,,,,39296.0,,,,,,,,KARA_05_01e,,,Trembling Before the Wolf,,,NEUTRAL,,,KARA,,Shrunk to a 1/1.,ENCHANTMENT
+1540,,,,,9340.0,,,,,,,,LOE_017e,,,Watched,,,PALADIN,,,LOE,,Stats changed to 3/3.,ENCHANTMENT
+1541,,,,,2778.0,,,,,,,,AT_021e,,,Felrage,,,WARLOCK,,,TGT,,Increased stats.,ENCHANTMENT
+1542,,,,,40573.0,,,,,,,,CFM_754e,,,Smuggling,,,NEUTRAL,,,GANGS,,Increased stats from Grimy Gadgeteer.,ENCHANTMENT
+1553,,,,,2285.0,,,,,,,,BRM_003e,['TAG_ONE_TURN_EFFECT'],,Dragon's Might,,,MAGE,,,BRM,,Costs (3) less this turn.,ENCHANTMENT
+1556,,,,,38323.0,,,,,,,,LOE_019e,,,Unearthed Raptor,,,ROGUE,,,LOE,,,ENCHANTMENT
+1563,,,,,39507.0,,,,,,,,KAR_036e,,,Eating,,,NEUTRAL,,,KARA,,Increased Health.,ENCHANTMENT
+1572,,,,,2196.0,,,,,,,,GVG_030ae,,,Attack Mode,,,DRUID,,,GVG,,+1 Attack.,ENCHANTMENT
+1581,,,,,1718.0,,,,,,,,EX1_103e,,,Mrghlglhal,,,NEUTRAL,,,EXPERT1,,+2 Health.,ENCHANTMENT
+1583,,,,,41526.0,,,,,,,,CFM_853e,,,Smuggling,,,NEUTRAL,,,GANGS,,+1/+1 from Grimestreet Smuggler.,ENCHANTMENT
+1584,,,,,1752.0,,,,,,,,CS2_221e,,,Sharp!,,,NEUTRAL,,,EXPERT1,,+2 Attack from Spiteful Smith.,ENCHANTMENT
+1588,,,,,40960.0,,,,,,,,CFM_661e,['TAG_ONE_TURN_EFFECT'],,Shrunk,,,PRIEST,,,GANGS,,-3 Attack this turn.,ENCHANTMENT
+1589,,,,,2735.0,,,,,,,,AT_119e,,,Inspired,,,NEUTRAL,,,TGT,,Increased stats.,ENCHANTMENT
+1603,,,,,40061.0,,,,,,,,KARA_08_02eH,,,Nether Rage,,,NEUTRAL,,,KARA,,+8 Attack.,ENCHANTMENT
+1605,,,,,38974.0,,,,,,,,TB_BlingBrawl_Hero1e,,,Sharpened,,,ROGUE,,,TB,,+1 Attack,ENCHANTMENT
+1616,,,,,726.0,,,,,,,,EX1_409e,,,Upgraded,,,WARRIOR,,,EXPERT1,,+1 Attack and +1 Durability.,ENCHANTMENT
+1622,,,,,2755.0,,,,,,,,AT_068e,,,Bolstered,,,WARRIOR,,,TGT,,+2/+2.,ENCHANTMENT
+1630,,,,,40033.0,,,"['TB_ClassRandom_Warrior', 'TB_ClassRandom_Warlock', 'TB_ClassRandom_Shaman', 'TB_ClassRandom_Rogue', 'TB_ClassRandom_Priest', 'TB_ClassRandom_Paladin', 'TB_ClassRandom_Mage', 'TB_ClassRandom_Hunter', 'TB_ClassRandom_Druid']",,,,,TB_ClassRandom_PickSecondClass,,,Pick your second class,,,NEUTRAL,,,TB,,,ENCHANTMENT
+1634,,,,,39881.0,,,,,,,,TB_Superfriends001e,,,Facilitated,,,ROGUE,,,TB,,The next legend you cast this turn costs (3) less.,ENCHANTMENT
+1636,,,,,2215.0,,,,,,,,NAX15_04a,,,Slave of Kel'Thuzad,,,NEUTRAL,,,NAXX,,MINE!,ENCHANTMENT
+1637,,,,,38959.0,,,,,,,,OG_254e,,,Secretly Sated,,,NEUTRAL,,,OG,,Increased stats.,ENCHANTMENT
+1639,,,,,2331.0,,,,,,,,BRMA05_3e,,,Living Bomb,,,NEUTRAL,,,BRM,,"On Geddon's turn, deal 5 damage to all of your stuff.",ENCHANTMENT
+1645,,,,,2231.0,,,,,,,,GVG_036e,,,Powered,,,SHAMAN,,,GVG,,+2/+2.,ENCHANTMENT
+1646,,,,,40790.0,,,,,,,,CFM_342e,,,Looted Blade,,,ROGUE,,,GANGS,,+4/+4.,ENCHANTMENT
+1653,,,,,1521.0,,,,,,,,EX1_411e,,,Bloodrage,,,WARRIOR,,,EXPERT1,,No durability loss.,ENCHANTMENT
+1659,,,,,40844.0,,,,,,,,CFM_685e,,,Smuggling,,,NEUTRAL,,,GANGS,,+5/+5 from Don Han'Cho.,ENCHANTMENT
+1663,,,,,535.0,,,,,,,,EX1_507e,,,Mrgglaargl!,,,NEUTRAL,,,EXPERT1,,+2/+1 from Murloc Warleader.,ENCHANTMENT
+1664,,,,,38936.0,,,,,,,,OG_080ae,,,Bloodthistle,,,NEUTRAL,,,OG,,Costs (2) less.,ENCHANTMENT
+1668,,,,,39017.0,,,,,,,,TB_PickYourFate_9_EnchMinion,,,Bonus,,,NEUTRAL,,,TB,,Your <b>Deathrattle</b> minions have +1/+1.,ENCHANTMENT
+1670,,,,,1625.0,,,,,,,,CS2_073e2,,,Cold Blood,,,ROGUE,,,EXPERT1,,+4 Attack.,ENCHANTMENT
+1685,,,,,3000.0,,,,,,,,LOE_105e,,,Explorer's Hat,,,HUNTER,,,LOE,,+1/+1. <b>Deathrattle:</b> Add an Explorer's Hat to your hand.,ENCHANTMENT
+1693,,,,,40427.0,,,,,,,,TB_DeckRecipe_MyDeckID,,,My Deck ID,,,NEUTRAL,,,TB,,,ENCHANTMENT
+1694,,,,,36751.0,,,,,,,,TB_GreatCurves_01,,,TB_ClockworkCardDealer,,,NEUTRAL,,,TB,,,ENCHANTMENT
+1699,,,,,39293.0,,,,,,,,TB_SPT_Minion1e,,,Will of Stormwind,,,NEUTRAL,,,TB,,Stormwind is granting this card Health.,ENCHANTMENT
+1700,,,,,2679.0,,,,,,,,BRMA05_3He,,,Living Bomb,,,NEUTRAL,,,BRM,,"On Geddon's turn, deal 10 damage to all of your stuff.",ENCHANTMENT
+1701,,,,,2174.0,,,,,,,,GVG_069a,,,Repairs!,,,PRIEST,,,GVG,,+4 Health.,ENCHANTMENT
+1704,,,,,40396.0,,,,,,,,CFM_614e,,,Savage Mark,,,NEUTRAL,,,GANGS,,+1/+1.,ENCHANTMENT
+1711,,,,,2844.0,,,,,,,,AT_045ee,,,Mistcaller Deck Ench,,,NEUTRAL,,,TGT,,,ENCHANTMENT
+1712,,,,,39295.0,,,,,,,,TB_SPT_Minion2e,,,Emboldened,,,NEUTRAL,,,TB,,Standard Bearer is granting +2 Attack to this minion.,ENCHANTMENT
+1714,,,,,169.0,,,,,,,,EX1_379e,,,Repentance,,,PALADIN,,,EXPERT1,,Health reduced to 1.,ENCHANTMENT
+1715,,,,,39895.0,,,,,,,,TB_Superfriends002e,,,Draw Offensive Play,,,ROGUE,,,TB,,"Draw Offensive Play on first, third, and fifth turn",ENCHANTMENT
+1717,,,,,1626.0,,,,,,,,CS2_073e,,,Cold Blood,,,ROGUE,,,EXPERT1,,+2 Attack.,ENCHANTMENT
+1719,,,,,566.0,,,,,,,,EX1_611e,,,Trapped,,,HUNTER,,,EXPERT1,,Will be <b>Frozen</b> again at the start of the next turn.,ENCHANTMENT
+1730,,,,,42152.0,,,,,,,,TB_Blizzcon2016_LotusEnchant,,,The Jade Lotus,,,NEUTRAL,,,TB,,,ENCHANTMENT
+1732,,,,,1644.0,,,,,,,,CS2_083e,['TAG_ONE_TURN_EFFECT'],,Sharpened,,,ROGUE,,,CORE,,+1 Attack this turn.,ENCHANTMENT
+1751,,,,,1815.0,,,,,,,,FP1_023e,,,Power of the Ziggurat,,,PRIEST,,,NAXX,,+3 Health.,ENCHANTMENT
+1759,,,,,42059.0,,,,,,,,CFM_621e2,,,Goldthorn,,,NEUTRAL,,,GANGS,,+4 Health.,ENCHANTMENT
+1763,,,,,41840.0,,,,,,,,CFM_658e,,,Cut Off,,,NEUTRAL,,,GANGS,,Increased Attack.,ENCHANTMENT
+1765,,,,,616.0,,,,,,,,CS2_104e,,,Rampage,,,WARRIOR,,,EXPERT1,,+3/+3.,ENCHANTMENT
+1780,,,,,39961.0,,,,,,,,KARA_08_02e,,,Nether Rage,,,NEUTRAL,,,KARA,,+3 Attack.,ENCHANTMENT
+1787,,,,,2759.0,,,,,,,,AT_071e,,,Alexstrasza's Boon,,,WARRIOR,,,TGT,,+1 Attack and <b>Charge</b>.,ENCHANTMENT
+1791,,,,,2268.0,,,,,,,,GVG_057a,['TAG_ONE_TURN_EFFECT'],,Seal of Light,,,NEUTRAL,,,GVG,,+2 Attack this turn.,ENCHANTMENT
+1798,,,,,931.0,,,,,,,,EX1_619e,,,Equality,,,PALADIN,,,EXPERT1,,Health changed to 1.,ENCHANTMENT
+1819,,,,,516.0,,,,,,,,EX1_565o,,,Flametongue,,,SHAMAN,,,CORE,,+2 Attack from Flametongue Totem.,ENCHANTMENT
+1823,,,,,978.0,,,,,,,,CS2_181e,,,Full Strength,,,NEUTRAL,,,EXPERT1,,This minion has +2 Attack.,ENCHANTMENT
+1826,,,,,38948.0,,,,,,,,OG_284e,,,Geomancy,,,NEUTRAL,,,OG,,Has <b>Taunt</b>.,ENCHANTMENT
+1834,,,,,38589.0,,,,,,,,LOEA06_03eh,,,Animated,,,NEUTRAL,,,LOE,,+3/+3 and <b>Taunt</b>.,ENCHANTMENT
+1835,,,,,1712.0,,,,,,,,DS1_178e,,,Charge,,,HUNTER,,,CORE,,Tundra Rhino grants <b>Charge</b>.,ENCHANTMENT
+1837,,,,,803.0,,,,,,,,CS2_092e,,,Blessing of Kings,,,PALADIN,,,CORE,,+4/+4.,ENCHANTMENT
+1842,,,,,2485.0,,,,,,,,AT_061e,['TAG_ONE_TURN_EFFECT'],,Lock and Load,,,HUNTER,,,TGT,,,ENCHANTMENT
+1855,,,,,722.0,,,,,,,,DS1_070o,,,Master's Presence,,,HUNTER,,,CORE,,+2/+2 and <b>Taunt</b>.,ENCHANTMENT
+1863,,,,,185.0,,,,,,,,CS2_059o,,,Blood Pact,,,WARLOCK,,,EXPERT1,,Increased Health.,ENCHANTMENT
+1873,,,,,42087.0,,,,,,,,CFM_611e2,,,Demonic Draught,,,NEUTRAL,,,GANGS,,+3/+3.,ENCHANTMENT
+1875,,,,,38331.0,,,,,,,,OG_047e,['TAG_ONE_TURN_EFFECT'],,Spines,,,DRUID,,COMMON,OG,,+4 Attack this turn.,ENCHANTMENT
+1878,,,,,1898.0,,,,,,,,NAX13_02e,,,Polarity,,,NEUTRAL,,,NAXX,,Attack and Health swapped.,ENCHANTMENT
+1897,,,,,40832.0,,,,,,,,KAR_A02_09eH,,,Table Set,,,NEUTRAL,,,KARA,,+2/+2.,ENCHANTMENT
+1898,,,,,2516.0,,,,,,,,AT_075e,,,Might of the Hostler,,,PALADIN,,,TGT,,Warhorse Trainer is granting this minion +1 Attack.,ENCHANTMENT
+1900,,,,,38915.0,,,,,,,,OG_313e,,,Addled,,,NEUTRAL,,,OG,,+1/+1.,ENCHANTMENT
+1917,,,,,38964.0,,,,,,,,OG_121e,,,Dark Power,,,NEUTRAL,,,OG,,Your next spell costs Health instead of Mana.,ENCHANTMENT
+1919,,,,,40966.0,,,,,,,,TB_KaraPortal_003,['TAG_ONE_TURN_EFFECT'],,Saddened Hero Enchant,,,NEUTRAL,,,TB,,Give can't attack this turn to enemy minions.,ENCHANTMENT
+1923,,,,,2570.0,,,,,,,,AT_017e,,,Twilight's Embrace,,,NEUTRAL,,,TGT,,+1 Attack and <b>Taunt</b>.,ENCHANTMENT
+1935,,,,,39836.0,,,,,,,,EX1_393e,['ENRAGED'],,Enraged,,,NEUTRAL,,,EXPERT1,,+3 Attack.,ENCHANTMENT
+1938,,,,,2866.0,,,,,,,,BRMC_98e,,,Dragonlust,,,NEUTRAL,,,TB,,+3 Attack.,ENCHANTMENT
+1947,,,,,2164.0,,,,,,,,GVG_010b,,,Velen's Chosen,,,NEUTRAL,,,GVG,,+2/+4 and <b>Spell Damage +1</b>.,ENCHANTMENT
+1948,,,,,38694.0,,,,,,,,TB_PickYourFate_4_Ench,,,Pick Your Fate 4 Ench,,,NEUTRAL,,,TB,,,ENCHANTMENT
+1956,,,,,638.0,,,,,,,,EX1_158e,,,Soul of the Forest,,,DRUID,,,EXPERT1,,Deathrattle: Summon a 2/2 Treant.,ENCHANTMENT
+1980,,,,,39957.0,,,,,,,,TB_YoggServant_Enchant,,,Yogg Servant Hero Enchant,,,NEUTRAL,,,TB,,,ENCHANTMENT
+2004,,,,,2714.0,,,,,,,,AT_029e,,,Extra Stabby,,,NEUTRAL,,,TGT,,+1 Attack,ENCHANTMENT
+2006,,,,,1680.0,,,,,,,,EX1_536e,,,Upgraded,,,HUNTER,,,EXPERT1,,Increased Durability.,ENCHANTMENT
+2008,,,,,40765.0,,,,,,,,KAR_A02_06He,,,Filled Up,,,NEUTRAL,,,KARA,,+3/+3.,ENCHANTMENT
+2014,,,,,1926.0,,,,,,,,NAX11_04e,,,Mutating Injection,,,NEUTRAL,,,NAXX,,+4/+4 and <b>Taunt</b>.,ENCHANTMENT
+2042,,,,,2250.0,,,,,,,,GVG_123e,,,Overclocked,,,MAGE,,,GVG,2.0,Spell Damage +2.,ENCHANTMENT
+2045,,,,,1749.0,,,,,,,,EX1_623e,,,Infusion,,,PRIEST,,,EXPERT1,,+3 Health.,ENCHANTMENT
+2046,,,,,1544.0,,,,,,,,EX1_363e2,,,Blessing of Wisdom,,,PALADIN,,,EXPERT1,,"When this minion attacks, the enemy player draws a card.",ENCHANTMENT
+2055,,,,,1896.0,,,,,,,,NAX12_04e,['TAG_ONE_TURN_EFFECT'],,Enrage,,,NEUTRAL,,,NAXX,,+6 Attack this turn.,ENCHANTMENT
+2065,,,,,917.0,,,,,,,,CS2_063e,,,Corruption,,,WARLOCK,,,CORE,,"At the start of the corrupting player's turn, destroy this minion.",ENCHANTMENT
+2070,,,,,1676.0,,,,,,,,TU4f_004o,,,Legacy of the Emperor,,,NEUTRAL,,,MISSIONS,,Has +2/+2. <i>(+2 Attack/+2 Health)</i>,ENCHANTMENT
+2079,,,,,38692.0,,,,,,,,TB_PickYourFate_2_Ench,,,Pick Your Fate 2 Ench,,,NEUTRAL,,,TB,,,ENCHANTMENT
+2084,,,,,39829.0,,,,,,,,EX1_009e,['ENRAGED'],,Enraged,,,NEUTRAL,,,EXPERT1,,+5 Attack.,ENCHANTMENT
+2099,,,,,38336.0,,,,,,,,OG_048e,,,Mark of Y'Shaarj,,,DRUID,,COMMON,OG,,+2/+2.,ENCHANTMENT
+2100,,,,,40229.0,,,,,,,,KAR_095e,,,Well Fed,,,NEUTRAL,,,KARA,,+1/+1.,ENCHANTMENT
+2106,,,,,40967.0,,,,,,,,KARA_07_02e,,,Protecting the Gallery,,,NEUTRAL,,,KARA,,,ENCHANTMENT
+2110,,,,,38696.0,,,,,,,,TB_PickYourFate_Windfury,,,Fate,,,NEUTRAL,,,TB,,This minion has <b>Windfury</b>,ENCHANTMENT
+2115,,,,,536.0,,,,,,,,EX1_tk31,,,Mind Controlling,,,PRIEST,,COMMON,EXPERT1,,,ENCHANTMENT
+2118,,,,,38894.0,,,,,,,,OG_300e,,,Tasty!,,,NEUTRAL,,,OG,,Increased stats.,ENCHANTMENT
+2119,,,,,2703.0,,,,,,,,TB_Pilot1,,,Mystery Pilot,,,NEUTRAL,,,TB,,Who could it be?!,ENCHANTMENT
+2120,,,,,39019.0,,,,,,,,TB_PickYourFate_4_EnchMinion,['DEATHRATTLE'],,Fate,,,NEUTRAL,,,TB,,<b>Deathrattle:</b> Draw a card.,ENCHANTMENT
+2132,,,,,2991.0,,,,,,,,AT_041e,,,Call of the Wild,,,NEUTRAL,,,TGT,,Cost reduced.,ENCHANTMENT
+2139,,,,,38424.0,,,,,,,,OG_094e,,,Tentacles,,,PRIEST,,,OG,,+2/+6,ENCHANTMENT
+2146,,,,,42.0,,,,,,,,EX1_044e,,,Level Up!,,,NEUTRAL,,,EXPERT1,,Increased Attack and Health.,ENCHANTMENT
+2149,,,,,38357.0,,,,,,,,LOEA04_01e,,,Temple Escape Enchant,,,NEUTRAL,,,LOE,,,ENCHANTMENT
+2152,,,,,706.0,,,,,,,,EX1_084e,,,Charge,,,WARRIOR,,,CORE,,Warsong Commander is granting this minion +1 Attack.,ENCHANTMENT
+2157,,,,,38881.0,,,,,,,,OG_293e,,,Arrakoa Devotion,,,NEUTRAL,,,OG,,+5/+5.,ENCHANTMENT
+2160,,,,,42153.0,,,,,,,,TB_Blizzcon2016_KabalEnchant,,,The Kabal,,,NEUTRAL,,,TB,,,ENCHANTMENT
+2174,,,,,1895.0,,,,,,,,NAX12_03e,,,Extra Teeth,,,NEUTRAL,,,NAXX,,Increased Attack.,ENCHANTMENT
+2175,,,,,980.0,,,,,,,,EX1_160be,,,Leader of the Pack,,,DRUID,,,EXPERT1,,+1/+1.,ENCHANTMENT
+2176,,,,,65.0,,,,,,,,CS2_005o,['TAG_ONE_TURN_EFFECT'],,Claw,,,DRUID,,,CORE,,+2 Attack this turn.,ENCHANTMENT
+2179,,,,,38973.0,,,,,,,,OG_312e,,,Upgraded,,,WARRIOR,,,OG,,Increased Durability.,ENCHANTMENT
+2183,,,,,2865.0,,,,,,,,BRMC_86e,,,I Hear You...,,,NEUTRAL,,,TB,,Increased Attack.,ENCHANTMENT
+2184,,,,,40279.0,,,,,,,,CFM_060e,,,Mana Heist,,,NEUTRAL,,,GANGS,,Increased Attack.,ENCHANTMENT
+2203,,,,,35022.0,,,,,,,,LOE_009e,,,Sinister Power,,,WARLOCK,,,LOE,,+4/+4.,ENCHANTMENT
+2206,,,,,1930.0,,,,,,,,NAX15_01e,,,Interloper!,,,NEUTRAL,,,NAXX,,,ENCHANTMENT
+2207,,,,,38952.0,,,,,,,,TB_PickYourFate_12_Ench,,,"Fate 12 Ench, Confuse",,,NEUTRAL,,,TB,,,ENCHANTMENT
+2208,,,,,1750.0,,,,,,,,CS2_053e,,,Far Sight,,,SHAMAN,,,EXPERT1,,One of your cards costs (3) less.,ENCHANTMENT
+2209,,,,,2415.0,,,,,,,,BRM_024e,,,Large Talons,,,NEUTRAL,,,BRM,,+3/+3.,ENCHANTMENT
+2213,,,,,1811.0,,,,,,,,CS2_226e,,,Frostwolf Banner,,,NEUTRAL,,,CORE,,Increased stats.,ENCHANTMENT
+2214,,,,,1584.0,,,,,,,,XXX_009e,,,Empty Enchant,,,NEUTRAL,,COMMON,CHEAT,,This enchantment does nothing.,ENCHANTMENT
+2228,,,,,2640.0,,,,,,,,AT_057o,['TAG_ONE_TURN_EFFECT'],,Groomed,,,HUNTER,,,TGT,,<b>Immune</b> this turn.,ENCHANTMENT
+2234,,,,,39007.0,,,,,,,,OG_321e,,,Power of Faith,,,NEUTRAL,,,OG,,+1/+1.,ENCHANTMENT
+2236,,,,,39809.0,,,,,,,,GVG_051e,,,Enraged,,,WARRIOR,,,GVG,,+1 Attack,ENCHANTMENT
+2251,,,,,40481.0,,,,,,,,CFM_643e,,,Smuggling,,,WARRIOR,,,GANGS,,+1 Attack from Hobart Grapplehammer.,ENCHANTMENT
+2254,,,,,876.0,,,,,,,,EX1_178be,,,Uprooted,,,DRUID,,,EXPERT1,,+5 Attack.,ENCHANTMENT
+2268,,,,,2870.0,,,,,,,,AT_086e,,,Villainy,,,NEUTRAL,,,TGT,,Your Hero Power costs (5) more this turn.,ENCHANTMENT
+2269,,,,,2567.0,,,,,,,,AT_014e,,,Shadowfiended,,,PRIEST,,,TGT,,Costs (1) less.,ENCHANTMENT
+2274,,,,,1924.0,,,,,,,,NAX9_07e,,,Mark of the Horsemen,,,NEUTRAL,,,NAXX,,+1/+1.,ENCHANTMENT
+2278,,,,,40258.0,,,,,,,,KARA_06_01e,,,Death-Marked Love,,,NEUTRAL,,,KARA,,Julianne is <b>immune</b>.,ENCHANTMENT
+2279,,,,,1632.0,,,,,,,,EX1_001e,,,Warded,,,NEUTRAL,,,EXPERT1,,Increased Attack.,ENCHANTMENT
+2284,,,,,1866.0,,,,,,,,NAX6_03te,,,Fungal Growth,,,NEUTRAL,,,NAXX,,Increased Attack.,ENCHANTMENT
+2285,,,,,38984.0,,,,,,,,TB_BlingBrawl_Blade2e,,,Blingtron's Blade HERO,,,NEUTRAL,,,TB,,,ENCHANTMENT
+2287,,,,,38874.0,,,,,,,,OG_292e,,,Night's Devotion,,,NEUTRAL,,,OG,,+1/+1.,ENCHANTMENT
+2291,,,,,2761.0,,,,,,,,TB_013,,,Player Choice Enchant,,,NEUTRAL,,,TB,,,ENCHANTMENT
+2292,,,,,2859.0,,,,,,,,AT_028e,,,Chi Lance,,,NEUTRAL,,,TGT,,+3 Attack.,ENCHANTMENT
+2297,,,,,2538.0,,,,,,,,BRMA10_6e,,,Blind With Rage,,,NEUTRAL,,,BRM,,Increased Attack.,ENCHANTMENT
+2298,,,,,38715.0,,,,,,,,OG_202ae,,,Y'Shaarj's Strength,,,DRUID,,RARE,OG,,+3/+3.,ENCHANTMENT
+2299,,,,,1736.0,,,,,,,,GAME_003,,,Coin's Vengeance,,,NEUTRAL,,,CORE,,Going second makes your first minion stronger.,ENCHANTMENT
+2307,,,,,42257.0,,,,,,,,TB_SPT_DPromoSpellBovine1e,,,Herding,,,NEUTRAL,,,TB,,Minion has <b>Taunt</b>.,ENCHANTMENT
+2318,,,,,2975.0,,,,,,,,LOE_061e,,,Power of the Titans,,,NEUTRAL,,,LOE,,+3/+3.,ENCHANTMENT
+2320,,,,,1689.0,,,,,,,,Mekka4e,['MORPH'],,Transformed,,,NEUTRAL,,,PROMO,,Has been transformed into a chicken!,ENCHANTMENT
+2327,,,,,1621.0,,,,,,,,EX1_399e,,,Berserking,,,NEUTRAL,,,CORE,,This minion has increased Attack.,ENCHANTMENT
+2329,,,,,42058.0,,,,,,,,CFM_621e,,,Goldthorn,,,NEUTRAL,,,GANGS,,+2 Health.,ENCHANTMENT
+2345,,,,,2728.0,,,,,,,,AT_081e,,,Purified,,,PALADIN,,,TGT,,Attack changed to 1.,ENCHANTMENT
+2355,,,,,40356.0,,,,,,,,TB_CoOpv3_BOSSe,,,WHY WON'T YOU DIE!?,,,NEUTRAL,,,TB,,Now he's REALLY mad....,ENCHANTMENT
+2378,,,,,38899.0,,,,,,,,OG_303e,,,Sorcerous Devotion,,,NEUTRAL,,,OG,,+1/+1.,ENCHANTMENT
+2383,,,,,40197.0,,,,,,,,DS1_188e,,,Gladiator's Longbow enchantment,,,HUNTER,,,EXPERT1,,,ENCHANTMENT
+2385,,,,,40570.0,,,,,,,,CFM_752e,,,Smuggling,,,NEUTRAL,,,GANGS,,+3/+3 from Stolen Goods.,ENCHANTMENT
+2388,,,,,1629.0,,,,,,,,DS1_175o,,,Furious Howl,,,HUNTER,,,CORE,,+1 Attack from Timber Wolf.,ENCHANTMENT
+2393,,,,,2550.0,,,,,,,,AT_006e,,,Power of Dalaran,,,MAGE,,,TGT,,Increased Spell Damage.,ENCHANTMENT
+2397,,,,,40468.0,,,,,,,,CFM_639e,,,Smuggling,,,NEUTRAL,,,GANGS,,Increased stats from Grimestreet Enforcer.,ENCHANTMENT
+2412,,,,,38808.0,,,,,,,,TB_PickYourFate_11_Ench,,,Fate 11 Ench. Murloc,,,NEUTRAL,,,TB,,,ENCHANTMENT
+2415,,,,,2498.0,,,,,,,,AT_090e,,,Might of the Monkey,,,NEUTRAL,,,TGT,,+1/+1.,ENCHANTMENT
+2440,,,,,2506.0,,,,,,,,AT_109e,['TAG_ONE_TURN_EFFECT'],,Inspired,,,NEUTRAL,,,TGT,,Can attack this turn.,ENCHANTMENT
+2441,,,,,38435.0,,,,,,,,OG_102e,,,Power Transfer,,,NEUTRAL,,,OG,,Swapped stats.,ENCHANTMENT
+2442,,,,,17261.0,,,,,,,,LOE_073e,,,Fossilized,,,NEUTRAL,,,LOE,,Has <b>Taunt</b>.,ENCHANTMENT
+2446,,,,,942.0,,,,,,,,CS2_038e,,,Ancestral Spirit,,,SHAMAN,,,EXPERT1,,<b>Deathrattle:</b> Resummon this minion.,ENCHANTMENT
+2449,,,,,39810.0,,,,,,,,BRMA12_8te,,,Draconic Lineage,,,NEUTRAL,,,BRM,,+2/+2,ENCHANTMENT
+2450,,,,,1814.0,,,,,,,,FP1_005e,,,Consume,,,NEUTRAL,,,NAXX,,Increased stats.,ENCHANTMENT
+2451,,,,,1088.0,,,,,,,,EX1_360e,,,Humility,,,PALADIN,,,CORE,,Attack has been changed to 1.,ENCHANTMENT
+2453,,,,,2824.0,,,,,,,,AT_065e,,,King's Defender,,,NEUTRAL,,,TGT,,+1 Durability.,ENCHANTMENT
+2457,,,,,705.0,,,,,,,,EX1_162o,,,Strength of the Pack,,,NEUTRAL,,,EXPERT1,,+1 Attack from Dire Wolf Alpha.,ENCHANTMENT
+2461,,,,,2699.0,,,,,,,,TB_010,,,Deckbuilding Enchant,,,NEUTRAL,,,TB,,,ENCHANTMENT
+2472,,,,,2427.0,,,,,,,,BRMA16_5e,,,I hear you...,,,NEUTRAL,,,BRM,,Increased Attack.,ENCHANTMENT
+2480,,,,,38919.0,,,,,,,,OG_315e,,,Reforged,,,NEUTRAL,,,OG,,+1/+1.,ENCHANTMENT
+2481,,,,,39001.0,,,,,,,,OG_023t,,,Primally Infused,,,NEUTRAL,,,OG,,Increased stats.,ENCHANTMENT
+2486,,,,,1036.0,,,,,,,,tt_004o,,,Cannibalize,,,NEUTRAL,,,EXPERT1,,Increased Attack.,ENCHANTMENT
+2500,,,,,789.0,,,,,,,,CS2_011o,['TAG_ONE_TURN_EFFECT'],,Savage Roar,,,DRUID,,,CORE,,+2 Attack this turn.,ENCHANTMENT
+2509,,,,,38328.0,,,,,,,,OG_045a,,,Nerubian Spores,,,DRUID,,COMMON,OG,,Get a Beast when this dies.,ENCHANTMENT
+2516,,,,,40293.0,,,,,,,,CFM_064e,,,Size Increase,,,NEUTRAL,,,GANGS,,Increased stats.,ENCHANTMENT
+2517,,,,,39038.0,,,,,,,,TB_PickYourFate_7_Ench_2nd,,,Fate 7 Ench 2nd,,,NEUTRAL,,,TB,,,ENCHANTMENT
+2522,,,,,39837.0,,,,,,,,EX1_412e,['ENRAGED'],,Enraged,,,NEUTRAL,,,EXPERT1,,+1 Attack and <b>Windfury</b>.,ENCHANTMENT
+2525,,,,,38860.0,,,,,,,,OG_282e,['BATTLECRY'],,Devotion of the Blade,,,NEUTRAL,,,OG,,Increased stats.,ENCHANTMENT
+2531,,,,,38949.0,,,,,,,,TB_AllMinionsTauntCharge,,,Give Taunt and Charge,,,NEUTRAL,,,TB,,This minion is granted <b>Taunt</b> and <b>Charge</b>.,ENCHANTMENT
+2540,,,,,2601.0,,,,,,,,BRM_014e,,,Power Rager,,,HUNTER,,,BRM,,+3/+3,ENCHANTMENT
+2541,,,,,2867.0,,,,,,,,AT_024e,,,Dark Fusion,,,NEUTRAL,,,TGT,,+3/+3.,ENCHANTMENT
+2542,,,,,40640.0,,,,,,,,CFM_816e,,,Get Big,,,NEUTRAL,,,GANGS,,+2/+2.,ENCHANTMENT
+2547,,,,,1756.0,,,,,,,,EX1_128e,,,Concealed,,,ROGUE,,,EXPERT1,,Stealthed until your next turn.,ENCHANTMENT
+2550,,,,,2593.0,,,,,,,,BRMA15_2He,,,Potion of Might,,,NEUTRAL,,,BRM,,+2/+2.,ENCHANTMENT
+2554,,,,,26.0,,,,,,,,EX1_596e,,,Demonfire,,,WARLOCK,,COMMON,EXPERT1,,This Demon has +2/+2.,ENCHANTMENT
+2568,,,,,40887.0,,,,,,,,CFM_651e,,,Extra Sharp,,,NEUTRAL,,,GANGS,,+1 Attack.,ENCHANTMENT
+2577,,,,,41957.0,,,,,,,,CFM_687e,['TAG_ONE_TURN_EFFECT'],,Free Spell,,,MAGE,,,GANGS,,The next spell you cast this turn costs (0).,ENCHANTMENT
+2579,,,,,20642.0,,,"['CS1_042', 'CS2_171']",,,,,TBUD_1,,,TBUD Summon Early Minion,,,NEUTRAL,,,TB,,"Each turn, if you have less health then a your opponent, summon a free minion",ENCHANTMENT
+2580,,,,,40965.0,,,,,,,,KARA_13_19e,['TAG_ONE_TURN_EFFECT'],,Saddened,,,NEUTRAL,,,TB,,Can't attack this turn.,ENCHANTMENT
+2582,,,,,388.0,,,,,,,,EX1_019e,,,Cleric's Blessing,,,PRIEST,,,CORE,,+1/+1.,ENCHANTMENT
+2583,,,,,41127.0,,,,,,,,CFM_026e,,,Smuggling,,,HUNTER,,,GANGS,,+2/+2 from Hidden Cache.,ENCHANTMENT
+2584,,,,,39717.0,,,,,,,,KAR_077e,,,Silver Might,,,NEUTRAL,,,KARA,,+2/+2.,ENCHANTMENT
+2591,,,,,40064.0,,,,,,,,KAR_114e,,,Incredible Impression,,,NEUTRAL,,,KARA,,Attack and Health set to 1.,ENCHANTMENT
+2597,,,,,40530.0,,,,,,,,CFM_650e,,,Smuggling,,,NEUTRAL,,,GANGS,,+1/+1 from Grimscale Chum.,ENCHANTMENT
+2606,,,,,240.0,,,,,,,,CS2_222o,,,Might of Stormwind,,,NEUTRAL,,,CORE,,Has +1/+1.,ENCHANTMENT
+2627,,,,,39676.0,,,,,,,,TB_KTRAF_10e,,,Dark Power,,,NEUTRAL,,,TB,,Granted power from Noth,ENCHANTMENT
+2631,,,,,38691.0,,,,,,,,TB_PickYourFate_1_Ench,,,Pick Your Fate 1 Ench,,,NEUTRAL,,,TB,,,ENCHANTMENT
+2633,,,,,1635.0,,,,,,,,EX1_246e,['MORPH'],,Hexxed,,,SHAMAN,,,CORE,,This minion has been transformed!,ENCHANTMENT
+2638,,,,,2501.0,,,,,,,,AT_096e,,,Wound Up,,,NEUTRAL,,,TGT,,+1/+1.,ENCHANTMENT
+2639,,,,,2404.0,,,,,,,,GVG_063a,,,Retribution,,,NEUTRAL,,,GVG,,Increased Attack,ENCHANTMENT
+2640,,,,,39838.0,,,,,,,,EX1_390e,['ENRAGED'],,Enraged,,,NEUTRAL,,,EXPERT1,,+3 Attack.,ENCHANTMENT
+2652,,,,,38474.0,,,,,,,,OG_123e,,,Shifting,,,NEUTRAL,,,OG,,Transforming into random minions.,ENCHANTMENT
+2656,,,,,39294.0,,,,,,,,TB_SPT_Minion3e,,,Strength of Stormwind,,,NEUTRAL,,,TB,,Stormwind is granting this card Attack and Health.,ENCHANTMENT
+2658,,,,,40024.0,,,,,,,,KARA_08_03e,,,Nether Breath,,,NEUTRAL,,,KARA,,Health changed to 1.,ENCHANTMENT
+2669,,,,,42054.0,,,,,,,,CFM_851e,,,The Scoop,,,NEUTRAL,,,GANGS,,Increased stats.,ENCHANTMENT
+2684,,,,,39702.0,,,,,,,,KARA_08_06e2,,,Blue Beam,,,NEUTRAL,,,KARA,,Only take 1 damage at a time.,ENCHANTMENT
+2692,,,,,2163.0,,,,,,,,NAX15_01He,,,Interloper!,,,NEUTRAL,,,NAXX,,,ENCHANTMENT
+2693,,,,,2863.0,,,,,,,,BRMC_100e,,,Living Bomb,,,NEUTRAL,,,TB,,"On Ragnaros' turn, deal 5 damage to this side of the board.",ENCHANTMENT
+2708,,,,,668.0,,,,,,,,EX1_549o,['TAG_ONE_TURN_EFFECT'],,Bestial Wrath,,,HUNTER,,,EXPERT1,,+2 Attack and <b>Immune</b> this turn.,ENCHANTMENT
+2709,,,,,2183.0,,,,,,,,GVG_076a,,,Pistons,,,NEUTRAL,,,GVG,,Increased Attack.,ENCHANTMENT
+2713,,,,,2370.0,,,,,,,,BRM_012e,,,On Fire!,,,NEUTRAL,,,BRM,,Increased Attack.,ENCHANTMENT
+2715,,,,,208.0,,,,,,,,DREAM_05e,,,Nightmare,,,NEUTRAL,,,EXPERT1,,"This minion has +5/+5, but will be destroyed soon.",ENCHANTMENT
+2721,,,,,1096.0,,,,,,,,CS2_046e,['TAG_ONE_TURN_EFFECT'],,Bloodlust,,,SHAMAN,,,CORE,,+3 Attack this turn.,ENCHANTMENT
+2723,,,,,1664.0,,,,,,,,EX1_059e,,,Experiments!,,,NEUTRAL,,,EXPERT1,,Attack and Health have been swapped by Crazed Alchemist.,ENCHANTMENT
+2737,,,,,1977.0,,,,,,,,NAX13_03e,,,Supercharged,,,NEUTRAL,,,NAXX,,+2 Health.,ENCHANTMENT
+2740,,,,,2372.0,,,,,,,,PART_004e,,,Cloaked,,,NEUTRAL,,,GVG,,Stealthed until your next turn.,ENCHANTMENT
+2742,,,,,37456.0,,,"['GVG_069', 'GVG_079', 'GVG_034', 'GVG_048', 'GVG_049', 'GVG_088']",,,,,TB_MechWar_CommonCards,,,TBMechWarCommonCards,,,NEUTRAL,,,TB,,,ENCHANTMENT
+2746,,,,,40533.0,,,,,,,,TB_CoOpv3_BOSS2e,['ENRAGED'],,Getting Angry....,,,NEUTRAL,,,TB,,Now he's mad....,ENCHANTMENT
+2754,,,,,38515.0,,,,,,,,OG_138e,,,Will of the Vizier,,,NEUTRAL,,,OG,,Reduced Cost.,ENCHANTMENT
+2756,,,,,39006.0,,,,,,,,OG_302e,,,Soul Power,,,NEUTRAL,,,OG,,Increased Attack.,ENCHANTMENT
+2773,,,,,450.0,,,,,,,,EX1_055o,['TAG_ONE_TURN_EFFECT'],,Empowered,,,NEUTRAL,,,EXPERT1,,Mana Addict has increased Attack.,ENCHANTMENT
+2785,,,,,10081.0,,,,,,,,TB_007e,,,Deviate Switch,,,NEUTRAL,,,TB,,Attack and Health have been swapped by Deviate Banana.,ENCHANTMENT
+2800,,,,,1523.0,,,,,,,,EX1_355e,,,Blessed Champion,,,PALADIN,,,EXPERT1,,This minion's Attack has been doubled.,ENCHANTMENT
+2807,,,,,1917.0,,,,,,,,FP1_030e,,,Necrotic Aura,,,NEUTRAL,,,NAXX,,Your spells cost (5) more this turn.,ENCHANTMENT
+2808,,,,,38806.0,,,,,,,,TB_PickYourFate_10_Ench,,,Fate,,,NEUTRAL,,,TB,,,ENCHANTMENT
+2811,,,,,39016.0,,,,,,,,TB_PickYourFate_10_EnchMinion,,,Bonus,,,NEUTRAL,,,TB,,Your <b>Battlecry</b> minions have +1/+1.,ENCHANTMENT
+2813,,,,,2534.0,,,,,,,,AT_083e,['TAG_ONE_TURN_EFFECT'],,Dragonhawkery,,,NEUTRAL,,,TGT,,<b>Windfury</b> this turn.,ENCHANTMENT
+2814,,,,,2732.0,,,,,,,,AT_066e,,,Forges of Orgrimmar,,,WARRIOR,,,TGT,,Increased Attack.,ENCHANTMENT
+2816,,,,,38651.0,,,,,,,,OG_195e,,,Enormous,,,NEUTRAL,,,OG,,+2/+2.,ENCHANTMENT
+2817,,,,,40224.0,,,,,,,,XXX_111e,,,"All Charge, All Windfury, All The Time",,,NEUTRAL,,,CHEAT,,Your minions always have <b>Charge</b> and <b>Windfury</b>,ENCHANTMENT
